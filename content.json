@@ -3,14 +3,14 @@
         {
             "id": "ancient",
             "title": "Ancient Antiquity",
-            "description": "From the dawn of civilization to the fall of Rome.",
+            "description": "The cradle of humanity, where the first cities rose from the fertile silt of the Tigris and Euphrates. From the monumental pyramids of Giza to the philosophical debates of the Athenian Agora, this era saw the birth of law, writing, and the foundations of modern science. Witness the rise and fall of the Roman Empire, whose roads and culture still echo through the Western world today.",
             "yearRange": "3000 BCE - 476 CE",
             "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/ancient_era.png"
         },
         {
             "id": "medieval",
             "title": "The Middle Ages",
-            "description": "Feudalism, knights, and the reshaping of Europe.",
+            "description": "A thousand years of transformation, often misunderstood as a 'Dark Age.' It was a visionary time of gothic cathedrals reaching for the heavens, the chivalric codes of knights, and the rise of the first universities. Explore a world reshaped by the Viking expansions, the silk road's bustling trade, and the complex tapestry of feudalism that bridged the gap between the ancient world and the Renaissance.",
             "yearRange": "476 CE - 1450 CE",
             "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/medieval_era.png"
         }
@@ -19,7 +19,7 @@
         {
             "id": "t_alexandria",
             "title": "Library of Alexandria",
-            "description": "The lost center of all knowledge.",
+            "description": "A radiant beacon of intellect where the greatest minds of antiquity gathered to catalog every known scrap of human knowledge.",
             "eraId": "ancient",
             "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/library_topic.png",
             "isUnlocked": true
@@ -27,7 +27,7 @@
         {
             "id": "t_rome_punic",
             "title": "The Punic Wars",
-            "description": "Rome vs. Carthage: The battle for the Mediterranean.",
+            "description": "An epic clash of titans between the rising Roman Republic and the seafaring empire of Carthage for total control of the Mediterranean seafloor.",
             "eraId": "ancient",
             "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/punic_wars_hannibal.png",
             "isUnlocked": true
@@ -35,7 +35,7 @@
         {
             "id": "t_vikings",
             "title": "The Viking Age",
-            "description": "Raiders, traders, and explorers of the North.",
+            "description": "Far more than just raiders, the Vikings were master shipbuilders, cunning traders, and the boldest explorers to traverse the North Atlantic.",
             "eraId": "medieval",
             "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/vikings_longship.png",
             "isUnlocked": true
@@ -43,7 +43,7 @@
         {
             "id": "t_knights",
             "title": "Knights & Chivalry",
-            "description": "The code of honor and warfare in feudal Europe.",
+            "description": "Step into the world of iron-clad warriors, where combat was an art form and the code of chivalry governed the boundaries of honor and war.",
             "eraId": "medieval",
             "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/medieval_knight_tournament.png",
             "isUnlocked": true
@@ -53,32 +53,62 @@
         {
             "id": "l_alex_1",
             "topicId": "t_alexandria",
-            "title": "The Great Library",
-            "content": "The Library of Alexandria was one of the largest and most significant libraries of the ancient world.",
+            "title": "The Temple of the Muses",
+            "content": "Founded by the Ptolemaic dynasty in Egypt, the Mouseion (Temple of the Muses) was the heart of the library. It wasn't just a place for books; it was a research institute where scholars like Eratosthenes and Archimedes lived, studied, and revolutionized our understanding of geometry and geography. To fill its shelves, the Ptolemies were known to search every ship entering the port of Alexandria, confiscating any scrolls found, copying them, and often returning only the copies to the owners.\n\nAt its peak, it housed hundreds of thousands of papyrus scrolls, representing the collected wisdom of the Mediterranean, India, and beyond. It was a living testament to the belief that knowledge was the ultimate power.",
             "sortOrder": 1,
-            "durationMinutes": 2,
-            "funFact": "It held between 40,000 and 400,000 scrolls.",
+            "durationMinutes": 3,
+            "funFact": "International ships were searched for books; the original was kept while a copy was returned!",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/library_topic.png"
+        },
+        {
+            "id": "l_alex_2",
+            "topicId": "t_alexandria",
+            "title": "The Mystery of the Flames",
+            "content": "One of history's greatest tragedies is the disappearance of the Great Library. Contrary to popular belief, it wasn't destroyed in a single catastrophic fire. Instead, it suffered a slow decline punctuated by multiple fires, including one during Julius Caesar's siege of the city in 48 BCE. \n\nLoss after loss—to fire, religious conflict, and simple neglect—resulted in the disappearance of countless works, including the lost plays of Sophocles and the definitive histories of the Etruscans. Today, it serves as a chilling reminder of how fragile human heritage can be when not actively protected.",
+            "sortOrder": 2,
+            "durationMinutes": 3,
+            "funFact": "The library arguably disappeared through neglect and smaller fires rather than one huge blaze.",
             "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/library_topic.png"
         },
         {
             "id": "l_punic_1",
             "topicId": "t_rome_punic",
-            "title": "Hannibal's Crossing",
-            "content": "Hannibal Barca led war elephants across the Alps to surprise Rome.",
+            "title": "Hannibal's Gamble",
+            "content": "Hannibal Barca, Carthage's most brilliant general, realized that to defeat Rome, he had to take the war to their doorstep. In an act of pure audacity, he led an army of 40,000 men and 37 war elephants across the snowy, treacherous peaks of the Alps. \n\nHe fought through hostile mountain tribes and sub-zero temperatures, arriving in Italy with just a fraction of his force but catching the Roman legions completely off guard. This bold maneuver remains one of history's most celebrated military feats, proving that nature is no barrier to a determined commander.",
             "sortOrder": 1,
+            "durationMinutes": 4,
+            "funFact": "Only one of Hannibal's 37 elephants survived the entire campaign in Italy!",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/punic_wars_hannibal.png"
+        },
+        {
+            "id": "l_punic_2",
+            "topicId": "t_rome_punic",
+            "title": "The Battle of Cannae",
+            "content": "At Cannae, Hannibal executed what many historians call the 'perfect battle.' Despite being heavily outnumbered, he used a crescent formation to trap the Roman legions, drawing them into a deadly encirclement. \n\nIn a single day, nearly 50,000 Roman soldiers were killed, shattering Rome's military confidence. It was a masterclass in tactical flexibility, where brain triumphed over brawn, and it forced Rome to change its entire strategy of warfare to survive.",
+            "sortOrder": 2,
             "durationMinutes": 3,
-            "funFact": "It took 15 days and he lost nearly half his army.",
+            "funFact": "Cannae is still studied at military academies like West Point as the ultimate example of encirclement.",
             "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/punic_wars_hannibal.png"
         },
         {
             "id": "l_vikings_1",
             "topicId": "t_vikings",
-            "title": "Longships",
-            "content": "The Viking longship allowed them to sail oceans and navigate shallow rivers.",
+            "title": "The Dragon of the Seas",
+            "content": "The Viking longship was a technological marvel of the 9th century. Its shallow draft allowed it to navigate not only open oceans but also shallow rivers deep into the heart of Europe. This meant no city, no matter how far inland, was safe from a sudden Norse arrival. \n\nClinker-built for flexibility and tipped with terrifying dragon heads, these ships were both high-speed transports and psychological weapons. They were so well-designed that modern replicas have proven they could cross the Atlantic with surprising stability.",
             "sortOrder": 1,
-            "durationMinutes": 2,
-            "funFact": "Vikings reached North America 500 years before Columbus.",
+            "durationMinutes": 3,
+            "funFact": "Vikings used 'sunstones'—crystals that polarized light—to navigate even on cloudy days.",
             "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/vikings_longship.png"
+        },
+        {
+            "id": "l_knights_1",
+            "topicId": "t_knights",
+            "title": "The Path to Knighthood",
+            "content": "Knighthood was a lifelong journey that began at age seven. As a 'Page,' a boy learned etiquette and basic combat. At fourteen, he became a 'Squire,' serving a knight directly, caring for horses, and learning the complex art of mounted warfare. \n\nThe journey culminated in a 'dubbing' ceremony, where the squire was knighted—often after a night of prayer and purification. It was an elite brotherhood, expensive to maintain and demanding in discipline, defining the social and military order of the Middle Ages.",
+            "sortOrder": 1,
+            "durationMinutes": 3,
+            "funFact": "The full suit of plate armor actually weighed less than the gear a modern infantry soldier carries!",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/medieval_knight_tournament.png"
         }
     ]
 }
