@@ -1,0 +1,84 @@
+{
+    "eras": [
+        {
+            "id": "ancient",
+            "title": "Ancient Antiquity",
+            "description": "From the dawn of civilization to the fall of Rome.",
+            "yearRange": "3000 BCE - 476 CE",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/ancient_era.png"
+        },
+        {
+            "id": "medieval",
+            "title": "The Middle Ages",
+            "description": "Feudalism, knights, and the reshaping of Europe.",
+            "yearRange": "476 CE - 1450 CE",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/medieval_era.png"
+        }
+    ],
+    "topics": [
+        {
+            "id": "t_alexandria",
+            "title": "Library of Alexandria",
+            "description": "The lost center of all knowledge.",
+            "eraId": "ancient",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/library_topic.png",
+            "isUnlocked": true
+        },
+        {
+            "id": "t_rome_punic",
+            "title": "The Punic Wars",
+            "description": "Rome vs. Carthage: The battle for the Mediterranean.",
+            "eraId": "ancient",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/punic_wars_hannibal.png",
+            "isUnlocked": true
+        },
+        {
+            "id": "t_vikings",
+            "title": "The Viking Age",
+            "description": "Raiders, traders, and explorers of the North.",
+            "eraId": "medieval",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/vikings_longship.png",
+            "isUnlocked": true
+        },
+        {
+            "id": "t_knights",
+            "title": "Knights & Chivalry",
+            "description": "The code of honor and warfare in feudal Europe.",
+            "eraId": "medieval",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/medieval_knight_tournament.png",
+            "isUnlocked": true
+        }
+    ],
+    "lessons": [
+        {
+            "id": "l_alex_1",
+            "topicId": "t_alexandria",
+            "title": "The Great Library",
+            "content": "The Library of Alexandria was one of the largest and most significant libraries of the ancient world.",
+            "sortOrder": 1,
+            "durationMinutes": 2,
+            "funFact": "It held between 40,000 and 400,000 scrolls.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/library_topic.png"
+        },
+        {
+            "id": "l_punic_1",
+            "topicId": "t_rome_punic",
+            "title": "Hannibal's Crossing",
+            "content": "Hannibal Barca led war elephants across the Alps to surprise Rome.",
+            "sortOrder": 1,
+            "durationMinutes": 3,
+            "funFact": "It took 15 days and he lost nearly half his army.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/punic_wars_hannibal.png"
+        },
+        {
+            "id": "l_vikings_1",
+            "topicId": "t_vikings",
+            "title": "Longships",
+            "content": "The Viking longship allowed them to sail oceans and navigate shallow rivers.",
+            "sortOrder": 1,
+            "durationMinutes": 2,
+            "funFact": "Vikings reached North America 500 years before Columbus.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/vikings_longship.png"
+        }
+    ]
+}
