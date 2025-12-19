@@ -3,49 +3,118 @@
         {
             "id": "ancient",
             "title": "Ancient Antiquity",
-            "description": "The cradle of humanity, where the first cities rose from the fertile silt of the Tigris and Euphrates. From the monumental pyramids of Giza to the philosophical debates of the Athenian Agora, this era saw the birth of law, writing, and the foundations of modern science. Witness the rise and fall of the Roman Empire, whose roads and culture still echo through the Western world today.",
+            "description": "Journey back to the dawn of civilization. From the sun-drenched pyramids of Egypt to the philosophical academies of Greece and the imperial might of Rome, this era laid the foundations of modern society, law, and culture.",
             "yearRange": "3000 BCE - 476 CE",
-            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/ancient_era.png"
+            "imageKey": "ancient_era.png"
         },
         {
             "id": "medieval",
             "title": "The Middle Ages",
-            "description": "A thousand years of transformation, often misunderstood as a 'Dark Age.' It was a visionary time of gothic cathedrals reaching for the heavens, the chivalric codes of knights, and the rise of the first universities. Explore a world reshaped by the Viking expansions, the silk road's bustling trade, and the complex tapestry of feudalism that bridged the gap between the ancient world and the Renaissance.",
+            "description": "Explore a millennium of transformation. Often misunderstood as a 'Dark Age', this period saw the rise of majestic cathedrals, the feudal system, the spread of universities, and the clash of empires during the Crusades.",
             "yearRange": "476 CE - 1450 CE",
-            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/medieval_era.png"
+            "imageKey": "medieval_era.png"
+        },
+        {
+            "id": "renaissance",
+            "title": "The Renaissance",
+            "description": "Witness the rebirth of art, science, and human potential. Emerging from Italy, this movement swept across Europe, challenging old dogmas and sparking a golden age of creativity and exploration.",
+            "yearRange": "1300 CE - 1600 CE",
+            "imageKey": "renaissance_era.png"
+        },
+        {
+            "id": "industrial",
+            "title": "Industrial Revolution",
+            "description": "The world shifts from hand tools to steam machines. Witness the rise of factories, urbanization, and the technological leaps that created the modern economic world.",
+            "yearRange": "1760 CE - 1840 CE",
+            "imageKey": "industrial_era.png"
+        },
+        {
+            "id": "modern",
+            "title": "The Modern Era",
+            "description": "A century of speed, conflict, and connection. From the trenches of World War I to the moon landing and the digital revolution, humanity reshapes the planet.",
+            "yearRange": "1900 CE - Present",
+            "imageKey": "modern_era.png"
         }
     ],
     "topics": [
         {
             "id": "t_alexandria",
             "title": "Library of Alexandria",
-            "description": "A radiant beacon of intellect where the greatest minds of antiquity gathered to catalog every known scrap of human knowledge.",
+            "description": "The intellectual capital of the ancient world, where scholars gathered to map the stars and catalogue human knowledge.",
             "eraId": "ancient",
-            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/library_topic.png",
+            "imageKey": "library_topic.png",
             "isUnlocked": true
         },
         {
             "id": "t_rome_punic",
             "title": "The Punic Wars",
-            "description": "An epic clash of titans between the rising Roman Republic and the seafaring empire of Carthage for total control of the Mediterranean seafloor.",
+            "description": "The epic duel between Rome and Carthage that determined who would rule the Mediterranean for centuries to come.",
             "eraId": "ancient",
-            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/punic_wars_hannibal.png",
+            "imageKey": "punic_wars_hannibal.png",
             "isUnlocked": true
         },
         {
             "id": "t_vikings",
             "title": "The Viking Age",
-            "description": "Far more than just raiders, the Vikings were master shipbuilders, cunning traders, and the boldest explorers to traverse the North Atlantic.",
+            "description": "Beyond the raids: Discover the master shipbuilders, explorers, and traders who connected continents.",
             "eraId": "medieval",
-            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/vikings_longship.png",
+            "imageKey": "vikings_longship.png",
             "isUnlocked": true
         },
         {
             "id": "t_knights",
             "title": "Knights & Chivalry",
-            "description": "Step into the world of iron-clad warriors, where combat was an art form and the code of chivalry governed the boundaries of honor and war.",
+            "description": "More than just armor and swords—learn about the complex social code that governed welfare, courtly love, and tournaments.",
             "eraId": "medieval",
-            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/medieval_knight_tournament.png",
+            "imageKey": "medieval_knight_tournament.png",
+            "isUnlocked": true
+        },
+        {
+            "id": "t_davinci",
+            "title": "Leonardo da Vinci",
+            "description": "The ultimate Renaissance Man: painter, engineer, anatomist, and visionary.",
+            "eraId": "renaissance",
+            "imageKey": "topic_davinci.png",
+            "isUnlocked": true
+        },
+        {
+            "id": "t_exploration",
+            "title": "Age of Discovery",
+            "description": "Brave sailors venture into the unknown, connecting the globe and changing maps forever.",
+            "eraId": "renaissance",
+            "imageKey": "topic_exploration.png",
+            "isUnlocked": true
+        },
+        {
+            "id": "t_steam",
+            "title": "Steam Power",
+            "description": "How boiling water and brass gears powered trains, factories, and a revolution.",
+            "eraId": "industrial",
+            "imageKey": "topic_steam.png",
+            "isUnlocked": true
+        },
+        {
+            "id": "t_factory",
+            "title": "Urbanization",
+            "description": "From farm to factory: The massive migration that built the crowded, smoggy cities of the 19th century.",
+            "eraId": "industrial",
+            "imageKey": "topic_factory.png",
+            "isUnlocked": true
+        },
+        {
+            "id": "t_ww1",
+            "title": "The Great War",
+            "description": "The war to end all wars introduced tanks, airplanes, and a new scale of tragedy.",
+            "eraId": "modern",
+            "imageKey": "topic_ww1.png",
+            "isUnlocked": true
+        },
+        {
+            "id": "t_space",
+            "title": "Space Race",
+            "description": "Cold War rivals compete to conquer the final frontier, culminating in a giant leap for mankind.",
+            "eraId": "modern",
+            "imageKey": "topic_space.png",
             "isUnlocked": true
         }
     ],
@@ -53,62 +122,305 @@
         {
             "id": "l_alex_1",
             "topicId": "t_alexandria",
-            "title": "The Temple of the Muses",
-            "content": "Founded by the Ptolemaic dynasty in Egypt, the Mouseion (Temple of the Muses) was the heart of the library. It wasn't just a place for books; it was a research institute where scholars like Eratosthenes and Archimedes lived, studied, and revolutionized our understanding of geometry and geography. To fill its shelves, the Ptolemies were known to search every ship entering the port of Alexandria, confiscating any scrolls found, copying them, and often returning only the copies to the owners.\n\nAt its peak, it housed hundreds of thousands of papyrus scrolls, representing the collected wisdom of the Mediterranean, India, and beyond. It was a living testament to the belief that knowledge was the ultimate power.",
+            "title": "The Universal Library",
+            "content": "Founded by Ptolemy I Soter in the 3rd century BCE, the Library of Alexandria was more than just a collection of books; it was a research institute known as the Mouseion. Scholars invited from across the Mediterranean lived there tax-free, conducting experiments in physics, astronomy, and anatomy.\n\nIts goal was ambitious: to collect every book in the world. Ships arriving in Alexandria were searched, and any books found were confiscated, copied, and the copies returned to the owners while the originals were kept for the library.",
             "sortOrder": 1,
             "durationMinutes": 3,
-            "funFact": "International ships were searched for books; the original was kept while a copy was returned!",
-            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/library_topic.png"
+            "funFact": "The library may have held up to 400,000 papyrus scrolls at its peak.",
+            "imageKey": "library_topic.png"
         },
         {
             "id": "l_alex_2",
             "topicId": "t_alexandria",
-            "title": "The Mystery of the Flames",
-            "content": "One of history's greatest tragedies is the disappearance of the Great Library. Contrary to popular belief, it wasn't destroyed in a single catastrophic fire. Instead, it suffered a slow decline punctuated by multiple fires, including one during Julius Caesar's siege of the city in 48 BCE. \n\nLoss after loss—to fire, religious conflict, and simple neglect—resulted in the disappearance of countless works, including the lost plays of Sophocles and the definitive histories of the Etruscans. Today, it serves as a chilling reminder of how fragile human heritage can be when not actively protected.",
+            "title": "Mathematical Masterminds",
+            "content": "Some of history's greatest minds walked these halls. Euclid wrote his 'Elements' here, establishing the rules of geometry still used today. Eratosthenes, the chief librarian, calculated the circumference of the Earth with astonishing accuracy using only shadows and geometry.\n\nLater, Hypatia, one of the first female mathematicians and astronomers, taught philosophy and astronomy, symbolizing the library's legacy of intellectual freedom before its tragic decline.",
             "sortOrder": 2,
+            "durationMinutes": 4,
+            "funFact": "Archimedes is said to have invented his famous water screw while studying here.",
+            "imageKey": "library_topic.png"
+        },
+        {
+            "id": "l_alex_3",
+            "topicId": "t_alexandria",
+            "title": "The Lost Legacy",
+            "content": "The library didn't burn down in a single day, as often mythologized. It suffered a series of catastrophes over centuries. Julius Caesar accidentally set fire to part of it during a siege in 48 BCE. Later, religious riots and budget cuts under Roman rule further diminished its collection.\n\nBy the 4th century CE, the great institution had faded, but its impact remained. It set the precedent for universities and the preservation of knowledge that would eventually spark the Renaissance.",
+            "sortOrder": 3,
             "durationMinutes": 3,
-            "funFact": "The library arguably disappeared through neglect and smaller fires rather than one huge blaze.",
-            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/library_topic.png"
+            "funFact": "No architectural remains of the library have ever been found.",
+            "imageKey": "library_topic.png"
         },
         {
             "id": "l_punic_1",
             "topicId": "t_rome_punic",
-            "title": "Hannibal's Gamble",
-            "content": "Hannibal Barca, Carthage's most brilliant general, realized that to defeat Rome, he had to take the war to their doorstep. In an act of pure audacity, he led an army of 40,000 men and 37 war elephants across the snowy, treacherous peaks of the Alps. \n\nHe fought through hostile mountain tribes and sub-zero temperatures, arriving in Italy with just a fraction of his force but catching the Roman legions completely off guard. This bold maneuver remains one of history's most celebrated military feats, proving that nature is no barrier to a determined commander.",
+            "title": "Rome vs. Carthage",
+            "content": "In 264 BCE, Rome was a land power and Carthage was the master of the seas. Their conflict, known as the Punic Wars, began over control of Sicily but escalated into a fight for survival. Carthage boasted a massive navy and vast wealth from trade, while Rome relied on its disciplined legions and stubborn refusal to admit defeat.\n\nThe First Punic War lasted 23 years, forcing Rome to build its first navy from scratch, eventually finding a way to turn sea battles into land battles using the 'corvus' boarding bridge.",
             "sortOrder": 1,
-            "durationMinutes": 4,
-            "funFact": "Only one of Hannibal's 37 elephants survived the entire campaign in Italy!",
-            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/punic_wars_hannibal.png"
+            "durationMinutes": 3,
+            "funFact": "The term 'Punic' comes from the Latin word for Phoenician, the ancestors of Carthage.",
+            "imageKey": "punic_wars_hannibal.png"
         },
         {
             "id": "l_punic_2",
             "topicId": "t_rome_punic",
-            "title": "The Battle of Cannae",
-            "content": "At Cannae, Hannibal executed what many historians call the 'perfect battle.' Despite being heavily outnumbered, he used a crescent formation to trap the Roman legions, drawing them into a deadly encirclement. \n\nIn a single day, nearly 50,000 Roman soldiers were killed, shattering Rome's military confidence. It was a masterclass in tactical flexibility, where brain triumphed over brawn, and it forced Rome to change its entire strategy of warfare to survive.",
+            "title": "Hannibal's Impossible March",
+            "content": "The Second Punic War (218-201 BCE) featured one of history's boldest maneuvers. The Carthaginian general Hannibal Barca marched an army, including 37 war elephants, from Spain over the snow-capped Alps into Italy.\n\nThe Romans were caught completely off guard. For 15 years, Hannibal moved freely through Italy, winning brilliant victories like the Battle of Cannae, where he encircled and destroyed a numerically superior Roman army.",
             "sortOrder": 2,
+            "durationMinutes": 4,
+            "funFact": "Hannibal lost one of his eyes to infection while marching through Italian swamps.",
+            "imageKey": "punic_wars_hannibal.png"
+        },
+        {
+            "id": "l_punic_3",
+            "topicId": "t_rome_punic",
+            "title": "Carthage Must Be Destroyed",
+            "content": "Despite Hannibal's genius, Rome's resilience won the day. The Roman general Scipio Africanus took the war to Africa, defeating Hannibal at the Battle of Zama. Carthage was stripped of its empire.\n\nFifty years later, Rome returned for the Third Punic War with a singular goal: annihilation. Over three years, they besieged the city, eventually burning it to the ground and selling the survivors into slavery. Rome was now the undisputed master of the Mediterranean.",
+            "sortOrder": 3,
             "durationMinutes": 3,
-            "funFact": "Cannae is still studied at military academies like West Point as the ultimate example of encirclement.",
-            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/punic_wars_hannibal.png"
+            "funFact": "Legend says Romans sowed the fields of Carthage with salt so nothing would grow, though this is likely a myth.",
+            "imageKey": "punic_wars_hannibal.png"
         },
         {
             "id": "l_vikings_1",
             "topicId": "t_vikings",
-            "title": "The Dragon of the Seas",
-            "content": "The Viking longship was a technological marvel of the 9th century. Its shallow draft allowed it to navigate not only open oceans but also shallow rivers deep into the heart of Europe. This meant no city, no matter how far inland, was safe from a sudden Norse arrival. \n\nClinker-built for flexibility and tipped with terrifying dragon heads, these ships were both high-speed transports and psychological weapons. They were so well-designed that modern replicas have proven they could cross the Atlantic with surprising stability.",
+            "title": "Masters of the Sea",
+            "content": "The key to Viking expansion was the longship. Fast, flexible, and shallow-drafted, these engineering marvels could cross stormy oceans and sail up shallow rivers to surprise inland monasteries. \n\nEquipped with both sails and oars, they gave Vikings unmatched mobility. A longship could land on a beach, unload warriors for a raid, and be back at sea before a local defense force could be mustered.",
             "sortOrder": 1,
             "durationMinutes": 3,
-            "funFact": "Vikings used 'sunstones'—crystals that polarized light—to navigate even on cloudy days.",
-            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/vikings_longship.png"
+            "funFact": "Viking ships were overlapping planks held together with iron rivets, a technique called 'clinker building'.",
+            "imageKey": "vikings_longship.png"
+        },
+        {
+            "id": "l_vikings_2",
+            "topicId": "t_vikings",
+            "title": "Raiders and Traders",
+            "content": "While famous for raiding Lindisfarne and Paris, Vikings were also prolific traders. They established trade routes stretching from Newfoundland in North America to Baghdad in the Middle East. They traded furs, amber, and slaves for silver, silk, and spices.\n\nVikings founded major cities like Dublin, Kyiv, and York, integrating with the local populations and leaving a lasting genetic and cultural impact.",
+            "sortOrder": 2,
+            "durationMinutes": 4,
+            "funFact": "Vikings used a sun compass to navigate the open ocean even on cloudy days.",
+            "imageKey": "vikings_longship.png"
+        },
+        {
+            "id": "l_vikings_3",
+            "topicId": "t_vikings",
+            "title": "Norse Mythology",
+            "content": "The Vikings were driven by a fatalistic worldview. They believed the day of their death was fated, so they sought to live fearlessly to earn a place in Valhalla, Odin's hall of the slain.\n\nThey worshipped a pantheon of gods including Thor, the thunder god, and Freyja, the goddess of love and war. Their myths, preserved in the Eddas, tell of the inevitable end of the world, Ragnarok, where gods and monsters would die in a final battle.",
+            "sortOrder": 3,
+            "durationMinutes": 3,
+            "funFact": "The days Tuesday, Wednesday, Thursday, and Friday are named after Norse gods (Tyr, Odin, Thor, Frigg).",
+            "imageKey": "vikings_longship.png"
         },
         {
             "id": "l_knights_1",
             "topicId": "t_knights",
-            "title": "The Path to Knighthood",
-            "content": "Knighthood was a lifelong journey that began at age seven. As a 'Page,' a boy learned etiquette and basic combat. At fourteen, he became a 'Squire,' serving a knight directly, caring for horses, and learning the complex art of mounted warfare. \n\nThe journey culminated in a 'dubbing' ceremony, where the squire was knighted—often after a night of prayer and purification. It was an elite brotherhood, expensive to maintain and demanding in discipline, defining the social and military order of the Middle Ages.",
+            "title": "The Way of the Warrior",
+            "content": "A knight was the equivalent of a modern tank on the medieval battlefield. Mounted on a heavy warhorse and clad in mail or plate armor, a knight's charge could break enemy lines through sheer shock and weight.\n\nTraining began at age 7 as a page, then a squire at 14, and finally knighthood around 21. It required immense strength and skill to fight in 50 pounds of armor while controlling a horse.",
             "sortOrder": 1,
             "durationMinutes": 3,
-            "funFact": "The full suit of plate armor actually weighed less than the gear a modern infantry soldier carries!",
-            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/images/medieval_knight_tournament.png"
+            "funFact": "A knight's warhorse, called a destrier, was bred for aggression and size.",
+            "imageKey": "medieval_knight_tournament.png"
+        },
+        {
+            "id": "l_knights_2",
+            "topicId": "t_knights",
+            "title": "Chivalry & Honor",
+            "content": "Chivalry was a code of conduct that attempted to civilize the brutal violence of the knightly class. It emphasized virtues like bravery, loyalty to one's lord, defense of the weak, and piety.\n\nWhile often romanticized in Arthurian legends, the reality was grittier. However, the ideal of the 'courteous knight' influenced European culture deeply, shaping manners, literature, and the concept of 'gentlemanly' behavior for centuries.",
+            "sortOrder": 2,
+            "durationMinutes": 3,
+            "funFact": "The word 'chivalry' comes from the French 'chevalier', meaning 'horseman'.",
+            "imageKey": "medieval_knight_tournament.png"
+        },
+        {
+            "id": "l_knights_3",
+            "topicId": "t_knights",
+            "title": "Tournaments & Jousts",
+            "content": "Peacetime was no excuse for a knight to get rusty. Tournaments were grand spectator sports where knights could prove their skill and win fame and fortune. The main event was the joust, where two armored riders charged at each other with lances.\n\nThese weren't just games; they were dangerous training exercises. Knights could be injured or killed, and ransom was often demanded for defeated opponents' horses and armor.",
+            "sortOrder": 3,
+            "durationMinutes": 4,
+            "funFact": "Henry VIII of England suffered a jousting accident that permanently altered his personality and health.",
+            "imageKey": "medieval_knight_tournament.png"
+        },
+        /* Renaissance */
+        {
+            "id": "l_davinci_1",
+            "topicId": "t_davinci",
+            "title": "The Polymath",
+            "content": "Leonardo da Vinci (1452–1519) is the ultimate definition of a 'Renaissance Man'. While famous for paintings like the Mona Lisa and The Last Supper, he considered himself equally an engineer. His notebooks are filled with futuristic designs for helicopters, tanks, and solar power concentrators, centuries before such things were possible.",
+            "sortOrder": 1,
+            "durationMinutes": 3,
+            "funFact": "Leonardo wrote his notes in mirror script, meaning they can only be read easily with a mirror.",
+            "imageKey": "topic_davinci.png"
+        },
+        {
+            "id": "l_davinci_2",
+            "topicId": "t_davinci",
+            "title": "Anatomy",
+            "content": "To paint the human form perfectly, Leonardo needed to understand what lay beneath the skin. He dissected over 30 human corpses in his lifetime, drawing muscles, nerves, and bones with scientific precision. He was the first to accurately describe the S-curve of the spine and the function of heart valves.",
+            "sortOrder": 2,
+            "durationMinutes": 3,
+            "funFact": "His neighbors were terrified of his dissections, which he often performed at night.",
+            "imageKey": "topic_davinci.png"
+        },
+        {
+            "id": "l_davinci_3",
+            "topicId": "t_davinci",
+            "title": "The Mona Lisa",
+            "content": "Painted around 1503, the 'La Gioconda' is famous for her enigmatic smile. Da Vinci used a technique called 'sfumato' (smoky) to blur the edges of her mouth and eyes, creating an illusion of movement. It wasn't actually very famous until it was stolen from the Louvre in 1911, creating a global media sensation.",
+            "sortOrder": 3,
+            "durationMinutes": 2,
+            "funFact": "The Mona Lisa has no eyebrows; it was high fashion at the time for women to shave them off.",
+            "imageKey": "topic_davinci.png"
+        },
+        {
+            "id": "l_explo_1",
+            "topicId": "t_exploration",
+            "title": "The New World",
+            "content": "In 1492, Christopher Columbus sailed west from Spain hoping to find a shortcut to the spice-rich Indies. Instead, he landed in the Bahamas. This 'discovery' initiated the Columbian Exchange—a massive transfer of plants, animals, culture, human populations, and diseases between the Americas and the Old World.",
+            "sortOrder": 1,
+            "durationMinutes": 3,
+            "funFact": "Tomatoes, potatoes, and chocolate originated in the Americas and were unknown in Europe before 1492.",
+            "imageKey": "topic_exploration.png"
+        },
+        {
+            "id": "l_explo_2",
+            "topicId": "t_exploration",
+            "title": "Magellan's Voyage",
+            "content": "In 1519, Ferdinand Magellan led an expedition to circle the globe. He didn't survive the trip—he was killed in the Philippines—but one of his five ships, the Victoria, made it back to Spain. This voyage definitively proved that the Earth was round and much larger than previously thought.",
+            "sortOrder": 2,
+            "durationMinutes": 4,
+            "funFact": "Only 18 of the original 270 crew members survived the three-year journey.",
+            "imageKey": "topic_exploration.png"
+        },
+        {
+            "id": "l_explo_3",
+            "topicId": "t_exploration",
+            "title": "Navigation Tech",
+            "content": "This era of long-distance sea travel was powered by new tools. The astrolabe allowed sailors to measure latitude by the stars, while the magnetic compass provided direction. The new 'caravel' ship design, with triangular lateen sails, allowed ships to sail against the wind, unlocking the oceans.",
+            "sortOrder": 3,
+            "durationMinutes": 3,
+            "funFact": "Sailors measured speed by throwing a knotted rope overboard and counting knots, hence the speed unit 'knots'.",
+            "imageKey": "topic_exploration.png"
+        },
+        /* Industrial Revolution */
+        {
+            "id": "l_steam_1",
+            "topicId": "t_steam",
+            "title": "The Steam Engine",
+            "content": "Though early steam devices existed, James Watt's improved steam engine in 1776 was a game-changer. It was far more efficient and could generate rotary motion, meaning it could turn wheels. Suddenly, factories didn't need to be near rivers for water power; they could be built anywhere.",
+            "sortOrder": 1,
+            "durationMinutes": 3,
+            "funFact": "The unit of power 'Watt' is named after James Watt.",
+            "imageKey": "topic_steam.png"
+        },
+        {
+            "id": "l_steam_2",
+            "topicId": "t_steam",
+            "title": "The Iron Horse",
+            "content": "Put a steam engine on wheels, and you get a locomotive. The railways shrank the world. A journey that took days by horse-drawn carriage now took hours. Fresh food could be transported to cities, and raw materials to factories. The Rocket, built by George Stephenson in 1829, set the standard for modern steam trains.",
+            "sortOrder": 2,
+            "durationMinutes": 3,
+            "funFact": "Early critics feared that traveling over 30 mph would make women faint and cows stop producing milk.",
+            "imageKey": "topic_steam.png"
+        },
+        {
+            "id": "l_steam_3",
+            "topicId": "t_steam",
+            "title": "Mass Production",
+            "content": "Steam power enabled machines to do the work of hundreds of weavers or smiths. This led to mass production, where identical goods could be made cheaply and quickly. This lowered the cost of clothes, tools, and household items, making them accessible to ordinary people for the first time.",
+            "sortOrder": 3,
+            "durationMinutes": 2,
+            "funFact": "The Luddites were textile workers who smashed weaving machines they felt were stealing their jobs.",
+            "imageKey": "topic_steam.png"
+        },
+        {
+            "id": "l_factory_1",
+            "topicId": "t_factory",
+            "title": "The Great Migration",
+            "content": "As factories rose, people flocked from the countryside to find work. Cities like Manchester and London exploded in size. This rapid urbanization created new social classes: the wealthy industrial owners and the working-class laborers. It also created slums, as housing couldn't keep up with the influx.",
+            "sortOrder": 1,
+            "durationMinutes": 3,
+            "funFact": "London's population grew from 1 million in 1800 to 6.7 million in 1900.",
+            "imageKey": "topic_factory.png"
+        },
+        {
+            "id": "l_factory_2",
+            "topicId": "t_factory",
+            "title": "Child Labor",
+            "content": "The industrial machine was hungry for cheap labor. Children as young as six worked 14-hour days in textile mills and coal mines. They were small enough to crawl under machines to clear jams or open ventilation doors in narrow mine shafts. It took decades of reform laws to end these practices.",
+            "sortOrder": 2,
+            "durationMinutes": 3,
+            "funFact": "Factory owners liked child workers because they could be paid 10-20% of an adult's wage.",
+            "imageKey": "topic_factory.png"
+        },
+        {
+            "id": "l_factory_3",
+            "topicId": "t_factory",
+            "title": "Pollution & Smog",
+            "content": "The skies of industrial cities turned black with coal smoke. The famous 'London Fog' was actually a deadly mix of fog and sulfurous smoke. Rivers were often used as open sewers and dumping grounds for industrial waste. This environmental damage sparked the first public health movements.",
+            "sortOrder": 3,
+            "durationMinutes": 2,
+            "funFact": "In the Great Smog of 1952, pollution in London was so thick it killed thousands of people.",
+            "imageKey": "topic_factory.png"
+        },
+        /* Modern Era */
+        {
+            "id": "l_ww1_1",
+            "topicId": "t_ww1",
+            "title": "The Spark",
+            "content": "In 1914, the assassination of Archduke Franz Ferdinand set off a chain reaction of alliances that dragged the world into war. It was expected to be 'over by Christmas', but new technology favored defense. Machine guns and barbed wire turned the conflict into a stalemate of trench warfare.",
+            "sortOrder": 1,
+            "durationMinutes": 3,
+            "funFact": "Carrier pigeons were widely used to send messages; one named Cher Ami saved 194 soldiers despite being shot.",
+            "imageKey": "topic_ww1.png"
+        },
+        {
+            "id": "l_ww1_2",
+            "topicId": "t_ww1",
+            "title": "Trench Life",
+            "content": "Soldiers lived in mud, surrounded by rats, lice, and constant shelling. The 'No Man's Land' between trenches was a kill zone. To break the deadlock, both sides developed terrifying new weapons: poison gas, flamethrowers, and eventually, the tank.",
+            "sortOrder": 2,
+            "durationMinutes": 3,
+            "funFact": "British soldiers had a daily rum ration to keep up morale.",
+            "imageKey": "topic_ww1.png"
+        },
+        {
+            "id": "l_ww1_3",
+            "topicId": "t_ww1",
+            "title": "The Red Baron",
+            "content": "The air was the only place where individual chivalry seemed to survive. Manfred von Richthofen, 'The Red Baron', was the ace of aces, shooting down 80 allied aircraft. Airplanes evolved rapidly from reconnaissance observers to deadly fighters with synchronized machine guns.",
+            "sortOrder": 3,
+            "durationMinutes": 3,
+            "funFact": "The Red Baron was eventually shot down by a single bullet from the ground.",
+            "imageKey": "topic_ww1.png"
+        },
+        {
+            "id": "l_space_1",
+            "topicId": "t_space",
+            "title": "Sputnik Shock",
+            "content": "In 1957, the Soviet Union launched Sputnik 1, the first artificial satellite. It was just a metal beach ball that beeped, but it terrified the West. It proved the Soviets had powerful rockets capable of delivering nuclear weapons. The Space Race had begun.",
+            "sortOrder": 1,
+            "durationMinutes": 3,
+            "funFact": "Sputnik's battery ran out after three weeks, and it burned up in the atmosphere months later.",
+            "imageKey": "topic_space.png"
+        },
+        {
+            "id": "l_space_2",
+            "topicId": "t_space",
+            "title": "First in Space",
+            "content": "Yuri Gagarin became the first human in space in 1961, shouting 'Poyekhali!' (Let's go!) as he launched. The US played catch-up, sending Alan Shepard weeks later. President Kennedy then set an audacious goal: landing a man on the Moon before the decade was out.",
+            "sortOrder": 2,
+            "durationMinutes": 3,
+            "funFact": "Gagarin had to eject from his capsule and parachute the last few miles to Earth.",
+            "imageKey": "topic_space.png"
+        },
+        {
+            "id": "l_space_3",
+            "topicId": "t_space",
+            "title": "The Eagle Has Landed",
+            "content": "On July 20, 1969, Apollo 11 fulfilled Kennedy's promise. Neil Armstrong and Buzz Aldrin walked on the lunar surface while Michael Collins orbited above. It remains one of the greatest technological achievements in human history, watched on TV by 600 million people.",
+            "sortOrder": 3,
+            "durationMinutes": 4,
+            "funFact": "The Apollo computer had less processing power than a modern pocket calculator.",
+            "imageKey": "topic_space.png"
         }
     ]
 }
