@@ -5,44 +5,67 @@
             "title": "Ancient Antiquity",
             "description": "Journey back to the dawn of civilization. From the sun-drenched pyramids of Egypt to the philosophical academies of Greece and the imperial might of Rome, this era laid the foundations of modern society, law, and culture.",
             "yearRange": "3000 BCE - 476 CE",
-            "imageKey": "ancient_era.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/ancient_era.png"
         },
         {
             "id": "medieval",
             "title": "The Middle Ages",
             "description": "Explore a millennium of transformation. Often misunderstood as a 'Dark Age', this period saw the rise of majestic cathedrals, the feudal system, the spread of universities, and the clash of empires during the Crusades.",
             "yearRange": "476 CE - 1450 CE",
-            "imageKey": "medieval_era.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/medieval_era.png"
         },
         {
             "id": "renaissance",
             "title": "The Renaissance",
             "description": "Witness the rebirth of art, science, and human potential. Emerging from Italy, this movement swept across Europe, challenging old dogmas and sparking a golden age of creativity and exploration.",
             "yearRange": "1300 CE - 1600 CE",
-            "imageKey": "renaissance_era.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/renaissance_era.png"
+        },
+        {
+            "id": "enlightenment",
+            "title": "The Enlightenment",
+            "description": "The Age of Reason. A profound shift in human thought where science, logic, and liberty began to challenge the absolute power of monarchs and the church.",
+            "yearRange": "1650 CE - 1800 CE",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/enlightenment_era.png"
         },
         {
             "id": "industrial",
             "title": "Industrial Revolution",
             "description": "The world shifts from hand tools to steam machines. Witness the rise of factories, urbanization, and the technological leaps that created the modern economic world.",
             "yearRange": "1760 CE - 1840 CE",
-            "imageKey": "industrial_era.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/industrial_era.png"
         },
         {
             "id": "modern",
             "title": "The Modern Era",
             "description": "A century of speed, conflict, and connection. From the trenches of World War I to the moon landing and the digital revolution, humanity reshapes the planet.",
             "yearRange": "1900 CE - Present",
-            "imageKey": "modern_era.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/modern_era.png"
         }
     ],
     "topics": [
+        {
+            "id": "t_pharaohs",
+            "title": "The Pharaohs",
+            "description": "God-kings of the Nile: Discover the engineering marvels and mystical rites of Ancient Egypt.",
+            "eraId": "ancient",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_pharaohs.png",
+            "isUnlocked": true
+        },
+        {
+            "id": "t_mesopotamia",
+            "title": "The Fertile Crescent",
+            "description": "The Cradle of Civilization: Where humanity first learned to write, brew beer, and build cities.",
+            "eraId": "ancient",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_mesopotamia.png",
+            "isUnlocked": true
+        },
         {
             "id": "t_alexandria",
             "title": "Library of Alexandria",
             "description": "The intellectual capital of the ancient world, where scholars gathered to map the stars and catalogue human knowledge.",
             "eraId": "ancient",
-            "imageKey": "library_topic.png",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/library_topic.png",
             "isUnlocked": true
         },
         {
@@ -50,7 +73,7 @@
             "title": "The Punic Wars",
             "description": "The epic duel between Rome and Carthage that determined who would rule the Mediterranean for centuries to come.",
             "eraId": "ancient",
-            "imageKey": "punic_wars_hannibal.png",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/punic_wars_hannibal.png",
             "isUnlocked": true
         },
         {
@@ -58,7 +81,7 @@
             "title": "The Viking Age",
             "description": "Beyond the raids: Discover the master shipbuilders, explorers, and traders who connected continents.",
             "eraId": "medieval",
-            "imageKey": "vikings_longship.png",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/vikings_longship.png",
             "isUnlocked": true
         },
         {
@@ -66,7 +89,7 @@
             "title": "Knights & Chivalry",
             "description": "More than just armor and swords—learn about the complex social code that governed welfare, courtly love, and tournaments.",
             "eraId": "medieval",
-            "imageKey": "medieval_knight_tournament.png",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/medieval_knight_tournament.png",
             "isUnlocked": true
         },
         {
@@ -74,7 +97,7 @@
             "title": "Leonardo da Vinci",
             "description": "The ultimate Renaissance Man: painter, engineer, anatomist, and visionary.",
             "eraId": "renaissance",
-            "imageKey": "topic_davinci.png",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_davinci.png",
             "isUnlocked": true
         },
         {
@@ -82,7 +105,23 @@
             "title": "Age of Discovery",
             "description": "Brave sailors venture into the unknown, connecting the globe and changing maps forever.",
             "eraId": "renaissance",
-            "imageKey": "topic_exploration.png",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_exploration.png",
+            "isUnlocked": true
+        },
+        {
+            "id": "t_science",
+            "title": "Scientific Revolution",
+            "description": "How the laws of motion and the telescope forever changed our place in the universe.",
+            "eraId": "enlightenment",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_science.png",
+            "isUnlocked": true
+        },
+        {
+            "id": "t_philosophy",
+            "title": "The Age of Reason",
+            "description": "The bold ideas of liberty, equality, and human rights that sparked modern democracy.",
+            "eraId": "enlightenment",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_philosophy.png",
             "isUnlocked": true
         },
         {
@@ -90,7 +129,7 @@
             "title": "Steam Power",
             "description": "How boiling water and brass gears powered trains, factories, and a revolution.",
             "eraId": "industrial",
-            "imageKey": "topic_steam.png",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_steam.png",
             "isUnlocked": true
         },
         {
@@ -98,7 +137,7 @@
             "title": "Urbanization",
             "description": "From farm to factory: The massive migration that built the crowded, smoggy cities of the 19th century.",
             "eraId": "industrial",
-            "imageKey": "topic_factory.png",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_factory.png",
             "isUnlocked": true
         },
         {
@@ -106,7 +145,7 @@
             "title": "The Great War",
             "description": "The war to end all wars introduced tanks, airplanes, and a new scale of tragedy.",
             "eraId": "modern",
-            "imageKey": "topic_ww1.png",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_ww1.png",
             "isUnlocked": true
         },
         {
@@ -114,7 +153,7 @@
             "title": "Space Race",
             "description": "Cold War rivals compete to conquer the final frontier, culminating in a giant leap for mankind.",
             "eraId": "modern",
-            "imageKey": "topic_space.png",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_space.png",
             "isUnlocked": true
         }
     ],
@@ -127,7 +166,7 @@
             "sortOrder": 1,
             "durationMinutes": 3,
             "funFact": "The library may have held up to 400,000 papyrus scrolls at its peak.",
-            "imageKey": "library_topic.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/library_topic.png"
         },
         {
             "id": "l_alex_2",
@@ -137,7 +176,7 @@
             "sortOrder": 2,
             "durationMinutes": 4,
             "funFact": "Archimedes is said to have invented his famous water screw while studying here.",
-            "imageKey": "library_topic.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/library_topic.png"
         },
         {
             "id": "l_alex_3",
@@ -147,17 +186,17 @@
             "sortOrder": 3,
             "durationMinutes": 3,
             "funFact": "No architectural remains of the library have ever been found.",
-            "imageKey": "library_topic.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/library_topic.png"
         },
         {
             "id": "l_punic_1",
             "topicId": "t_rome_punic",
             "title": "Rome vs. Carthage",
-            "content": "In 264 BCE, Rome was a land power and Carthage was the master of the seas. Their conflict, known as the Punic Wars, began over control of Sicily but escalated into a fight for survival. Carthage boasted a massive navy and vast wealth from trade, while Rome relied on its disciplined legions and stubborn refusal to admit defeat.\n\nThe First Punic War lasted 23 years, forcing Rome to build its first navy from scratch, eventually finding a way to turn sea battles into land battles using the 'corvus' boarding bridge.",
+            "content": "In 264 BCE, Rome was a load power and Carthage was the master of the seas. Their conflict, known as the Punic Wars, began over control of Sicily but escalated into a fight for survival. Carthage boasted a massive navy and vast wealth from trade, while Rome relied on its disciplined legions and stubborn refusal to admit defeat.\n\nThe First Punic War lasted 23 years, forcing Rome to build its first navy from scratch, eventually finding a way to turn sea battles into land battles using the 'corvus' boarding bridge.",
             "sortOrder": 1,
             "durationMinutes": 3,
             "funFact": "The term 'Punic' comes from the Latin word for Phoenician, the ancestors of Carthage.",
-            "imageKey": "punic_wars_hannibal.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/punic_wars_hannibal.png"
         },
         {
             "id": "l_punic_2",
@@ -167,7 +206,7 @@
             "sortOrder": 2,
             "durationMinutes": 4,
             "funFact": "Hannibal lost one of his eyes to infection while marching through Italian swamps.",
-            "imageKey": "punic_wars_hannibal.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/punic_wars_hannibal.png"
         },
         {
             "id": "l_punic_3",
@@ -177,7 +216,7 @@
             "sortOrder": 3,
             "durationMinutes": 3,
             "funFact": "Legend says Romans sowed the fields of Carthage with salt so nothing would grow, though this is likely a myth.",
-            "imageKey": "punic_wars_hannibal.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/punic_wars_hannibal.png"
         },
         {
             "id": "l_vikings_1",
@@ -187,7 +226,7 @@
             "sortOrder": 1,
             "durationMinutes": 3,
             "funFact": "Viking ships were overlapping planks held together with iron rivets, a technique called 'clinker building'.",
-            "imageKey": "vikings_longship.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/vikings_longship.png"
         },
         {
             "id": "l_vikings_2",
@@ -197,7 +236,7 @@
             "sortOrder": 2,
             "durationMinutes": 4,
             "funFact": "Vikings used a sun compass to navigate the open ocean even on cloudy days.",
-            "imageKey": "vikings_longship.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/vikings_longship.png"
         },
         {
             "id": "l_vikings_3",
@@ -207,7 +246,7 @@
             "sortOrder": 3,
             "durationMinutes": 3,
             "funFact": "The days Tuesday, Wednesday, Thursday, and Friday are named after Norse gods (Tyr, Odin, Thor, Frigg).",
-            "imageKey": "vikings_longship.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/vikings_longship.png"
         },
         {
             "id": "l_knights_1",
@@ -217,7 +256,7 @@
             "sortOrder": 1,
             "durationMinutes": 3,
             "funFact": "A knight's warhorse, called a destrier, was bred for aggression and size.",
-            "imageKey": "medieval_knight_tournament.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/medieval_knight_tournament.png"
         },
         {
             "id": "l_knights_2",
@@ -227,7 +266,7 @@
             "sortOrder": 2,
             "durationMinutes": 3,
             "funFact": "The word 'chivalry' comes from the French 'chevalier', meaning 'horseman'.",
-            "imageKey": "medieval_knight_tournament.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/medieval_knight_tournament.png"
         },
         {
             "id": "l_knights_3",
@@ -237,7 +276,7 @@
             "sortOrder": 3,
             "durationMinutes": 4,
             "funFact": "Henry VIII of England suffered a jousting accident that permanently altered his personality and health.",
-            "imageKey": "medieval_knight_tournament.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/medieval_knight_tournament.png"
         },
         {
             "id": "l_davinci_1",
@@ -247,7 +286,7 @@
             "sortOrder": 1,
             "durationMinutes": 3,
             "funFact": "Leonardo wrote his notes in mirror script, meaning they can only be read easily with a mirror.",
-            "imageKey": "topic_davinci.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_davinci.png"
         },
         {
             "id": "l_davinci_2",
@@ -257,7 +296,7 @@
             "sortOrder": 2,
             "durationMinutes": 3,
             "funFact": "His neighbors were terrified of his dissections, which he often performed at night.",
-            "imageKey": "topic_davinci.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_davinci.png"
         },
         {
             "id": "l_davinci_3",
@@ -267,7 +306,7 @@
             "sortOrder": 3,
             "durationMinutes": 2,
             "funFact": "The Mona Lisa has no eyebrows; it was high fashion at the time for women to shave them off.",
-            "imageKey": "topic_davinci.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_davinci.png"
         },
         {
             "id": "l_explo_1",
@@ -277,7 +316,7 @@
             "sortOrder": 1,
             "durationMinutes": 3,
             "funFact": "Tomatoes, potatoes, and chocolate originated in the Americas and were unknown in Europe before 1492.",
-            "imageKey": "topic_exploration.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_exploration.png"
         },
         {
             "id": "l_explo_2",
@@ -287,7 +326,7 @@
             "sortOrder": 2,
             "durationMinutes": 4,
             "funFact": "Only 18 of the original 270 crew members survived the three-year journey.",
-            "imageKey": "topic_exploration.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_exploration.png"
         },
         {
             "id": "l_explo_3",
@@ -297,7 +336,7 @@
             "sortOrder": 3,
             "durationMinutes": 3,
             "funFact": "Sailors measured speed by throwing a knotted rope overboard and counting knots, hence the speed unit 'knots'.",
-            "imageKey": "topic_exploration.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_exploration.png"
         },
         {
             "id": "l_steam_1",
@@ -307,7 +346,7 @@
             "sortOrder": 1,
             "durationMinutes": 3,
             "funFact": "The unit of power 'Watt' is named after James Watt.",
-            "imageKey": "topic_steam.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_steam.png"
         },
         {
             "id": "l_steam_2",
@@ -317,7 +356,7 @@
             "sortOrder": 2,
             "durationMinutes": 3,
             "funFact": "Early critics feared that traveling over 30 mph would make women faint and cows stop producing milk.",
-            "imageKey": "topic_steam.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_steam.png"
         },
         {
             "id": "l_steam_3",
@@ -327,7 +366,7 @@
             "sortOrder": 3,
             "durationMinutes": 2,
             "funFact": "The Luddites were textile workers who smashed weaving machines they felt were stealing their jobs.",
-            "imageKey": "topic_steam.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_steam.png"
         },
         {
             "id": "l_factory_1",
@@ -337,7 +376,7 @@
             "sortOrder": 1,
             "durationMinutes": 3,
             "funFact": "London's population grew from 1 million in 1800 to 6.7 million in 1900.",
-            "imageKey": "topic_factory.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_factory.png"
         },
         {
             "id": "l_factory_2",
@@ -347,7 +386,7 @@
             "sortOrder": 2,
             "durationMinutes": 3,
             "funFact": "Factory owners liked child workers because they could be paid 10-20% of an adult's wage.",
-            "imageKey": "topic_factory.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_factory.png"
         },
         {
             "id": "l_factory_3",
@@ -357,7 +396,7 @@
             "sortOrder": 3,
             "durationMinutes": 2,
             "funFact": "In the Great Smog of 1952, pollution in London was so thick it killed thousands of people.",
-            "imageKey": "topic_factory.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_factory.png"
         },
         {
             "id": "l_ww1_1",
@@ -367,7 +406,7 @@
             "sortOrder": 1,
             "durationMinutes": 3,
             "funFact": "Carrier pigeons were widely used to send messages; one named Cher Ami saved 194 soldiers despite being shot.",
-            "imageKey": "topic_ww1.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_ww1.png"
         },
         {
             "id": "l_ww1_2",
@@ -377,7 +416,7 @@
             "sortOrder": 2,
             "durationMinutes": 3,
             "funFact": "British soldiers had a daily rum ration to keep up morale.",
-            "imageKey": "topic_ww1.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_ww1.png"
         },
         {
             "id": "l_ww1_3",
@@ -387,7 +426,7 @@
             "sortOrder": 3,
             "durationMinutes": 3,
             "funFact": "The Red Baron was eventually shot down by a single bullet from the ground.",
-            "imageKey": "topic_ww1.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_ww1.png"
         },
         {
             "id": "l_space_1",
@@ -397,7 +436,7 @@
             "sortOrder": 1,
             "durationMinutes": 3,
             "funFact": "Sputnik's battery ran out after three weeks, and it burned up in the atmosphere months later.",
-            "imageKey": "topic_space.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_space.png"
         },
         {
             "id": "l_space_2",
@@ -407,7 +446,7 @@
             "sortOrder": 2,
             "durationMinutes": 3,
             "funFact": "Gagarin had to eject from his capsule and parachute the last few miles to Earth.",
-            "imageKey": "topic_space.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_space.png"
         },
         {
             "id": "l_space_3",
@@ -417,7 +456,127 @@
             "sortOrder": 3,
             "durationMinutes": 4,
             "funFact": "The Apollo computer had less processing power than a modern pocket calculator.",
-            "imageKey": "topic_space.png"
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_space.png"
+        },
+        {
+            "id": "l_pharaoh_1",
+            "topicId": "t_pharaohs",
+            "title": "Pyramid Builders",
+            "content": "The pyramids weren't built by slaves, but by a highly organized workforce of farmers during the Nile's flood season. The Great Pyramid of Giza, built for Khufu, remained the tallest man-made structure for over 3,800 years. It required 2.3 million stone blocks, each weighing an average of 2.5 tons, fitted together with incredible mathematical precision.",
+            "sortOrder": 1,
+            "durationMinutes": 4,
+            "funFact": "The pyramids were originally covered in polished white limestone that gleamed in the sun.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_pharaohs.png"
+        },
+        {
+            "id": "l_pharaoh_2",
+            "topicId": "t_pharaohs",
+            "title": "The Valley of the Kings",
+            "content": "Recognizing that pyramids were giant sirens for tomb robbers, later Pharaohs of the New Kingdom chose hidden rock-cut tombs. The Valley of the Kings became the final resting place for rulers like Ramesses the Great and Seti I. These tombs were filled with intricate murals depicting the journey through the Duat (the underworld) and the weighing of the heart.",
+            "sortOrder": 2,
+            "durationMinutes": 3,
+            "funFact": "Ramesses II had over 100 children and lived to be 90 years old.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_pharaohs.png"
+        },
+        {
+            "id": "l_pharaoh_3",
+            "topicId": "t_pharaohs",
+            "title": "The Boy King",
+            "content": "Tutankhamun was a minor king who died young, but he became world-famous because his tomb (KV62) was found nearly intact by Howard Carter in 1922. The discovery provided a unique glimpse into the staggering wealth of Egyptian royalty, including the iconic solid gold death mask and chariot.",
+            "sortOrder": 3,
+            "durationMinutes": 3,
+            "funFact": "The 'Curse of the Pharaohs' was largely a media invention; Howard Carter lived for 17 years after the discovery.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_pharaohs.png"
+        },
+        {
+            "id": "l_meso_1",
+            "topicId": "t_mesopotamia",
+            "title": "The Birth of Cities",
+            "content": "Sumerians in Southern Mesopotamia built the world's first true cities, like Uruk and Ur, around 4000 BCE. They invented the wheel, the sailboat, and complex irrigation systems to harness the unpredictable Tigris and Euphrates rivers. These cities were centered around massive temple complexes called Ziggurats, which were believed to be homes for the gods.",
+            "sortOrder": 1,
+            "durationMinutes": 4,
+            "funFact": "Sumerians used a base-60 number system, which is why we have 60 seconds in a minute and 360 degrees in a circle.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_mesopotamia.png"
+        },
+        {
+            "id": "l_meso_2",
+            "topicId": "t_mesopotamia",
+            "title": "Cuneiform Writing",
+            "content": "Writing wasn't invented for poetry, but for accounting. Sumerians developed Cuneiform (wedge-shaped) script by pressing reed styluses into wet clay tablets. This allowed them to record grain harvests, temple offerings, and eventually, the first epic poems like the 'Epic of Gilgamesh', the oldest known literary work.",
+            "sortOrder": 2,
+            "durationMinutes": 3,
+            "funFact": "The word 'cuneiform' comes from the Latin 'cuneus', meaning 'wedge'.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_mesopotamia.png"
+        },
+        {
+            "id": "l_meso_3",
+            "topicId": "t_mesopotamia",
+            "title": "Hammurabi's Code",
+            "content": "The Babylonian King Hammurabi (c. 1750 BCE) created one of the first written legal codes. Carved onto a massive black stone pillar, his 282 laws established the principle of 'lex talionis' (an eye for an eye). While harsh by modern standards, it was a revolutionary step toward justice based on written law rather than personal whims.",
+            "sortOrder": 3,
+            "durationMinutes": 3,
+            "funFact": "Hammurabi's Code also established a minimum wage for workers.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_mesopotamia.png"
+        },
+        {
+            "id": "l_science_1",
+            "topicId": "t_science",
+            "title": "Newton's Universe",
+            "content": "In 1687, Isaac Newton published 'Principia Mathematica', arguably the most influential book in the history of science. In it, he described the three laws of motion and the law of universal gravitation. He proved that the same force that pulls an apple to the ground also keeps the Moon in orbit around the Earth, uniting the heavens and the earth under a single set of mathematical laws.",
+            "sortOrder": 1,
+            "durationMinutes": 4,
+            "funFact": "Newton also invented calculus at age 23 while his university was closed during the Great Plague of London.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_science.png"
+        },
+        {
+            "id": "l_science_2",
+            "topicId": "t_science",
+            "title": "Galileo and the Church",
+            "content": "Using his improved telescope, Galileo Galilei observed the moons of Jupiter and the phases of Venus, proving that the Earth was not the center of the universe. This directly challenged the Catholic Church's geocentric doctrine. Despite being forced to recant and living his final years under house arrest, his observations laid the foundation for modern observational astronomy.",
+            "sortOrder": 2,
+            "durationMinutes": 3,
+            "funFact": "Legend says that after recanting, Galileo whispered, 'E pur si muove' (And yet it moves).",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_science.png"
+        },
+        {
+            "id": "l_science_3",
+            "topicId": "t_science",
+            "title": "The Scientific Method",
+            "content": "Francis Bacon and René Descartes developed the frameworks for modern science. Bacon emphasized 'empiricism'—the idea that knowledge must come from sensory experience and systematic observation. Descartes contributed 'rationalism', emphasizing the role of logic and mathematics. Together, they established the Scientific Method, which relies on testing hypotheses rather than relying on ancient authority.",
+            "sortOrder": 3,
+            "durationMinutes": 3,
+            "funFact": "Descartes is the philosopher behind the famous phrase: 'Cogito, ergo sum' (I think, therefore I am).",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_science.png"
+        },
+        {
+            "id": "l_phil_1",
+            "topicId": "t_philosophy",
+            "title": "The Age of Reason",
+            "content": "Enlightenment thinkers, or 'philosophes', believed that human reason could discover natural laws governing society, just as Newton had discovered laws governing nature. They championed education and the printing press to spread knowledge, believing that an informed citizenry would naturally reject tyranny and superstition.",
+            "sortOrder": 1,
+            "durationMinutes": 3,
+            "funFact": "Coffeehouses in 18th-century London and Paris were known as 'Penny Universities' because anyone could join the intellectual debates for the price of a cup of coffee.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_philosophy.png"
+        },
+        {
+            "id": "l_phil_2",
+            "topicId": "t_philosophy",
+            "title": "Voltaire and Liberty",
+            "content": "Voltaire was the Enlightenment's most famous wit and a fierce defender of freedom of speech and religious tolerance. He used satire to attack the intolerance of the French monarchy and the Catholic Church. His exile in England inspired him to champion the English system of constitutional monarchy and civil liberties, which would eventually influence the American and French Revolutions.",
+            "sortOrder": 2,
+            "durationMinutes": 3,
+            "funFact": "Voltaire reportedly drank up to 40 to 50 cups of coffee a day to fuel his writing sessions.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_philosophy.png"
+        },
+        {
+            "id": "l_phil_3",
+            "topicId": "t_philosophy",
+            "title": "The Social Contract",
+            "content": "Jean-Jacques Rousseau and John Locke debated the relationship between individuals and their government. Locke argued that people have 'natural rights' to life, liberty, and property, and that governments exist solely to protect these rights. Rousseau introduced the 'Social Contract', suggesting that true authority comes from the 'general will' of the people. These ideas formed the bedrock of modern democratic theory.",
+            "sortOrder": 3,
+            "durationMinutes": 4,
+            "funFact": "Thomas Jefferson heavily borrowed Locke's ideas when writing the Declaration of Independence, changing 'property' to 'the pursuit of happiness'.",
+            "imageUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/assets/topic_philosophy.png"
         }
     ]
 }
