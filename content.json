@@ -239,7 +239,6 @@
             "funFact": "Henry VIII of England suffered a jousting accident that permanently altered his personality and health.",
             "imageKey": "medieval_knight_tournament.png"
         },
-        /* Renaissance */
         {
             "id": "l_davinci_1",
             "topicId": "t_davinci",
@@ -300,7 +299,6 @@
             "funFact": "Sailors measured speed by throwing a knotted rope overboard and counting knots, hence the speed unit 'knots'.",
             "imageKey": "topic_exploration.png"
         },
-        /* Industrial Revolution */
         {
             "id": "l_steam_1",
             "topicId": "t_steam",
@@ -361,7 +359,6 @@
             "funFact": "In the Great Smog of 1952, pollution in London was so thick it killed thousands of people.",
             "imageKey": "topic_factory.png"
         },
-        /* Modern Era */
         {
             "id": "l_ww1_1",
             "topicId": "t_ww1",
