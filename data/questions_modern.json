@@ -1,0 +1,936 @@
+{
+    "Modern History": {
+      "World Wars": {
+        "Causes, Major Events, and Consequences": [
+          {
+            "question": "What was the primary cause of World War I?",
+            "options": [
+              { "text": "Colonial competition", "correct": false },
+              { "text": "Assassination of Archduke Franz Ferdinand", "correct": true },
+              { "text": "Treaty of Versailles", "correct": false },
+              { "text": "League of Nations failure", "correct": false }
+            ]
+          },
+          {
+            "question": "Which country was part of the Axis powers in World War II?",
+            "options": [
+              { "text": "France", "correct": false },
+              { "text": "Italy", "correct": true },
+              { "text": "Russia", "correct": false },
+              { "text": "Australia", "correct": false }
+            ]
+          },
+          {
+            "question": "The Treaty of Versailles primarily held which country responsible for World War I?",
+            "options": [
+              { "text": "Italy", "correct": false },
+              { "text": "Germany", "correct": true },
+              { "text": "Austria-Hungary", "correct": false },
+              { "text": "Russia", "correct": false }
+            ]
+          },
+          {
+            "question": "Which battle is considered a turning point in the Pacific Theater during World War II?",
+            "options": [
+              { "text": "Battle of Midway", "correct": true },
+              { "text": "Battle of Stalingrad", "correct": false },
+              { "text": "Battle of El Alamein", "correct": false },
+              { "text": "Battle of the Bulge", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the name of the project that developed the first nuclear weapons during World War II?",
+            "options": [
+              { "text": "Manhattan Project", "correct": true },
+              { "text": "Trinity Project", "correct": false },
+              { "text": "Atomic Alliance", "correct": false },
+              { "text": "Nuclear Initiative", "correct": false }
+            ]
+          },
+          {
+            "question": "Who led the Free French forces against Nazi Germany during World War II?",
+            "options": [
+              { "text": "Charles de Gaulle", "correct": true },
+              { "text": "Winston Churchill", "correct": false },
+              { "text": "Joseph Stalin", "correct": false },
+              { "text": "Benito Mussolini", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of these was a consequence of the Treaty of Versailles?",
+            "options": [
+              { "text": "Formation of NATO", "correct": false },
+              { "text": "Rise of totalitarian regimes in Europe", "correct": true },
+              { "text": "Beginning of the Cold War", "correct": false },
+              { "text": "Independence for colonial nations", "correct": false }
+            ]
+          },
+          {
+            "question": "Operation Overlord, launched on June 6, 1944, is commonly known by what name?",
+            "options": [
+              { "text": "D-Day", "correct": true },
+              { "text": "V-E Day", "correct": false },
+              { "text": "The Battle of Normandy", "correct": false },
+              { "text": "The Battle of the Bulge", "correct": false }
+            ]
+          },
+          {
+            "question": "The Munich Agreement, signed in 1938, permitted Nazi Germany to annex parts of which country?",
+            "options": [
+              { "text": "Austria", "correct": false },
+              { "text": "Czechoslovakia", "correct": true },
+              { "text": "Poland", "correct": false },
+              { "text": "Yugoslavia", "correct": false }
+            ]
+          },
+          {
+            "question": "The Nuremberg Trials, conducted after World War II, were held to prosecute individuals for what type of crime?",
+            "options": [
+              { "text": "War crimes and crimes against humanity", "correct": true },
+              { "text": "Crimes of colonial exploitation", "correct": false },
+              { "text": "Industrial espionage", "correct": false },
+              { "text": "Political subversion", "correct": false }
+            ]
+          }
+        ],
+        "Key Figures (e.g., Churchill, Roosevelt, Stalin)": [
+          {
+            "question": "Who was the British Prime Minister who led the UK during most of World War II?",
+            "options": [
+              { "text": "Neville Chamberlain", "correct": false },
+              { "text": "Winston Churchill", "correct": true },
+              { "text": "Clement Attlee", "correct": false },
+              { "text": "Anthony Eden", "correct": false }
+            ]
+          },
+          {
+            "question": "Which American president authorized the use of atomic bombs on Japan during World War II?",
+            "options": [
+              { "text": "Franklin D. Roosevelt", "correct": false },
+              { "text": "Harry S. Truman", "correct": true },
+              { "text": "Dwight D. Eisenhower", "correct": false },
+              { "text": "John F. Kennedy", "correct": false }
+            ]
+          },
+          {
+            "question": "What was Joseph Stalin's role in World War II?",
+            "options": [
+              { "text": "General of the Italian forces", "correct": false },
+              { "text": "Leader of the Soviet Union", "correct": true },
+              { "text": "Commander of Allied forces in North Africa", "correct": false },
+              { "text": "Chief advisor to the Japanese Emperor", "correct": false }
+            ]
+          },
+          {
+            "question": "Which world leader is famous for his 'We shall fight on the beaches' speech?",
+            "options": [
+              { "text": "Franklin D. Roosevelt", "correct": false },
+              { "text": "Winston Churchill", "correct": true },
+              { "text": "Adolf Hitler", "correct": false },
+              { "text": "Charles de Gaulle", "correct": false }
+            ]
+          },
+          {
+            "question": "Franklin D. Roosevelt was elected U.S. president four times. How many terms did he complete?",
+            "options": [
+              { "text": "Two", "correct": false },
+              { "text": "Three", "correct": false },
+              { "text": "Four", "correct": false },
+              { "text": "Less than four due to his death", "correct": true }
+            ]
+          },
+          {
+            "question": "Which Soviet leader initially signed a non-aggression pact with Nazi Germany before later opposing it?",
+            "options": [
+              { "text": "Leon Trotsky", "correct": false },
+              { "text": "Vladimir Lenin", "correct": false },
+              { "text": "Joseph Stalin", "correct": true },
+              { "text": "Nikita Khrushchev", "correct": false }
+            ]
+          },
+          {
+            "question": "Which U.S. President coined the term 'Arsenal of Democracy' in reference to America's support for Allies in WWII?",
+            "options": [
+              { "text": "Woodrow Wilson", "correct": false },
+              { "text": "Harry S. Truman", "correct": false },
+              { "text": "Franklin D. Roosevelt", "correct": true },
+              { "text": "Herbert Hoover", "correct": false }
+            ]
+          },
+          {
+            "question": "Winston Churchill was known for his rivalry with which British politician who succeeded him as Prime Minister?",
+            "options": [
+              { "text": "Neville Chamberlain", "correct": false },
+              { "text": "Anthony Eden", "correct": false },
+              { "text": "Clement Attlee", "correct": true },
+              { "text": "Margaret Thatcher", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the American general and later president known for the D-Day invasion?",
+            "options": [
+              { "text": "George Patton", "correct": false },
+              { "text": "Dwight D. Eisenhower", "correct": true },
+              { "text": "Douglas MacArthur", "correct": false },
+              { "text": "Chester Nimitz", "correct": false }
+            ]
+          },
+          {
+            "question": "Joseph Stalin, Franklin D. Roosevelt, and Winston Churchill met at which 1945 conference to discuss post-war plans?",
+            "options": [
+              { "text": "Potsdam Conference", "correct": false },
+              { "text": "Tehran Conference", "correct": false },
+              { "text": "Yalta Conference", "correct": true },
+              { "text": "Geneva Conference", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Post-War Period": {
+        "Cold War Dynamics and Proxy Wars": [
+          {
+            "question": "What year marked the beginning of the Cold War?",
+            "options": [
+              { "text": "1941", "correct": false },
+              { "text": "1945", "correct": true },
+              { "text": "1950", "correct": false },
+              { "text": "1962", "correct": false }
+            ]
+          },
+          {
+            "question": "Which two superpowers were involved in the Cold War?",
+            "options": [
+              { "text": "United States and Soviet Union", "correct": true },
+              { "text": "China and Soviet Union", "correct": false },
+              { "text": "United Kingdom and United States", "correct": false },
+              { "text": "Germany and Japan", "correct": false }
+            ]
+          },
+          {
+            "question": "The Cuban Missile Crisis in 1962 brought the world close to what?",
+            "options": [
+              { "text": "Nuclear war", "correct": true },
+              { "text": "Economic depression", "correct": false },
+              { "text": "A new world war", "correct": false },
+              { "text": "Biological warfare", "correct": false }
+            ]
+          },
+          {
+            "question": "Which country experienced a proxy war in the 1950s, eventually dividing it into North and South?",
+            "options": [
+              { "text": "Korea", "correct": true },
+              { "text": "Vietnam", "correct": false },
+              { "text": "Germany", "correct": false },
+              { "text": "China", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the primary purpose of NATO when it was founded in 1949?",
+            "options": [
+              { "text": "Promote global trade", "correct": false },
+              { "text": "Military defense against the Soviet Union", "correct": true },
+              { "text": "Facilitate European integration", "correct": false },
+              { "text": "Promote nuclear disarmament", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Cold War policy aimed to stop the spread of communism?",
+            "options": [
+              { "text": "Isolationism", "correct": false },
+              { "text": "Containment", "correct": true },
+              { "text": "Détente", "correct": false },
+              { "text": "Marshall Plan", "correct": false }
+            ]
+          },
+          {
+            "question": "What does the term 'Iron Curtain' refer to in the context of the Cold War?",
+            "options": [
+              { "text": "A barrier separating Eastern and Western Europe", "correct": true },
+              { "text": "A NATO military strategy", "correct": false },
+              { "text": "A type of economic embargo", "correct": false },
+              { "text": "A Cold War nuclear strategy", "correct": false }
+            ]
+          },
+          {
+            "question": "The policy of mutually assured destruction (MAD) was based on what assumption?",
+            "options": [
+              { "text": "Neither superpower would risk nuclear war", "correct": true },
+              { "text": "Only the Soviet Union had nuclear capabilities", "correct": false },
+              { "text": "A preemptive strike could end the Cold War", "correct": false },
+              { "text": "China would remain neutral", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Southeast Asian country was heavily affected by the Vietnam War as a Cold War proxy conflict?",
+            "options": [
+              { "text": "Cambodia", "correct": false },
+              { "text": "Vietnam", "correct": true },
+              { "text": "Thailand", "correct": false },
+              { "text": "Malaysia", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the primary goal of the U.S. policy known as the Truman Doctrine?",
+            "options": [
+              { "text": "Aid Greece and Turkey against communism", "correct": true },
+              { "text": "Encourage European Union creation", "correct": false },
+              { "text": "Disband NATO", "correct": false },
+              { "text": "Create an atomic energy agency", "correct": false }
+            ]
+          }
+        ],
+        "Decolonization Movements": [
+          {
+            "question": "Which continent saw a large number of countries gain independence during the 20th century decolonization movements?",
+            "options": [
+              { "text": "Asia", "correct": false },
+              { "text": "Africa", "correct": true },
+              { "text": "Europe", "correct": false },
+              { "text": "South America", "correct": false }
+            ]
+          },
+          {
+            "question": "In what year did India gain independence from British rule?",
+            "options": [
+              { "text": "1947", "correct": true },
+              { "text": "1952", "correct": false },
+              { "text": "1960", "correct": false },
+              { "text": "1939", "correct": false }
+            ]
+          },
+          {
+            "question": "Which African country was the first to gain independence from colonial rule in 1957?",
+            "options": [
+              { "text": "Kenya", "correct": false },
+              { "text": "Ghana", "correct": true },
+              { "text": "Egypt", "correct": false },
+              { "text": "Nigeria", "correct": false }
+            ]
+          },
+          {
+            "question": "The independence movement in Algeria resulted in conflict with which European country?",
+            "options": [
+              { "text": "Germany", "correct": false },
+              { "text": "France", "correct": true },
+              { "text": "Italy", "correct": false },
+              { "text": "Portugal", "correct": false }
+            ]
+          },
+          {
+            "question": "Which colonial power ruled Indonesia before its independence in 1949?",
+            "options": [
+              { "text": "United Kingdom", "correct": false },
+              { "text": "Netherlands", "correct": true },
+              { "text": "Portugal", "correct": false },
+              { "text": "France", "correct": false }
+            ]
+          },
+          {
+            "question": "The Mau Mau uprising occurred in which African country during its independence struggle?",
+            "options": [
+              { "text": "South Africa", "correct": false },
+              { "text": "Kenya", "correct": true },
+              { "text": "Uganda", "correct": false },
+              { "text": "Zimbabwe", "correct": false }
+            ]
+          },
+          {
+            "question": "Which British colony in Asia returned to Chinese control in 1997?",
+            "options": [
+              { "text": "Hong Kong", "correct": true },
+              { "text": "Taiwan", "correct": false },
+              { "text": "Macau", "correct": false },
+              { "text": "Singapore", "correct": false }
+            ]
+          },
+          {
+            "question": "Which leader is credited with leading India's nonviolent independence movement?",
+            "options": [
+              { "text": "Jawaharlal Nehru", "correct": false },
+              { "text": "Mohandas Gandhi", "correct": true },
+              { "text": "Indira Gandhi", "correct": false },
+              { "text": "Bhagat Singh", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the main objective of the Bandung Conference held in 1955?",
+            "options": [
+              { "text": "Support anti-colonial movements", "correct": true },
+              { "text": "Establish NATO", "correct": false },
+              { "text": "Rebuild post-war Europe", "correct": false },
+              { "text": "Create the United Nations", "correct": false }
+            ]
+          },
+          {
+            "question": "Which 1975 event marked the end of Portuguese colonial rule in Africa?",
+            "options": [
+              { "text": "Independence of Mozambique and Angola", "correct": true },
+              { "text": "Liberation of South Africa", "correct": false },
+              { "text": "Egyptian revolution", "correct": false },
+              { "text": "Ghanaian independence", "correct": false }
+            ]
+          }
+        ]
+      },"Political Movements and Rights": {
+        "Civil Rights Movements in the U.S.": [
+          {
+            "question": "Which U.S. landmark case legalized racial segregation under the doctrine 'separate but equal'?",
+            "options": [
+              { "text": "Brown v. Board of Education", "correct": false },
+              { "text": "Plessy v. Ferguson", "correct": true },
+              { "text": "Roe v. Wade", "correct": false },
+              { "text": "Loving v. Virginia", "correct": false }
+            ]
+          },
+          {
+            "question": "Which leader is most associated with the African-American civil rights movement in the 1960s?",
+            "options": [
+              { "text": "Malcolm X", "correct": false },
+              { "text": "Thurgood Marshall", "correct": false },
+              { "text": "Martin Luther King Jr.", "correct": true },
+              { "text": "John Lewis", "correct": false }
+            ]
+          },
+          {
+            "question": "In what year did the Civil Rights Act, which outlawed discrimination, pass in the United States?",
+            "options": [
+              { "text": "1965", "correct": false },
+              { "text": "1968", "correct": false },
+              { "text": "1964", "correct": true },
+              { "text": "1970", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the primary goal of the March on Washington for Jobs and Freedom in 1963?",
+            "options": [
+              { "text": "To demand voting rights", "correct": false },
+              { "text": "To demand better working conditions", "correct": false },
+              { "text": "To advocate for racial equality and jobs", "correct": true },
+              { "text": "To demand segregation laws be repealed", "correct": false }
+            ]
+          },
+          {
+            "question": "Which amendment to the U.S. Constitution granted women the right to vote?",
+            "options": [
+              { "text": "15th Amendment", "correct": false },
+              { "text": "19th Amendment", "correct": true },
+              { "text": "13th Amendment", "correct": false },
+              { "text": "21st Amendment", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the purpose of the 1965 Voting Rights Act?",
+            "options": [
+              { "text": "To grant women the right to vote", "correct": false },
+              { "text": "To eliminate literacy tests and poll taxes", "correct": true },
+              { "text": "To end school segregation", "correct": false },
+              { "text": "To create affirmative action programs", "correct": false }
+            ]
+          },
+          {
+            "question": "Which U.S. President signed the Civil Rights Act of 1964 into law?",
+            "options": [
+              { "text": "John F. Kennedy", "correct": false },
+              { "text": "Lyndon B. Johnson", "correct": true },
+              { "text": "Dwight D. Eisenhower", "correct": false },
+              { "text": "Richard Nixon", "correct": false }
+            ]
+          },
+          {
+            "question": "Which famous African-American activist was known for his 'I Have a Dream' speech?",
+            "options": [
+              { "text": "Malcolm X", "correct": false },
+              { "text": "W.E.B. Du Bois", "correct": false },
+              { "text": "Martin Luther King Jr.", "correct": true },
+              { "text": "Rosa Parks", "correct": false }
+            ]
+          },
+          {
+            "question": "The Black Panther Party was founded in what year?",
+            "options": [
+              { "text": "1960", "correct": false },
+              { "text": "1966", "correct": true },
+              { "text": "1970", "correct": false },
+              { "text": "1968", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the first African American to serve on the U.S. Supreme Court?",
+            "options": [
+              { "text": "Thurgood Marshall", "correct": true },
+              { "text": "Clarence Thomas", "correct": false },
+              { "text": "W.E.B. Du Bois", "correct": false },
+              { "text": "James Meredith", "correct": false }
+            ]
+          }
+        ],
+        "Women’s Suffrage and Feminism": [
+          {
+            "question": "What year did women in the United States gain the right to vote?",
+            "options": [
+              { "text": "1910", "correct": false },
+              { "text": "1920", "correct": true },
+              { "text": "1930", "correct": false },
+              { "text": "1915", "correct": false }
+            ]
+          },
+          {
+            "question": "Which U.S. state was the first to grant women the right to vote?",
+            "options": [
+              { "text": "California", "correct": false },
+              { "text": "Wyoming", "correct": true },
+              { "text": "New York", "correct": false },
+              { "text": "Massachusetts", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the leader of the National Woman's Suffrage Association in the United States?",
+            "options": [
+              { "text": "Susan B. Anthony", "correct": true },
+              { "text": "Elizabeth Cady Stanton", "correct": false },
+              { "text": "Sojourner Truth", "correct": false },
+              { "text": "Alice Paul", "correct": false }
+            ]
+          },
+          {
+            "question": "Which country was the first to grant women full voting rights?",
+            "options": [
+              { "text": "United States", "correct": false },
+              { "text": "New Zealand", "correct": true },
+              { "text": "Australia", "correct": false },
+              { "text": "Canada", "correct": false }
+            ]
+          },
+          {
+            "question": "Who wrote 'The Feminine Mystique' in 1963, which is often credited with sparking the second wave of feminism?",
+            "options": [
+              { "text": "Betty Friedan", "correct": true },
+              { "text": "Gloria Steinem", "correct": false },
+              { "text": "Simone de Beauvoir", "correct": false },
+              { "text": "Andrea Dworkin", "correct": false }
+            ]
+          },
+          {
+            "question": "Which amendment to the U.S. Constitution, ratified in 1920, granted women the right to vote?",
+            "options": [
+              { "text": "15th Amendment", "correct": false },
+              { "text": "19th Amendment", "correct": true },
+              { "text": "21st Amendment", "correct": false },
+              { "text": "22nd Amendment", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of these women was a key figure in the women's suffrage movement in the U.S. and co-founded the National Woman Suffrage Association?",
+            "options": [
+              { "text": "Sojourner Truth", "correct": false },
+              { "text": "Alice Paul", "correct": false },
+              { "text": "Susan B. Anthony", "correct": true },
+              { "text": "Harriet Tubman", "correct": false }
+            ]
+          },
+          {
+            "question": "The 1970s saw the rise of the feminist movement. Which book by Kate Millett discussed the role of patriarchy in society and became a key feminist text?",
+            "options": [
+              { "text": "The Feminine Mystique", "correct": false },
+              { "text": "Sexual Politics", "correct": true },
+              { "text": "The Second Sex", "correct": false },
+              { "text": "Woman and the New Race", "correct": false }
+            ]
+          },
+          {
+            "question": "Which U.S. Supreme Court case legalized abortion nationwide in 1973?",
+            "options": [
+              { "text": "Roe v. Wade", "correct": true },
+              { "text": "Brown v. Board of Education", "correct": false },
+              { "text": "Planned Parenthood v. Casey", "correct": false },
+              { "text": "Griswold v. Connecticut", "correct": false }
+            ]
+          },
+          {
+            "question": "Which major 20th-century feminist leader helped to found Ms. Magazine and was a leader in the women's liberation movement?",
+            "options": [
+              { "text": "Betty Friedan", "correct": false },
+              { "text": "Gloria Steinem", "correct": true },
+              { "text": "Shirley Chisholm", "correct": false },
+              { "text": "Alice Walker", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Globalization and Technological Advancements": {
+        "Digital Revolution and Space Exploration": [
+          {
+            "question": "In which year did the first human land on the moon?",
+            "options": [
+              { "text": "1969", "correct": true },
+              { "text": "1959", "correct": false },
+              { "text": "1972", "correct": false },
+              { "text": "1965", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the first person to walk on the moon?",
+            "options": [
+              { "text": "Buzz Aldrin", "correct": false },
+              { "text": "Neil Armstrong", "correct": true },
+              { "text": "Yuri Gagarin", "correct": false },
+              { "text": "Alan Shepard", "correct": false }
+            ]
+          },
+          {
+            "question": "Which U.S. government program was responsible for the Apollo moon missions?",
+            "options": [
+              { "text": "NASA", "correct": true },
+              { "text": "DARPA", "correct": false },
+              { "text": "SpaceX", "correct": false },
+              { "text": "Blue Origin", "correct": false }
+            ]
+          },
+          {
+            "question": "Which technology revolutionized communication in the 1990s and led to the development of the Internet?",
+            "options": [
+              { "text": "Television", "correct": false },
+              { "text": "Personal computers", "correct": true },
+              { "text": "Fax machines", "correct": false },
+              { "text": "Cell phones", "correct": false }
+            ]
+          },
+          {
+            "question": "What year was the World Wide Web publicly introduced?",
+            "options": [
+              { "text": "1990", "correct": true },
+              { "text": "1985", "correct": false },
+              { "text": "1995", "correct": false },
+              { "text": "2000", "correct": false }
+            ]
+          },
+          {
+            "question": "What major space agency launched the Hubble Space Telescope into orbit in 1990?",
+            "options": [
+              { "text": "NASA", "correct": true },
+              { "text": "ESA", "correct": false },
+              { "text": "Roscosmos", "correct": false },
+              { "text": "ISRO", "correct": false }
+            ]
+          },
+          {
+            "question": "Which company developed the first personal computer, the IBM PC, in 1981?",
+            "options": [
+              { "text": "Microsoft", "correct": false },
+              { "text": "Apple", "correct": false },
+              { "text": "IBM", "correct": true },
+              { "text": "Dell", "correct": false }
+            ]
+          },
+          {
+            "question": "Which popular social media platform was founded in 2004 by Mark Zuckerberg?",
+            "options": [
+              { "text": "Instagram", "correct": false },
+              { "text": "Snapchat", "correct": false },
+              { "text": "Facebook", "correct": true },
+              { "text": "Twitter", "correct": false }
+            ]
+          },
+          {
+            "question": "What breakthrough technology made modern smartphones possible starting in the 2000s?",
+            "options": [
+              { "text": "Touchscreen displays", "correct": true },
+              { "text": "3G networks", "correct": false },
+              { "text": "Wi-Fi", "correct": false },
+              { "text": "Bluetooth", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the name of the first artificial satellite launched into space in 1957?",
+            "options": [
+              { "text": "Explorer 1", "correct": false },
+              { "text": "Sputnik 1", "correct": true },
+              { "text": "Apollo 11", "correct": false },
+              { "text": "Vanguard 1", "correct": false }
+            ]
+          }
+        ],
+        "Environmental Issues and Climate Change": [
+          {
+            "question": "Which international agreement, adopted in 2015, aims to limit global warming to below 2°C above pre-industrial levels?",
+            "options": [
+              { "text": "Kyoto Protocol", "correct": false },
+              { "text": "Paris Agreement", "correct": true },
+              { "text": "Montreal Protocol", "correct": false },
+              { "text": "Copenhagen Accord", "correct": false }
+            ]
+          },
+          {
+            "question": "Which gas is the largest contributor to global warming and climate change?",
+            "options": [
+              { "text": "Carbon dioxide", "correct": true },
+              { "text": "Methane", "correct": false },
+              { "text": "Nitrous oxide", "correct": false },
+              { "text": "Ozone", "correct": false }
+            ]
+          },
+          {
+            "question": "Which major environmental disaster occurred in 1986 in the Soviet Union, leading to widespread radioactive contamination?",
+            "options": [
+              { "text": "Fukushima disaster", "correct": false },
+              { "text": "Chernobyl disaster", "correct": true },
+              { "text": "Three Mile Island accident", "correct": false },
+              { "text": "Minamata disease", "correct": false }
+            ]
+          },
+          {
+            "question": "Which renewable energy source is the most widely used for electricity generation globally?",
+            "options": [
+              { "text": "Wind", "correct": false },
+              { "text": "Solar", "correct": false },
+              { "text": "Hydropower", "correct": true },
+              { "text": "Geothermal", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the term used to describe the gradual increase in Earth's average temperature due to human activities?",
+            "options": [
+              { "text": "Global cooling", "correct": false },
+              { "text": "Global warming", "correct": true },
+              { "text": "Ozone depletion", "correct": false },
+              { "text": "Acid rain", "correct": false }
+            ]
+          },
+          {
+            "question": "Which country is the largest emitter of carbon dioxide as of 2023?",
+            "options": [
+              { "text": "United States", "correct": false },
+              { "text": "China", "correct": true },
+              { "text": "India", "correct": false },
+              { "text": "Russia", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the name of the organization that monitors global climate change and issues annual reports on the state of the planet's climate?",
+            "options": [
+              { "text": "IPCC", "correct": true },
+              { "text": "WHO", "correct": false },
+              { "text": "UNFCCC", "correct": false },
+              { "text": "WWF", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of the following is considered a consequence of climate change?",
+            "options": [
+              { "text": "Increased biodiversity", "correct": false },
+              { "text": "Rising sea levels", "correct": true },
+              { "text": "Lower ocean temperatures", "correct": false },
+              { "text": "Faster-growing forests", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the primary cause of deforestation around the world?",
+            "options": [
+              { "text": "Urbanization", "correct": false },
+              { "text": "Agricultural expansion", "correct": true },
+              { "text": "Mining", "correct": false },
+              { "text": "Tourism", "correct": false }
+            ]
+          },
+          {
+            "question": "Which international body is responsible for organizing the annual UN Climate Change Conference (COP)?",
+            "options": [
+              { "text": "World Bank", "correct": false },
+              { "text": "UNFCCC", "correct": true },
+              { "text": "World Health Organization", "correct": false },
+              { "text": "Intergovernmental Panel on Climate Change", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Recent Events": {
+        "21st-Century Conflicts and Political Changes": [
+          {
+            "question": "Which country invaded Iraq in 2003, leading to the Iraq War?",
+            "options": [
+              { "text": "United States", "correct": true },
+              { "text": "United Kingdom", "correct": false },
+              { "text": "Russia", "correct": false },
+              { "text": "Iran", "correct": false }
+            ]
+          },
+          {
+            "question": "Which terrorist group was responsible for the 9/11 attacks in the United States in 2001?",
+            "options": [
+              { "text": "Al-Qaeda", "correct": true },
+              { "text": "ISIS", "correct": false },
+              { "text": "Taliban", "correct": false },
+              { "text": "Hezbollah", "correct": false }
+            ]
+          },
+          {
+            "question": "Which war took place between 2011 and 2019 in Syria, involving various international powers and rebel factions?",
+            "options": [
+              { "text": "Iraq War", "correct": false },
+              { "text": "Syrian Civil War", "correct": true },
+              { "text": "Libyan Civil War", "correct": false },
+              { "text": "Yemeni Civil War", "correct": false }
+            ]
+          },
+          {
+            "question": "Which major political shift occurred in the UK in 2016, with voters deciding to leave the European Union?",
+            "options": [
+              { "text": "Brexit", "correct": true },
+              { "text": "Scottish Referendum", "correct": false },
+              { "text": "Irish Reunification", "correct": false },
+              { "text": "EU Expansion", "correct": false }
+            ]
+          },
+          {
+            "question": "Which U.S. President was impeached twice, first in 2019 and again in 2021?",
+            "options": [
+              { "text": "Barack Obama", "correct": false },
+              { "text": "Donald Trump", "correct": true },
+              { "text": "George W. Bush", "correct": false },
+              { "text": "Bill Clinton", "correct": false }
+            ]
+          },
+          {
+            "question": "Which 2014 conflict in Ukraine led to Russia's annexation of Crimea?",
+            "options": [
+              { "text": "Crimean War", "correct": false },
+              { "text": "War in Donbas", "correct": false },
+              { "text": "Euromaidan Revolution", "correct": true },
+              { "text": "Russian Invasion of Georgia", "correct": false }
+            ]
+          },
+          {
+            "question": "Which country did the United States engage in a prolonged conflict with during the Vietnam War from the 1950s to the 1970s?",
+            "options": [
+              { "text": "North Vietnam", "correct": true },
+              { "text": "Cambodia", "correct": false },
+              { "text": "Laos", "correct": false },
+              { "text": "South Vietnam", "correct": false }
+            ]
+          },
+          {
+            "question": "In what year did the Arab Spring protests begin, leading to widespread protests across the Arab world?",
+            "options": [
+              { "text": "2009", "correct": false },
+              { "text": "2011", "correct": true },
+              { "text": "2010", "correct": false },
+              { "text": "2015", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of the following countries did the U.S. invade in 2001 after the September 11 attacks?",
+            "options": [
+              { "text": "Iraq", "correct": false },
+              { "text": "Afghanistan", "correct": true },
+              { "text": "Syria", "correct": false },
+              { "text": "Libya", "correct": false }
+            ]
+          },
+          {
+            "question": "Which leader became the first woman to serve as the Chancellor of Germany in 2005?",
+            "options": [
+              { "text": "Theresa May", "correct": false },
+              { "text": "Angela Merkel", "correct": true },
+              { "text": "Hillary Clinton", "correct": false },
+              { "text": "Margaret Thatcher", "correct": false }
+            ]
+          }
+        ],
+        "Global Pandemics and Their Impact (e.g., COVID-19)": [
+          {
+            "question": "In which year was the COVID-19 pandemic officially declared by the World Health Organization?",
+            "options": [
+              { "text": "2019", "correct": false },
+              { "text": "2020", "correct": true },
+              { "text": "2021", "correct": false },
+              { "text": "2022", "correct": false }
+            ]
+          },
+          {
+            "question": "Which country was the first to report cases of the novel coronavirus in December 2019?",
+            "options": [
+              { "text": "United States", "correct": false },
+              { "text": "China", "correct": true },
+              { "text": "Italy", "correct": false },
+              { "text": "India", "correct": false }
+            ]
+          },
+          {
+            "question": "Which organization played a key role in managing the global vaccine rollout for COVID-19?",
+            "options": [
+              { "text": "United Nations", "correct": false },
+              { "text": "World Health Organization", "correct": true },
+              { "text": "World Trade Organization", "correct": false },
+              { "text": "GAVI", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of the following was a significant consequence of the COVID-19 pandemic?",
+            "options": [
+              { "text": "A global economic recession", "correct": true },
+              { "text": "Global unemployment rates decreased", "correct": false },
+              { "text": "Global poverty was eliminated", "correct": false },
+              { "text": "Countries became more isolated", "correct": false }
+            ]
+          },
+          {
+            "question": "Which global event did COVID-19 prevent from being held in 2020?",
+            "options": [
+              { "text": "Summer Olympics", "correct": true },
+              { "text": "FIFA World Cup", "correct": false },
+              { "text": "Expo 2020", "correct": false },
+              { "text": "Copa America", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the primary method recommended for preventing the spread of COVID-19?",
+            "options": [
+              { "text": "Handwashing", "correct": false },
+              { "text": "Wearing masks", "correct": true },
+              { "text": "Social distancing", "correct": false },
+              { "text": "All of the above", "correct": true }
+            ]
+          },
+          {
+            "question": "Which of these pharmaceutical companies developed a widely-used vaccine for COVID-19?",
+            "options": [
+              { "text": "Moderna", "correct": true },
+              { "text": "Johnson & Johnson", "correct": false },
+              { "text": "Pfizer", "correct": true },
+              { "text": "AstraZeneca", "correct": true }
+            ]
+          },
+          {
+            "question": "Which of these measures were imposed in many countries during the COVID-19 pandemic?",
+            "options": [
+              { "text": "Lockdowns", "correct": true },
+              { "text": "Complete elimination of international travel", "correct": false },
+              { "text": "Curfews only", "correct": false },
+              { "text": "Mandatory vaccinations", "correct": false }
+            ]
+          },
+          {
+            "question": "Which event triggered widespread global supply chain disruptions during the COVID-19 pandemic?",
+            "options": [
+              { "text": "Airline crashes", "correct": false },
+              { "text": "Factory shutdowns", "correct": true },
+              { "text": "Terrorist attacks", "correct": false },
+              { "text": "Natural disasters", "correct": false }
+            ]
+          },
+          {
+            "question": "Which is considered a major long-term effect of the COVID-19 pandemic?",
+            "options": [
+              { "text": "Increased online education", "correct": true },
+              { "text": "Global job growth", "correct": false },
+              { "text": "A decrease in internet usage", "correct": false },
+              { "text": "Complete eradication of all infectious diseases", "correct": false }
+            ]
+          }
+        ]
+      }
+    }
+  }
+
+
+

@@ -1,0 +1,476 @@
+{
+    "Colonialism and Global Empires": {
+      "European Colonization": {
+        "Spanish, Portuguese, British Empires": [
+          {
+            "question": "Which explorer's voyage led to the Spanish colonization of the Americas?",
+            "options": [
+              { "text": "Christopher Columbus", "correct": true },
+              { "text": "Ferdinand Magellan", "correct": false },
+              { "text": "Francis Drake", "correct": false },
+              { "text": "Vasco da Gama", "correct": false }
+            ]
+          },
+          {
+            "question": "Which region did the Portuguese Empire initially colonize in South America?",
+            "options": [
+              { "text": "Brazil", "correct": true },
+              { "text": "Argentina", "correct": false },
+              { "text": "Peru", "correct": false },
+              { "text": "Chile", "correct": false }
+            ]
+          },
+          {
+            "question": "What was one of the primary motivations for British colonization?",
+            "options": [
+              { "text": "Economic gain through trade and resources", "correct": true },
+              { "text": "Conversion of Protestants", "correct": false },
+              { "text": "Building military outposts", "correct": false },
+              { "text": "Forming alliances with Spain", "correct": false }
+            ]
+          },
+          {
+            "question": "The Treaty of Tordesillas divided newly discovered lands between which two empires?",
+            "options": [
+              { "text": "Spain and Portugal", "correct": true },
+              { "text": "England and France", "correct": false },
+              { "text": "Portugal and the Netherlands", "correct": false },
+              { "text": "Spain and France", "correct": false }
+            ]
+          },
+          {
+            "question": "The Spanish Empire extracted large amounts of silver from which region?",
+            "options": [
+              { "text": "Potosí in Bolivia", "correct": true },
+              { "text": "The Gold Coast in Africa", "correct": false },
+              { "text": "Madagascar", "correct": false },
+              { "text": "New England", "correct": false }
+            ]
+          },
+          {
+            "question": "What role did the British East India Company play in the British Empire?",
+            "options": [
+              { "text": "It established trade and controlled territories in Asia", "correct": true },
+              { "text": "It focused on colonizing Africa", "correct": false },
+              { "text": "It managed trade with the American colonies", "correct": false },
+              { "text": "It exclusively traded with the Middle East", "correct": false }
+            ]
+          },
+          {
+            "question": "Which European empire controlled the Philippines for over 300 years?",
+            "options": [
+              { "text": "The Spanish Empire", "correct": true },
+              { "text": "The Portuguese Empire", "correct": false },
+              { "text": "The Dutch Empire", "correct": false },
+              { "text": "The British Empire", "correct": false }
+            ]
+          },
+          {
+            "question": "What resource attracted the Portuguese to colonize Angola?",
+            "options": [
+              { "text": "Gold", "correct": false },
+              { "text": "Ivory and enslaved Africans", "correct": true },
+              { "text": "Cotton", "correct": false },
+              { "text": "Tea", "correct": false }
+            ]
+          },
+          {
+            "question": "Which British colony was initially established as a penal colony?",
+            "options": [
+              { "text": "Australia", "correct": true },
+              { "text": "Jamaica", "correct": false },
+              { "text": "India", "correct": false },
+              { "text": "Canada", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Portuguese colony in Asia was a major trading port until 1999?",
+            "options": [
+              { "text": "Macau", "correct": true },
+              { "text": "Goa", "correct": false },
+              { "text": "Timor", "correct": false },
+              { "text": "Malacca", "correct": false }
+            ]
+          }
+        ],
+        "Impact on Indigenous Populations": [
+          {
+            "question": "What was a common outcome for indigenous populations upon European contact?",
+            "options": [
+              { "text": "Population decline due to disease", "correct": true },
+              { "text": "Flourishing cultural exchange", "correct": false },
+              { "text": "Immediate alliances with Europeans", "correct": false },
+              { "text": "Rapid population growth", "correct": false }
+            ]
+          },
+          {
+            "question": "The encomienda system primarily forced indigenous people to do what?",
+            "options": [
+              { "text": "Work in mines and plantations", "correct": true },
+              { "text": "Become colonial governors", "correct": false },
+              { "text": "Practice European farming methods", "correct": false },
+              { "text": "Adopt European religious practices", "correct": false }
+            ]
+          },
+          {
+            "question": "What did the British Royal Proclamation of 1763 aim to do?",
+            "options": [
+              { "text": "Limit colonists' westward expansion", "correct": true },
+              { "text": "Expand British settlement into new territories", "correct": false },
+              { "text": "Legalize the use of indigenous lands", "correct": false },
+              { "text": "Outlaw native trading rights", "correct": false }
+            ]
+          },
+          {
+            "question": "Which European-introduced animal dramatically changed indigenous lifestyles in the Americas?",
+            "options": [
+              { "text": "Horses", "correct": true },
+              { "text": "Sheep", "correct": false },
+              { "text": "Cats", "correct": false },
+              { "text": "Dogs", "correct": false }
+            ]
+          },
+          {
+            "question": "The spread of which disease devastated indigenous populations in the Americas?",
+            "options": [
+              { "text": "Smallpox", "correct": true },
+              { "text": "Plague", "correct": false },
+              { "text": "Tuberculosis", "correct": false },
+              { "text": "Yellow fever", "correct": false }
+            ]
+          },
+          {
+            "question": "The Spanish required indigenous people to convert to which religion?",
+            "options": [
+              { "text": "Christianity", "correct": true },
+              { "text": "Islam", "correct": false },
+              { "text": "Judaism", "correct": false },
+              { "text": "Hinduism", "correct": false }
+            ]
+          },
+          {
+            "question": "Which crop introduced to Europe from the Americas became a staple food?",
+            "options": [
+              { "text": "Potato", "correct": true },
+              { "text": "Rice", "correct": false },
+              { "text": "Barley", "correct": false },
+              { "text": "Rye", "correct": false }
+            ]
+          },
+          {
+            "question": "Which British policy restricted the movement of American colonists and affected indigenous lands?",
+            "options": [
+              { "text": "The Proclamation Line of 1763", "correct": true },
+              { "text": "The Stamp Act", "correct": false },
+              { "text": "The Intolerable Acts", "correct": false },
+              { "text": "The Quartering Act", "correct": false }
+            ]
+          },
+          {
+            "question": "What practice was used by Europeans to justify the displacement of indigenous populations?",
+            "options": [
+              { "text": "Doctrine of Discovery", "correct": true },
+              { "text": "Law of Nations", "correct": false },
+              { "text": "Edict of Expansion", "correct": false },
+              { "text": "Manifest Destiny", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the term for the forced labor system imposed on indigenous people in Spanish America?",
+            "options": [
+              { "text": "Encomienda", "correct": true },
+              { "text": "Serfdom", "correct": false },
+              { "text": "Vassalage", "correct": false },
+              { "text": "Indenture", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Atlantic Slave Trade": {
+        "Causes, Effects, and Abolition Movements": [
+          {
+            "question": "Which crop created a high demand for enslaved labor in the Caribbean?",
+            "options": [
+              { "text": "Sugar", "correct": true },
+              { "text": "Tobacco", "correct": false },
+              { "text": "Wheat", "correct": false },
+              { "text": "Rice", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the primary destination for enslaved Africans during the transatlantic slave trade?",
+            "options": [
+              { "text": "The Americas", "correct": true },
+              { "text": "Asia", "correct": false },
+              { "text": "Europe", "correct": false },
+              { "text": "Australia", "correct": false }
+            ]
+          },
+          {
+            "question": "Which leg of the triangular trade involved transporting enslaved Africans to the Americas?",
+            "options": [
+              { "text": "Middle Passage", "correct": true },
+              { "text": "Final Passage", "correct": false },
+              { "text": "Return Passage", "correct": false },
+              { "text": "Atlantic Crossing", "correct": false }
+            ]
+          },
+          {
+            "question": "Which former enslaved person became a prominent abolitionist and wrote a powerful autobiography?",
+            "options": [
+              { "text": "Frederick Douglass", "correct": true },
+              { "text": "Harriet Tubman", "correct": false },
+              { "text": "Nat Turner", "correct": false },
+              { "text": "William Lloyd Garrison", "correct": false }
+            ]
+          },
+          {
+            "question": "What year did Britain officially abolish the transatlantic slave trade?",
+            "options": [
+              { "text": "1807", "correct": true },
+              { "text": "1833", "correct": false },
+              { "text": "1865", "correct": false },
+              { "text": "1789", "correct": false }
+            ]
+          },
+          {
+            "question": "The Society for Effecting the Abolition of the Slave Trade was founded in which country?",
+            "options": [
+              { "text": "England", "correct": true },
+              { "text": "France", "correct": false },
+              { "text": "United States", "correct": false },
+              { "text": "Spain", "correct": false }
+            ]
+          },
+          {
+            "question": "Which major slave uprising in the Caribbean led to the establishment of an independent nation?",
+            "options": [
+              { "text": "Haitian Revolution", "correct": true },
+              { "text": "American Revolution", "correct": false },
+              { "text": "French Revolution", "correct": false },
+              { "text": "Nat Turner's Rebellion", "correct": false }
+            ]
+          },
+          {
+            "question": "What impact did the abolition movement in Britain have on global abolition efforts?",
+            "options": [
+              { "text": "It influenced abolitionist movements in other countries", "correct": true },
+              { "text": "It discouraged other nations from following", "correct": false },
+              { "text": "It only applied to British colonies", "correct": false },
+              { "text": "It led to an increase in slave trade", "correct": false }
+            ]
+          },
+          {
+            "question": "Which group led early abolitionist efforts by publishing pamphlets and holding public meetings in Britain?",
+            "options": [
+              { "text": "The Quakers", "correct": true },
+              { "text": "The Anglicans", "correct": false },
+              { "text": "The Puritans", "correct": false },
+              { "text": "The Jesuits", "correct": false }
+            ]
+          },
+          {
+            "question": "Which landmark court case in Britain ruled against the forced return of enslaved persons to the colonies?",
+            "options": [
+              { "text": "Somerset v. Stewart", "correct": true },
+              { "text": "Brown v. Board of Education", "correct": false },
+              { "text": "Dred Scott v. Sandford", "correct": false },
+              { "text": "Marbury v. Madison", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Colonial Asia": {
+        "British in India, Dutch in Indonesia": [
+          {
+            "question": "Which battle marked the beginning of British control in India?",
+            "options": [
+              { "text": "Battle of Plassey", "correct": true },
+              { "text": "Battle of Buxar", "correct": false },
+              { "text": "Battle of Panipat", "correct": false },
+              { "text": "Battle of Waterloo", "correct": false }
+            ]
+          },
+          {
+            "question": "Which British company played a central role in the colonization of India?",
+            "options": [
+              { "text": "British East India Company", "correct": true },
+              { "text": "Hudson's Bay Company", "correct": false },
+              { "text": "Royal African Company", "correct": false },
+              { "text": "Dutch East India Company", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Dutch colony became an important trading post for spices in Southeast Asia?",
+            "options": [
+              { "text": "Java", "correct": true },
+              { "text": "Sri Lanka", "correct": false },
+              { "text": "Philippines", "correct": false },
+              { "text": "Malaya", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the last Mughal Emperor of India, whose reign marked the end of the Mughal Empire?",
+            "options": [
+              { "text": "Bahadur Shah II", "correct": true },
+              { "text": "Aurangzeb", "correct": false },
+              { "text": "Shah Jahan", "correct": false },
+              { "text": "Akbar", "correct": false }
+            ]
+          },
+          {
+            "question": "What event in 1857 in India is considered a major turning point in British colonial rule?",
+            "options": [
+              { "text": "The Indian Rebellion of 1857", "correct": true },
+              { "text": "The Sepoy Mutiny", "correct": false },
+              { "text": "The Battle of Plassey", "correct": false },
+              { "text": "The signing of the Treaty of Nanking", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Dutch explorer is credited with reaching the coast of Australia in the 17th century?",
+            "options": [
+              { "text": "Willem Janszoon", "correct": true },
+              { "text": "James Cook", "correct": false },
+              { "text": "Abel Tasman", "correct": false },
+              { "text": "Francis Drake", "correct": false }
+            ]
+          },
+          {
+            "question": "Which empire controlled Indonesia before the Dutch East India Company took over?",
+            "options": [
+              { "text": "The Sultanate of Mataram", "correct": true },
+              { "text": "The Ottoman Empire", "correct": false },
+              { "text": "The Mongol Empire", "correct": false },
+              { "text": "The Ming Dynasty", "correct": false }
+            ]
+          },
+          {
+            "question": "Which event in the 18th century contributed to the formal British colonization of India?",
+            "options": [
+              { "text": "The Battle of Plassey", "correct": true },
+              { "text": "The signing of the Treaty of Paris", "correct": false },
+              { "text": "The Glorious Revolution", "correct": false },
+              { "text": "The establishment of the Raj", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the primary crop cultivated on plantations in British-controlled India during the 19th century?",
+            "options": [
+              { "text": "Opium", "correct": true },
+              { "text": "Cotton", "correct": false },
+              { "text": "Tobacco", "correct": false },
+              { "text": "Sugar", "correct": false }
+            ]
+          },
+          {
+            "question": "Which event caused significant changes to colonial policies in India and Indonesia after World War II?",
+            "options": [
+              { "text": "The independence movements", "correct": true },
+              { "text": "The Opium Wars", "correct": false },
+              { "text": "The Boer War", "correct": false },
+              { "text": "The Dutch Invasion of Japan", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Africa": {
+        "Resistance and Impact on Societies": [
+          {
+            "question": "Which African kingdom successfully resisted British colonization in the late 19th century?",
+            "options": [
+              { "text": "The Zulu Kingdom", "correct": true },
+              { "text": "The Ashanti Empire", "correct": false },
+              { "text": "The Kingdom of Mali", "correct": false },
+              { "text": "The Kingdom of Egypt", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the leader of the Zulu resistance against the British during the Anglo-Zulu War of 1879?",
+            "options": [
+              { "text": "King Cetshwayo", "correct": true },
+              { "text": "Shaka Zulu", "correct": false },
+              { "text": "Mansa Musa", "correct": false },
+              { "text": "Haile Selassie", "correct": false }
+            ]
+          },
+          {
+            "question": "Which major African empire was dissolved by the French in the 19th century, leading to the annexation of its territory?",
+            "options": [
+              { "text": "The Kingdom of Dahomey", "correct": true },
+              { "text": "The Mali Empire", "correct": false },
+              { "text": "The Kingdom of Kush", "correct": false },
+              { "text": "The Kingdom of Axum", "correct": false }
+            ]
+          },
+          {
+            "question": "Which leader spearheaded the struggle for independence in Algeria against French colonial rule?",
+            "options": [
+              { "text": "Ahmed Ben Bella", "correct": true },
+              { "text": "Nelson Mandela", "correct": false },
+              { "text": "Kwame Nkrumah", "correct": false },
+              { "text": "Patrice Lumumba", "correct": false }
+            ]
+          },
+          {
+            "question": "Which resistance movement in Kenya fought against British colonial rule and led to the Mau Mau Uprising?",
+            "options": [
+              { "text": "The Kikuyu", "correct": true },
+              { "text": "The Zulu", "correct": false },
+              { "text": "The Maasai", "correct": false },
+              { "text": "The Ndebele", "correct": false }
+            ]
+          },
+          {
+            "question": "Which country was the first to gain independence from colonial rule in sub-Saharan Africa in 1957?",
+            "options": [
+              { "text": "Ghana", "correct": true },
+              { "text": "Nigeria", "correct": false },
+              { "text": "Kenya", "correct": false },
+              { "text": "South Africa", "correct": false }
+            ]
+          },
+          {
+            "question": "The Belgian Congo was notorious for the brutal exploitation of which resource?",
+            "options": [
+              { "text": "Rubber", "correct": true },
+              { "text": "Gold", "correct": false },
+              { "text": "Diamond", "correct": false },
+              { "text": "Cocoa", "correct": false }
+            ]
+          },
+          {
+            "question": "Which African leader is known for his fight against Italian colonization in Ethiopia?",
+            "options": [
+              { "text": "Haile Selassie", "correct": true },
+              { "text": "Kwame Nkrumah", "correct": false },
+              { "text": "Jomo Kenyatta", "correct": false },
+              { "text": "Nelson Mandela", "correct": false }
+            ]
+          },
+          {
+            "question": "Which empire was defeated by the British during the Second Anglo-Boer War, resulting in British control of South Africa?",
+            "options": [
+              { "text": "The Boer Empire", "correct": true },
+              { "text": "The Zulu Kingdom", "correct": false },
+              { "text": "The Ashanti Empire", "correct": false },
+              { "text": "The Kingdom of Dahomey", "correct": false }
+            ]
+          },
+          {
+            "question": "Which African leader is known for leading Ghana to independence and promoting Pan-Africanism?",
+            "options": [
+              { "text": "Kwame Nkrumah", "correct": true },
+              { "text": "Nelson Mandela", "correct": false },
+              { "text": "Patrice Lumumba", "correct": false },
+              { "text": "Jomo Kenyatta", "correct": false }
+            ]
+          }
+        ]
+      }
+    }
+  }
+
+
+
+

@@ -1,0 +1,750 @@
+{
+    "Renaissance and Early Modern Period": {
+      "Reformation and Religious Wars": {
+        "Protestant Reformation and Martin Luther": [
+          {
+            "question": "Which document did Martin Luther famously nail to a church door in Wittenberg in 1517?",
+            "options": [
+              { "text": "The Augsburg Confession", "correct": false },
+              { "text": "The Ninety-Five Theses", "correct": true },
+              { "text": "The Edict of Worms", "correct": false },
+              { "text": "The Council of Trent", "correct": false }
+            ]
+          },
+          {
+            "question": "Which religious practice did Martin Luther challenge in his Ninety-Five Theses?",
+            "options": [
+              { "text": "Indulgences", "correct": true },
+              { "text": "Baptism", "correct": false },
+              { "text": "Communion", "correct": false },
+              { "text": "Ordination", "correct": false }
+            ]
+          },
+          {
+            "question": "Which German prince protected Martin Luther after his excommunication?",
+            "options": [
+              { "text": "Frederick the Wise", "correct": true },
+              { "text": "Charles V", "correct": false },
+              { "text": "Philip II", "correct": false },
+              { "text": "Henry VIII", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Protestant reformer founded Calvinism in Switzerland?",
+            "options": [
+              { "text": "Martin Luther", "correct": false },
+              { "text": "John Calvin", "correct": true },
+              { "text": "Ulrich Zwingli", "correct": false },
+              { "text": "John Knox", "correct": false }
+            ]
+          },
+          {
+            "question": "Which invention greatly aided the spread of Reformation ideas?",
+            "options": [
+              { "text": "Printing press", "correct": true },
+              { "text": "Compass", "correct": false },
+              { "text": "Gunpowder", "correct": false },
+              { "text": "Steam engine", "correct": false }
+            ]
+          },
+          {
+            "question": "The Peace of Augsburg (1555) allowed rulers in the Holy Roman Empire to choose between which two religions?",
+            "options": [
+              { "text": "Catholicism and Protestantism", "correct": true },
+              { "text": "Lutheranism and Calvinism", "correct": false },
+              { "text": "Anglicanism and Calvinism", "correct": false },
+              { "text": "Catholicism and Eastern Orthodoxy", "correct": false }
+            ]
+          },
+          {
+            "question": "Which English king established the Church of England?",
+            "options": [
+              { "text": "Henry VIII", "correct": true },
+              { "text": "Edward VI", "correct": false },
+              { "text": "Charles I", "correct": false },
+              { "text": "James I", "correct": false }
+            ]
+          },
+          {
+            "question": "Which council was convened by the Catholic Church in response to the Reformation?",
+            "options": [
+              { "text": "Council of Trent", "correct": true },
+              { "text": "Council of Nicaea", "correct": false },
+              { "text": "Council of Clermont", "correct": false },
+              { "text": "Council of Worms", "correct": false }
+            ]
+          },
+          {
+            "question": "John Calvin's teachings emphasized the concept of which doctrine?",
+            "options": [
+              { "text": "Predestination", "correct": true },
+              { "text": "Transubstantiation", "correct": false },
+              { "text": "Indulgences", "correct": false },
+              { "text": "Sacraments", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the main purpose of the Jesuit Order, founded by Ignatius of Loyola?",
+            "options": [
+              { "text": "To convert Protestants back to Catholicism", "correct": true },
+              { "text": "To reform the Spanish Inquisition", "correct": false },
+              { "text": "To fight in the Crusades", "correct": false },
+              { "text": "To promote Calvinism", "correct": false }
+            ]
+          }
+        ],
+        "Wars of Religion": [
+          {
+            "question": "Which war, ending in 1648, is often seen as the last major religious war in Europe?",
+            "options": [
+              { "text": "Thirty Years' War", "correct": true },
+              { "text": "War of the Roses", "correct": false },
+              { "text": "Hundred Years' War", "correct": false },
+              { "text": "English Civil War", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the main outcome of the Peace of Westphalia (1648)?",
+            "options": [
+              { "text": "Recognition of religious freedom for Protestants", "correct": true },
+              { "text": "A Catholic victory over Protestants", "correct": false },
+              { "text": "Unification of Germany", "correct": false },
+              { "text": "The establishment of the Anglican Church", "correct": false }
+            ]
+          },
+          {
+            "question": "Which queen of England is known for her violent persecution of Protestants, earning the nickname 'Bloody Mary'?",
+            "options": [
+              { "text": "Mary I", "correct": true },
+              { "text": "Elizabeth I", "correct": false },
+              { "text": "Mary, Queen of Scots", "correct": false },
+              { "text": "Jane Grey", "correct": false }
+            ]
+          },
+          {
+            "question": "Which 1572 event marked a major massacre of Huguenots in France?",
+            "options": [
+              { "text": "St. Bartholomew's Day Massacre", "correct": true },
+              { "text": "Defenestration of Prague", "correct": false },
+              { "text": "Battle of Lepanto", "correct": false },
+              { "text": "Siege of La Rochelle", "correct": false }
+            ]
+          },
+          {
+            "question": "The Edict of Nantes (1598) granted religious tolerance to which group in France?",
+            "options": [
+              { "text": "Huguenots", "correct": true },
+              { "text": "Catholics", "correct": false },
+              { "text": "Jews", "correct": false },
+              { "text": "Muslims", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Protestant prince converted to Catholicism to rule France, famously saying, 'Paris is well worth a Mass'?",
+            "options": [
+              { "text": "Henry IV", "correct": true },
+              { "text": "Louis XIII", "correct": false },
+              { "text": "Charles V", "correct": false },
+              { "text": "Francis I", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the primary goal of the Catholic League during the Wars of Religion in France?",
+            "options": [
+              { "text": "To prevent Protestant influence in France", "correct": true },
+              { "text": "To establish an alliance with England", "correct": false },
+              { "text": "To defeat the Ottoman Empire", "correct": false },
+              { "text": "To colonize North America", "correct": false }
+            ]
+          },
+          {
+            "question": "The Bohemian Revolt in 1618 was sparked by the defenestration of royal officials in which city?",
+            "options": [
+              { "text": "Prague", "correct": true },
+              { "text": "Vienna", "correct": false },
+              { "text": "Berlin", "correct": false },
+              { "text": "Paris", "correct": false }
+            ]
+          },
+          {
+            "question": "Which kingdom became a Protestant stronghold and major participant in the Thirty Years' War?",
+            "options": [
+              { "text": "Sweden", "correct": true },
+              { "text": "Austria", "correct": false },
+              { "text": "Spain", "correct": false },
+              { "text": "France", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Catholic ruler led the Habsburg forces against Protestant forces in the Thirty Years' War?",
+            "options": [
+              { "text": "Ferdinand II", "correct": true },
+              { "text": "Philip II", "correct": false },
+              { "text": "Charles V", "correct": false },
+              { "text": "Louis XIV", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Asia and the Middle East": {
+        "Mughal Empire in India": [
+          {
+            "question": "Who was the founder of the Mughal Empire?",
+            "options": [
+              { "text": "Babur", "correct": true },
+              { "text": "Akbar", "correct": false },
+              { "text": "Aurangzeb", "correct": false },
+              { "text": "Shah Jahan", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Mughal emperor is known for promoting religious tolerance?",
+            "options": [
+              { "text": "Akbar", "correct": true },
+              { "text": "Aurangzeb", "correct": false },
+              { "text": "Babur", "correct": false },
+              { "text": "Shah Jahan", "correct": false }
+            ]
+          },
+          {
+            "question": "The Taj Mahal was built by which Mughal emperor?",
+            "options": [
+              { "text": "Shah Jahan", "correct": true },
+              { "text": "Akbar", "correct": false },
+              { "text": "Aurangzeb", "correct": false },
+              { "text": "Babur", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Mughal ruler expanded the empire to its greatest extent but was known for religious intolerance?",
+            "options": [
+              { "text": "Aurangzeb", "correct": true },
+              { "text": "Akbar", "correct": false },
+              { "text": "Shah Jahan", "correct": false },
+              { "text": "Jahangir", "correct": false }
+            ]
+          },
+          {
+            "question": "Which religion developed under the influence of the Mughal rule in India?",
+            "options": [
+              { "text": "Sikhism", "correct": true },
+              { "text": "Hinduism", "correct": false },
+              { "text": "Buddhism", "correct": false },
+              { "text": "Jainism", "correct": false }
+            ]
+          },
+          {
+            "question": "Which city served as the capital of the Mughal Empire under Akbar's rule?",
+            "options": [
+              { "text": "Fatehpur Sikri", "correct": true },
+              { "text": "Delhi", "correct": false },
+              { "text": "Agra", "correct": false },
+              { "text": "Lahore", "correct": false }
+            ]
+          },
+          {
+            "question": "The Mughal Empire was established after Babur’s victory at which battle?",
+            "options": [
+              { "text": "First Battle of Panipat", "correct": true },
+              { "text": "Battle of Talikota", "correct": false },
+              { "text": "Battle of Khanwa", "correct": false },
+              { "text": "Battle of Haldighati", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the dominant language of the Mughal court?",
+            "options": [
+              { "text": "Persian", "correct": true },
+              { "text": "Urdu", "correct": false },
+              { "text": "Hindi", "correct": false },
+              { "text": "Arabic", "correct": false }
+            ]
+          },
+          {
+            "question": "Which European country first established trade relations with the Mughals?",
+            "options": [
+              { "text": "Portugal", "correct": true },
+              { "text": "France", "correct": false },
+              { "text": "Britain", "correct": false },
+              { "text": "Spain", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Mughal emperor's reign marked the beginning of the empire’s decline?",
+            "options": [
+              { "text": "Aurangzeb", "correct": true },
+              { "text": "Akbar", "correct": false },
+              { "text": "Babur", "correct": false },
+              { "text": "Shah Jahan", "correct": false }
+            ]
+          }
+        ],
+        "Ottoman Empire's Expansion": [
+          {
+            "question": "Who was the founder of the Ottoman Empire?",
+            "options": [
+              { "text": "Osman I", "correct": true },
+              { "text": "Suleiman the Magnificent", "correct": false },
+              { "text": "Mehmed II", "correct": false },
+              { "text": "Bayezid I", "correct": false }
+            ]
+          },
+          {
+            "question": "In what year did the Ottomans capture Constantinople, marking the end of the Byzantine Empire?",
+            "options": [
+              { "text": "1453", "correct": true },
+              { "text": "1492", "correct": false },
+              { "text": "1517", "correct": false },
+              { "text": "1571", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the Ottoman ruler during the empire's 'Golden Age'?",
+            "options": [
+              { "text": "Suleiman the Magnificent", "correct": true },
+              { "text": "Osman I", "correct": false },
+              { "text": "Selim I", "correct": false },
+              { "text": "Bayezid I", "correct": false }
+            ]
+          },
+          {
+            "question": "Which elite military unit, composed of Christian boys converted to Islam, served the Ottoman sultans?",
+            "options": [
+              { "text": "Janissaries", "correct": true },
+              { "text": "Mamluks", "correct": false },
+              { "text": "Knights Templar", "correct": false },
+              { "text": "Hussars", "correct": false }
+            ]
+          },
+          {
+            "question": "The Ottoman Empire's capital was located in which city after 1453?",
+            "options": [
+              { "text": "Constantinople", "correct": true },
+              { "text": "Baghdad", "correct": false },
+              { "text": "Ankara", "correct": false },
+              { "text": "Cairo", "correct": false }
+            ]
+          },
+          {
+            "question": "Which battle in 1571 marked a significant naval defeat for the Ottomans against European forces?",
+            "options": [
+              { "text": "Battle of Lepanto", "correct": true },
+              { "text": "Battle of Vienna", "correct": false },
+              { "text": "Battle of Mohacs", "correct": false },
+              { "text": "Battle of Varna", "correct": false }
+            ]
+          },
+          {
+            "question": "Which sultan is known for expanding the Ottoman Empire to include parts of North Africa, including Egypt?",
+            "options": [
+              { "text": "Selim I", "correct": true },
+              { "text": "Suleiman the Magnificent", "correct": false },
+              { "text": "Mehmed II", "correct": false },
+              { "text": "Osman I", "correct": false }
+            ]
+          },
+          {
+            "question": "The Ottomans and which other empire were frequently at odds over control of Mesopotamia?",
+            "options": [
+              { "text": "Safavid Empire", "correct": true },
+              { "text": "Mughal Empire", "correct": false },
+              { "text": "Russian Empire", "correct": false },
+              { "text": "Austro-Hungarian Empire", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Ottoman sultan's reign marked the largest territorial extent of the empire?",
+            "options": [
+              { "text": "Suleiman the Magnificent", "correct": true },
+              { "text": "Selim I", "correct": false },
+              { "text": "Osman I", "correct": false },
+              { "text": "Mehmed II", "correct": false }
+            ]
+          },
+          {
+            "question": "What title was held by the Ottoman rulers as both secular and religious leaders?",
+            "options": [
+              { "text": "Sultan and Caliph", "correct": true },
+              { "text": "Emperor and Shah", "correct": false },
+              { "text": "Khan and Vizier", "correct": false },
+              { "text": "Tsar and Patriarch", "correct": false }
+            ]
+          }
+        ]
+      },"Renaissance in Europe": {
+        "Art, Science, and Philosophy": [
+          {
+            "question": "Who painted the famous artwork 'The Last Supper'?",
+            "options": [
+              { "text": "Raphael", "correct": false },
+              { "text": "Leonardo da Vinci", "correct": true },
+              { "text": "Michelangelo", "correct": false },
+              { "text": "Titian", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the technique of painting on fresh wet plaster called?",
+            "options": [
+              { "text": "Fresco", "correct": true },
+              { "text": "Tempera", "correct": false },
+              { "text": "Impressionism", "correct": false },
+              { "text": "Pointillism", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Renaissance artist is known for sculpting the statue of 'David'?",
+            "options": [
+              { "text": "Donatello", "correct": false },
+              { "text": "Leonardo da Vinci", "correct": false },
+              { "text": "Michelangelo", "correct": true },
+              { "text": "Raphael", "correct": false }
+            ]
+          },
+          {
+            "question": "What philosophical movement emphasized human potential and achievements during the Renaissance?",
+            "options": [
+              { "text": "Realism", "correct": false },
+              { "text": "Humanism", "correct": true },
+              { "text": "Idealism", "correct": false },
+              { "text": "Existentialism", "correct": false }
+            ]
+          },
+          {
+            "question": "Who wrote 'The Prince,' a book about political power in the Renaissance?",
+            "options": [
+              { "text": "Niccolò Machiavelli", "correct": true },
+              { "text": "Erasmus", "correct": false },
+              { "text": "Thomas More", "correct": false },
+              { "text": "Dante Alighieri", "correct": false }
+            ]
+          },
+          {
+            "question": "In what city is Michelangelo's Sistine Chapel ceiling located?",
+            "options": [
+              { "text": "Florence", "correct": false },
+              { "text": "Venice", "correct": false },
+              { "text": "Rome", "correct": true },
+              { "text": "Naples", "correct": false }
+            ]
+          },
+          {
+            "question": "Which invention by Johannes Gutenberg had a massive impact on the spread of Renaissance ideas?",
+            "options": [
+              { "text": "The compass", "correct": false },
+              { "text": "The telescope", "correct": false },
+              { "text": "The printing press", "correct": true },
+              { "text": "The astrolabe", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Renaissance philosopher's work greatly influenced modern political science?",
+            "options": [
+              { "text": "Petrarch", "correct": false },
+              { "text": "Machiavelli", "correct": true },
+              { "text": "Erasmus", "correct": false },
+              { "text": "Thomas Aquinas", "correct": false }
+            ]
+          },
+          {
+            "question": "Which artist created the 'School of Athens,' a fresco that features great thinkers from history?",
+            "options": [
+              { "text": "Leonardo da Vinci", "correct": false },
+              { "text": "Raphael", "correct": true },
+              { "text": "Michelangelo", "correct": false },
+              { "text": "Titian", "correct": false }
+            ]
+          },
+          {
+            "question": "What term describes the intellectual and cultural 'rebirth' that took place during the Renaissance?",
+            "options": [
+              { "text": "Renaissance", "correct": true },
+              { "text": "Enlightenment", "correct": false },
+              { "text": "Modernism", "correct": false },
+              { "text": "Baroque", "correct": false }
+            ]
+          }
+        ],
+        "Humanism and Cultural Revival": [
+          {
+            "question": "Who is often called the 'Father of Humanism'?",
+            "options": [
+              { "text": "Petrarch", "correct": true },
+              { "text": "Dante", "correct": false },
+              { "text": "Boccaccio", "correct": false },
+              { "text": "Cervantes", "correct": false }
+            ]
+          },
+          {
+            "question": "Which work by Thomas More describes an ideal society?",
+            "options": [
+              { "text": "Utopia", "correct": true },
+              { "text": "The Republic", "correct": false },
+              { "text": "The Prince", "correct": false },
+              { "text": "The City of God", "correct": false }
+            ]
+          },
+          {
+            "question": "What classical language did Renaissance humanists focus on reviving?",
+            "options": [
+              { "text": "Hebrew", "correct": false },
+              { "text": "Arabic", "correct": false },
+              { "text": "Latin", "correct": true },
+              { "text": "French", "correct": false }
+            ]
+          },
+          {
+            "question": "The Renaissance began in which region of Europe?",
+            "options": [
+              { "text": "Northern Europe", "correct": false },
+              { "text": "Italy", "correct": true },
+              { "text": "France", "correct": false },
+              { "text": "Spain", "correct": false }
+            ]
+          },
+          {
+            "question": "Humanists studied the classics of which two ancient civilizations?",
+            "options": [
+              { "text": "Egypt and Mesopotamia", "correct": false },
+              { "text": "India and China", "correct": false },
+              { "text": "Greece and Rome", "correct": true },
+              { "text": "Carthage and Phoenicia", "correct": false }
+            ]
+          },
+          {
+            "question": "Which philosopher's works were re-discovered and became influential during the Renaissance?",
+            "options": [
+              { "text": "Aristotle", "correct": true },
+              { "text": "Confucius", "correct": false },
+              { "text": "Ibn Sina", "correct": false },
+              { "text": "Zeno", "correct": false }
+            ]
+          },
+          {
+            "question": "Which early Renaissance humanist is known for his letters to ancient Roman authors?",
+            "options": [
+              { "text": "Petrarch", "correct": true },
+              { "text": "Erasmus", "correct": false },
+              { "text": "Dante", "correct": false },
+              { "text": "Aquinas", "correct": false }
+            ]
+          },
+          {
+            "question": "Who created the famous 'Vitruvian Man' drawing that embodies humanist ideals?",
+            "options": [
+              { "text": "Michelangelo", "correct": false },
+              { "text": "Raphael", "correct": false },
+              { "text": "Leonardo da Vinci", "correct": true },
+              { "text": "Donatello", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Renaissance figure is known for his educational reforms and emphasis on classical education?",
+            "options": [
+              { "text": "Martin Luther", "correct": false },
+              { "text": "Thomas More", "correct": false },
+              { "text": "Erasmus", "correct": true },
+              { "text": "Niccolò Machiavelli", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the name of the Italian city often considered the birthplace of the Renaissance?",
+            "options": [
+              { "text": "Florence", "correct": true },
+              { "text": "Rome", "correct": false },
+              { "text": "Venice", "correct": false },
+              { "text": "Milan", "correct": false }
+            ]
+          }
+        ]
+      }, "Age of Exploration": {
+        "Explorers and Conquests": [
+          {
+            "question": "Which explorer completed the first circumnavigation of the Earth?",
+            "options": [
+              { "text": "Christopher Columbus", "correct": false },
+              { "text": "Vasco da Gama", "correct": false },
+              { "text": "Ferdinand Magellan", "correct": true },
+              { "text": "Hernán Cortés", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Italian explorer, sailing for Spain, reached the Americas in 1492?",
+            "options": [
+              { "text": "John Cabot", "correct": false },
+              { "text": "Marco Polo", "correct": false },
+              { "text": "Christopher Columbus", "correct": true },
+              { "text": "Amerigo Vespucci", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the primary goal of the early Portuguese explorers?",
+            "options": [
+              { "text": "To find gold in Africa", "correct": false },
+              { "text": "To find a sea route to Asia", "correct": true },
+              { "text": "To convert natives to Christianity", "correct": false },
+              { "text": "To conquer the New World", "correct": false }
+            ]
+          },
+          {
+            "question": "Who led the Spanish conquest of the Aztec Empire?",
+            "options": [
+              { "text": "Hernán Cortés", "correct": true },
+              { "text": "Francisco Pizarro", "correct": false },
+              { "text": "Vasco Núñez de Balboa", "correct": false },
+              { "text": "Pedro Álvares Cabral", "correct": false }
+            ]
+          },
+          {
+            "question": "Which explorer claimed Brazil for Portugal in 1500?",
+            "options": [
+              { "text": "Ferdinand Magellan", "correct": false },
+              { "text": "Vasco da Gama", "correct": false },
+              { "text": "Pedro Álvares Cabral", "correct": true },
+              { "text": "Francisco de Almeida", "correct": false }
+            ]
+          },
+          {
+            "question": "Which explorer is credited with discovering the sea route to India by sailing around Africa?",
+            "options": [
+              { "text": "Vasco da Gama", "correct": true },
+              { "text": "Bartolomeu Dias", "correct": false },
+              { "text": "Magellan", "correct": false },
+              { "text": "Christopher Columbus", "correct": false }
+            ]
+          },
+          {
+            "question": "Who explored the coast of North America and claimed it for England in 1497?",
+            "options": [
+              { "text": "Christopher Columbus", "correct": false },
+              { "text": "John Cabot", "correct": true },
+              { "text": "Hernán Cortés", "correct": false },
+              { "text": "Jacques Cartier", "correct": false }
+            ]
+          },
+          {
+            "question": "The Treaty of Tordesillas divided new lands between which two countries?",
+            "options": [
+              { "text": "Spain and France", "correct": false },
+              { "text": "Spain and England", "correct": false },
+              { "text": "Spain and Portugal", "correct": true },
+              { "text": "Portugal and France", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the Inca Emperor at the time of the Spanish conquest?",
+            "options": [
+              { "text": "Montezuma", "correct": false },
+              { "text": "Atahualpa", "correct": true },
+              { "text": "Pachacuti", "correct": false },
+              { "text": "Topa Inca", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the first European to reach the Pacific Ocean from the New World?",
+            "options": [
+              { "text": "Vasco Núñez de Balboa", "correct": true },
+              { "text": "Hernán Cortés", "correct": false },
+              { "text": "Francisco Pizarro", "correct": false },
+              { "text": "Magellan", "correct": false }
+            ]
+          }
+        ],
+        "Columbian Exchange and Its Impact": [
+          {
+            "question": "Which crop, introduced to Europe from the Americas, became a staple in Ireland?",
+            "options": [
+              { "text": "Corn", "correct": false },
+              { "text": "Potatoes", "correct": true },
+              { "text": "Tomatoes", "correct": false },
+              { "text": "Tobacco", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Old World disease had a devastating impact on Native American populations?",
+            "options": [
+              { "text": "Smallpox", "correct": true },
+              { "text": "Malaria", "correct": false },
+              { "text": "Tuberculosis", "correct": false },
+              { "text": "Influenza", "correct": false }
+            ]
+          },
+          {
+            "question": "What was one of the main livestock animals introduced to the Americas by Europeans?",
+            "options": [
+              { "text": "Horse", "correct": true },
+              { "text": "Elephant", "correct": false },
+              { "text": "Camel", "correct": false },
+              { "text": "Rabbit", "correct": false }
+            ]
+          },
+          {
+            "question": "Which valuable cash crop from the Americas significantly impacted European economies?",
+            "options": [
+              { "text": "Wheat", "correct": false },
+              { "text": "Sugarcane", "correct": true },
+              { "text": "Tea", "correct": false },
+              { "text": "Coffee", "correct": false }
+            ]
+          },
+          {
+            "question": "The introduction of which plant to Europe from the Americas led to a culinary transformation in Italy?",
+            "options": [
+              { "text": "Corn", "correct": false },
+              { "text": "Potato", "correct": false },
+              { "text": "Tomato", "correct": true },
+              { "text": "Squash", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the primary economic activity in the New World that required African slave labor?",
+            "options": [
+              { "text": "Mining", "correct": false },
+              { "text": "Agriculture", "correct": true },
+              { "text": "Shipbuilding", "correct": false },
+              { "text": "Metalworking", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of the following was a significant animal introduced to the Americas by Europeans?",
+            "options": [
+              { "text": "Horse", "correct": true },
+              { "text": "Llama", "correct": false },
+              { "text": "Kangaroo", "correct": false },
+              { "text": "Cattle", "correct": false }
+            ]
+          },
+          {
+            "question": "Which crop from the Americas became a major source of calories in Europe and led to population growth?",
+            "options": [
+              { "text": "Corn", "correct": true },
+              { "text": "Rice", "correct": false },
+              { "text": "Barley", "correct": false },
+              { "text": "Oats", "correct": false }
+            ]
+          },
+          {
+            "question": "The introduction of which crop from the Americas to Africa helped increase food supplies?",
+            "options": [
+              { "text": "Tobacco", "correct": false },
+              { "text": "Maize", "correct": true },
+              { "text": "Potato", "correct": false },
+              { "text": "Tomato", "correct": false }
+            ]
+          },
+          {
+            "question": "Which staple crop, originating from the Americas, became a vital crop in Asia post-Columbian Exchange?",
+            "options": [
+              { "text": "Wheat", "correct": false },
+              { "text": "Potato", "correct": true },
+              { "text": "Coffee", "correct": false },
+              { "text": "Tomato", "correct": false }
+            ]
+          }
+        ]
+      }
+
+
+    }
+  }
+  
+

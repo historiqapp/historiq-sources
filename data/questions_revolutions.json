@@ -1,0 +1,751 @@
+{
+    "Revolutions and Nation-Building": {
+      "Enlightenment and Ideals": {
+        "Key Philosophers (e.g., Locke, Rousseau)": [
+          {
+            "question": "Which philosopher argued for the idea of a social contract to legitimize government?",
+            "options": [
+              { "text": "John Locke", "correct": false },
+              { "text": "Jean-Jacques Rousseau", "correct": true },
+              { "text": "Voltaire", "correct": false },
+              { "text": "Thomas Hobbes", "correct": false }
+            ]
+          },
+          {
+            "question": "Whose ideas about natural rights influenced the U.S. Declaration of Independence?",
+            "options": [
+              { "text": "Baron de Montesquieu", "correct": false },
+              { "text": "John Locke", "correct": true },
+              { "text": "Immanuel Kant", "correct": false },
+              { "text": "Jean-Jacques Rousseau", "correct": false }
+            ]
+          },
+          {
+            "question": "Which philosopher introduced the concept of separation of powers in government?",
+            "options": [
+              { "text": "John Locke", "correct": false },
+              { "text": "Baron de Montesquieu", "correct": true },
+              { "text": "Voltaire", "correct": false },
+              { "text": "David Hume", "correct": false }
+            ]
+          },
+          {
+            "question": "Who is known for the phrase 'life, liberty, and property' as fundamental rights?",
+            "options": [
+              { "text": "Thomas Hobbes", "correct": false },
+              { "text": "John Locke", "correct": true },
+              { "text": "David Hume", "correct": false },
+              { "text": "Jean-Jacques Rousseau", "correct": false }
+            ]
+          },
+          {
+            "question": "Which philosopher’s work suggested that government powers should be divided among branches?",
+            "options": [
+              { "text": "Voltaire", "correct": false },
+              { "text": "Baron de Montesquieu", "correct": true },
+              { "text": "Thomas Hobbes", "correct": false },
+              { "text": "Rousseau", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Enlightenment philosopher argued that knowledge originates from experience?",
+            "options": [
+              { "text": "Immanuel Kant", "correct": false },
+              { "text": "John Locke", "correct": true },
+              { "text": "Voltaire", "correct": false },
+              { "text": "Jean-Jacques Rousseau", "correct": false }
+            ]
+          },
+          {
+            "question": "Who believed that humans are naturally good but corrupted by society?",
+            "options": [
+              { "text": "Thomas Hobbes", "correct": false },
+              { "text": "Jean-Jacques Rousseau", "correct": true },
+              { "text": "John Locke", "correct": false },
+              { "text": "Montesquieu", "correct": false }
+            ]
+          },
+          {
+            "question": "Who coined the phrase 'I think, therefore I am,' emphasizing individual reason?",
+            "options": [
+              { "text": "René Descartes", "correct": true },
+              { "text": "Baruch Spinoza", "correct": false },
+              { "text": "John Locke", "correct": false },
+              { "text": "Rousseau", "correct": false }
+            ]
+          },
+          {
+            "question": "Which philosopher promoted religious tolerance and criticized absolute monarchy?",
+            "options": [
+              { "text": "Jean-Jacques Rousseau", "correct": false },
+              { "text": "Voltaire", "correct": true },
+              { "text": "Thomas Hobbes", "correct": false },
+              { "text": "John Locke", "correct": false }
+            ]
+          },
+          {
+            "question": "Thomas Hobbes argued that the best government to avoid chaos was?",
+            "options": [
+              { "text": "A democracy", "correct": false },
+              { "text": "An absolute monarchy", "correct": true },
+              { "text": "A republic", "correct": false },
+              { "text": "A socialist state", "correct": false }
+            ]
+          }
+        ],
+        "Scientific Advancements": [
+          {
+            "question": "Who is credited with formulating the laws of motion and gravity?",
+            "options": [
+              { "text": "Galileo Galilei", "correct": false },
+              { "text": "Isaac Newton", "correct": true },
+              { "text": "René Descartes", "correct": false },
+              { "text": "Kepler", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Enlightenment scientist’s book 'Principia Mathematica' became a cornerstone of physics?",
+            "options": [
+              { "text": "Galileo Galilei", "correct": false },
+              { "text": "Isaac Newton", "correct": true },
+              { "text": "Francis Bacon", "correct": false },
+              { "text": "John Locke", "correct": false }
+            ]
+          },
+          {
+            "question": "Who is known as the 'father of microbiology' for his work with microscopes?",
+            "options": [
+              { "text": "Isaac Newton", "correct": false },
+              { "text": "Robert Hooke", "correct": false },
+              { "text": "Antonie van Leeuwenhoek", "correct": true },
+              { "text": "Johannes Kepler", "correct": false }
+            ]
+          },
+          {
+            "question": "What major scientific contribution did William Harvey make to medicine?",
+            "options": [
+              { "text": "Discovery of blood circulation", "correct": true },
+              { "text": "Invention of the thermometer", "correct": false },
+              { "text": "Discovery of cells", "correct": false },
+              { "text": "Germ theory of disease", "correct": false }
+            ]
+          },
+          {
+            "question": "Who revived the heliocentric theory, stating that Earth orbits the Sun?",
+            "options": [
+              { "text": "Galileo Galilei", "correct": false },
+              { "text": "Nicolaus Copernicus", "correct": true },
+              { "text": "Kepler", "correct": false },
+              { "text": "Isaac Newton", "correct": false }
+            ]
+          },
+          {
+            "question": "The law of planetary motion was formulated by which scientist?",
+            "options": [
+              { "text": "Galileo Galilei", "correct": false },
+              { "text": "Isaac Newton", "correct": false },
+              { "text": "Johannes Kepler", "correct": true },
+              { "text": "Francis Bacon", "correct": false }
+            ]
+          },
+          {
+            "question": "Who improved the telescope to study planets and advocated for heliocentrism?",
+            "options": [
+              { "text": "Isaac Newton", "correct": false },
+              { "text": "Galileo Galilei", "correct": true },
+              { "text": "Robert Hooke", "correct": false },
+              { "text": "Francis Bacon", "correct": false }
+            ]
+          },
+          {
+            "question": "What was Francis Bacon's major contribution to the Scientific Revolution?",
+            "options": [
+              { "text": "Developing calculus", "correct": false },
+              { "text": "Advocating for the scientific method", "correct": true },
+              { "text": "Theory of gravity", "correct": false },
+              { "text": "Invention of the telescope", "correct": false }
+            ]
+          },
+          {
+            "question": "Who discovered cells by observing cork under a microscope?",
+            "options": [
+              { "text": "Antonie van Leeuwenhoek", "correct": false },
+              { "text": "Robert Hooke", "correct": true },
+              { "text": "Isaac Newton", "correct": false },
+              { "text": "Galileo Galilei", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Enlightenment scientist is associated with the theory of probability?",
+            "options": [
+              { "text": "Johannes Kepler", "correct": false },
+              { "text": "Isaac Newton", "correct": false },
+              { "text": "Blaise Pascal", "correct": true },
+              { "text": "Galileo Galilei", "correct": false }
+            ]
+          }
+        ]
+      },"American Revolution": {
+        "Key Events and Figures": [
+          {
+            "question": "Who wrote the influential pamphlet 'Common Sense' that argued for American independence?",
+            "options": [
+              { "text": "Thomas Paine", "correct": true },
+              { "text": "Thomas Jefferson", "correct": false },
+              { "text": "Benjamin Franklin", "correct": false },
+              { "text": "John Adams", "correct": false }
+            ]
+          },
+          {
+            "question": "What year did the American colonies officially declare independence from Britain?",
+            "options": [
+              { "text": "1776", "correct": true },
+              { "text": "1783", "correct": false },
+              { "text": "1775", "correct": false },
+              { "text": "1770", "correct": false }
+            ]
+          },
+          {
+            "question": "Which battle is considered the turning point of the American Revolution?",
+            "options": [
+              { "text": "Battle of Yorktown", "correct": false },
+              { "text": "Battle of Saratoga", "correct": true },
+              { "text": "Battle of Lexington", "correct": false },
+              { "text": "Battle of Bunker Hill", "correct": false }
+            ]
+          },
+          {
+            "question": "Which country provided the most significant support to the American colonies during the Revolution?",
+            "options": [
+              { "text": "France", "correct": true },
+              { "text": "Spain", "correct": false },
+              { "text": "Netherlands", "correct": false },
+              { "text": "Germany", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the commander-in-chief of the Continental Army during the American Revolution?",
+            "options": [
+              { "text": "Thomas Jefferson", "correct": false },
+              { "text": "George Washington", "correct": true },
+              { "text": "John Adams", "correct": false },
+              { "text": "Benjamin Franklin", "correct": false }
+            ]
+          },
+          {
+            "question": "The Treaty of Paris 1783 ended the American Revolution. Which territory did Britain officially cede to the U.S.?",
+            "options": [
+              { "text": "Florida", "correct": false },
+              { "text": "Canada", "correct": false },
+              { "text": "The Mississippi River", "correct": true },
+              { "text": "The Caribbean", "correct": false }
+            ]
+          },
+          {
+            "question": "Which act passed by Britain in 1773 triggered the Boston Tea Party?",
+            "options": [
+              { "text": "Stamp Act", "correct": false },
+              { "text": "Townshend Acts", "correct": false },
+              { "text": "Tea Act", "correct": true },
+              { "text": "Intolerable Acts", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the primary author of the U.S. Declaration of Independence?",
+            "options": [
+              { "text": "Benjamin Franklin", "correct": false },
+              { "text": "Thomas Jefferson", "correct": true },
+              { "text": "John Adams", "correct": false },
+              { "text": "Alexander Hamilton", "correct": false }
+            ]
+          },
+          {
+            "question": "Which event marked the beginning of the American Revolution?",
+            "options": [
+              { "text": "Boston Tea Party", "correct": false },
+              { "text": "Battle of Bunker Hill", "correct": false },
+              { "text": "Lexington and Concord", "correct": true },
+              { "text": "Signing of the Declaration of Independence", "correct": false }
+            ]
+          },
+          {
+            "question": "Which European general played a crucial role in assisting the American forces during the Revolution?",
+            "options": [
+              { "text": "Marquis de Lafayette", "correct": true },
+              { "text": "King Louis XVI", "correct": false },
+              { "text": "Napoleon Bonaparte", "correct": false },
+              { "text": "Frederick the Great", "correct": false }
+            ]
+          }
+        ]
+      },
+      "French Revolution and Napoleonic Era": {
+        "Revolution's Causes and Consequences": [
+          {
+            "question": "Which event marked the beginning of the French Revolution?",
+            "options": [
+              { "text": "The storming of the Bastille", "correct": true },
+              { "text": "The execution of Louis XVI", "correct": false },
+              { "text": "The Tennis Court Oath", "correct": false },
+              { "text": "The rise of Napoleon Bonaparte", "correct": false }
+            ]
+          },
+          {
+            "question": "Which estate represented the common people in pre-revolutionary France?",
+            "options": [
+              { "text": "First Estate", "correct": false },
+              { "text": "Second Estate", "correct": false },
+              { "text": "Third Estate", "correct": true },
+              { "text": "Clergy Estate", "correct": false }
+            ]
+          },
+          {
+            "question": "Which economic crisis was a major factor leading to the French Revolution?",
+            "options": [
+              { "text": "Massive taxation on peasants", "correct": false },
+              { "text": "High food prices and famine", "correct": true },
+              { "text": "Loss of French colonies in the Americas", "correct": false },
+              { "text": "Impoverishment of the nobility", "correct": false }
+            ]
+          },
+          {
+            "question": "Which document, issued by the National Assembly, declared the rights of the French citizens?",
+            "options": [
+              { "text": "The Declaration of the Rights of Man and of the Citizen", "correct": true },
+              { "text": "The Magna Carta", "correct": false },
+              { "text": "The Napoleonic Code", "correct": false },
+              { "text": "The French Constitution of 1791", "correct": false }
+            ]
+          },
+          {
+            "question": "Which French king was executed during the Revolution?",
+            "options": [
+              { "text": "Louis XIV", "correct": false },
+              { "text": "Louis XVI", "correct": true },
+              { "text": "Napoleon Bonaparte", "correct": false },
+              { "text": "Charles X", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the Reign of Terror during the French Revolution?",
+            "options": [
+              { "text": "A period of intense military victories", "correct": false },
+              { "text": "A period of radical violence and executions", "correct": true },
+              { "text": "A time of economic prosperity", "correct": false },
+              { "text": "Napoleon's rise to power", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the leader of the radical Jacobin faction during the French Revolution?",
+            "options": [
+              { "text": "Maximilien Robespierre", "correct": true },
+              { "text": "Jean-Paul Marat", "correct": false },
+              { "text": "Napoleon Bonaparte", "correct": false },
+              { "text": "Louis XVI", "correct": false }
+            ]
+          },
+          {
+            "question": "Which group was most responsible for the execution of Louis XVI?",
+            "options": [
+              { "text": "The National Assembly", "correct": false },
+              { "text": "The Jacobins", "correct": true },
+              { "text": "The Girondins", "correct": false },
+              { "text": "The Royalists", "correct": false }
+            ]
+          },
+          {
+            "question": "Which battle in 1815 marked the final defeat of Napoleon Bonaparte?",
+            "options": [
+              { "text": "Battle of Leipzig", "correct": false },
+              { "text": "Battle of Waterloo", "correct": true },
+              { "text": "Battle of Austerlitz", "correct": false },
+              { "text": "Battle of Trafalgar", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the main effect of the French Revolution on European monarchies?",
+            "options": [
+              { "text": "It led to the spread of absolute monarchies", "correct": false },
+              { "text": "It sparked revolutions in other European countries", "correct": true },
+              { "text": "It caused the fall of the Catholic Church", "correct": false },
+              { "text": "It had no significant impact on Europe", "correct": false }
+            ]
+          }
+        ],
+        "Napoleon’s Impact on Europe": [
+          {
+            "question": "What was the Napoleonic Code?",
+            "options": [
+              { "text": "A series of laws advocating for aristocratic privileges", "correct": false },
+              { "text": "A legal code promoting equality and civil rights", "correct": true },
+              { "text": "A code governing military tactics", "correct": false },
+              { "text": "A set of cultural reforms in France", "correct": false }
+            ]
+          },
+          {
+            "question": "Which country did Napoleon fail to invade in 1812, marking a major turning point in his empire?",
+            "options": [
+              { "text": "Prussia", "correct": false },
+              { "text": "Spain", "correct": false },
+              { "text": "Russia", "correct": true },
+              { "text": "Austria", "correct": false }
+            ]
+          },
+          {
+            "question": "Napoleon’s creation of the Continental System aimed to weaken which country?",
+            "options": [
+              { "text": "Great Britain", "correct": true },
+              { "text": "Russia", "correct": false },
+              { "text": "Prussia", "correct": false },
+              { "text": "Spain", "correct": false }
+            ]
+          },
+          {
+            "question": "What happened at the Battle of Leipzig in 1813?",
+            "options": [
+              { "text": "Napoleon achieved a decisive victory", "correct": false },
+              { "text": "Napoleon suffered a major defeat", "correct": true },
+              { "text": "Napoleon captured Russia", "correct": false },
+              { "text": "Napoleon was crowned Emperor of Europe", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of Napoleon's reforms had a lasting influence on modern legal systems?",
+            "options": [
+              { "text": "The Code of Napoleon", "correct": true },
+              { "text": "The Code of Royalty", "correct": false },
+              { "text": "The Code of the Bourbons", "correct": false },
+              { "text": "The Napoleonic Declaration", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the significance of Napoleon’s exile to Elba?",
+            "options": [
+              { "text": "It ended his rule permanently", "correct": false },
+              { "text": "It marked his first abdication", "correct": true },
+              { "text": "It led to the formation of a new French monarchy", "correct": false },
+              { "text": "It allowed him to continue ruling Europe", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the name of the military alliance that defeated Napoleon at the Battle of Waterloo?",
+            "options": [
+              { "text": "The Triple Alliance", "correct": false },
+              { "text": "The Seventh Coalition", "correct": true },
+              { "text": "The European League", "correct": false },
+              { "text": "The Holy Roman Empire", "correct": false }
+            ]
+          },
+          {
+            "question": "Which territory did Napoleon rule over during his height of power?",
+            "options": [
+              { "text": "Russia", "correct": false },
+              { "text": "India", "correct": false },
+              { "text": "Most of Europe", "correct": true },
+              { "text": "The United States", "correct": false }
+            ]
+          },
+          {
+            "question": "Which French island was Napoleon born on?",
+            "options": [
+              { "text": "Corsica", "correct": true },
+              { "text": "Sicily", "correct": false },
+              { "text": "Hawaii", "correct": false },
+              { "text": "Reunion", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the outcome of Napoleon's defeat in Russia?",
+            "options": [
+              { "text": "He gained control of Russia", "correct": false },
+              { "text": "It led to his downfall", "correct": true },
+              { "text": "He reformed Russian government", "correct": false },
+              { "text": "He was able to conquer more territories", "correct": false }
+            ]
+          }
+        ]
+      },"Latin American Independence": {
+        "Key Leaders (e.g., Simon Bolivar, José de San Martín)": [
+          {
+            "question": "Which Latin American leader is known as 'El Libertador' for his role in the independence of several South American countries?",
+            "options": [
+              { "text": "José de San Martín", "correct": false },
+              { "text": "Simón Bolívar", "correct": true },
+              { "text": "Miguel Hidalgo", "correct": false },
+              { "text": "Antonio José de Sucre", "correct": false }
+            ]
+          },
+          {
+            "question": "Which country did Simón Bolívar help liberate from Spanish rule, which later became the Republic of Gran Colombia?",
+            "options": [
+              { "text": "Argentina", "correct": false },
+              { "text": "Venezuela", "correct": true },
+              { "text": "Chile", "correct": false },
+              { "text": "Mexico", "correct": false }
+            ]
+          },
+          {
+            "question": "José de San Martín played a major role in the independence of which country?",
+            "options": [
+              { "text": "Brazil", "correct": false },
+              { "text": "Chile", "correct": true },
+              { "text": "Mexico", "correct": false },
+              { "text": "Peru", "correct": false }
+            ]
+          },
+          {
+            "question": "Which country did Simón Bolívar NOT help liberate during the Latin American independence movements?",
+            "options": [
+              { "text": "Panama", "correct": false },
+              { "text": "Guatemala", "correct": true },
+              { "text": "Ecuador", "correct": false },
+              { "text": "Colombia", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of the following leaders fought in the Mexican War of Independence against Spain?",
+            "options": [
+              { "text": "Simón Bolívar", "correct": false },
+              { "text": "José María Morelos", "correct": true },
+              { "text": "Bernardo O'Higgins", "correct": false },
+              { "text": "Antonio López de Santa Anna", "correct": false }
+            ]
+          },
+          {
+            "question": "Which military leader was instrumental in securing the independence of Chile and Argentina from Spain?",
+            "options": [
+              { "text": "Miguel Hidalgo", "correct": false },
+              { "text": "José de San Martín", "correct": true },
+              { "text": "Simón Bolívar", "correct": false },
+              { "text": "Francisco de Miranda", "correct": false }
+            ]
+          },
+          {
+            "question": "Which South American country did Bernardo O'Higgins lead to independence?",
+            "options": [
+              { "text": "Chile", "correct": true },
+              { "text": "Peru", "correct": false },
+              { "text": "Venezuela", "correct": false },
+              { "text": "Argentina", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the primary goal of the independence movements in Latin America during the early 19th century?",
+            "options": [
+              { "text": "To establish monarchies", "correct": false },
+              { "text": "To free the colonies from Spanish rule", "correct": true },
+              { "text": "To create alliances with Spain", "correct": false },
+              { "text": "To form a united European Empire", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the Mexican priest who issued the Grito de Dolores, starting the Mexican War of Independence?",
+            "options": [
+              { "text": "José de San Martín", "correct": false },
+              { "text": "Miguel Hidalgo", "correct": true },
+              { "text": "Simón Bolívar", "correct": false },
+              { "text": "Antonio López de Santa Anna", "correct": false }
+            ]
+          },
+          {
+            "question": "In what year did Simón Bolívar die, shortly after his dream of a united Gran Colombia collapsed?",
+            "options": [
+              { "text": "1830", "correct": true },
+              { "text": "1815", "correct": false },
+              { "text": "1825", "correct": false },
+              { "text": "1840", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Industrial Revolution": {
+        "Technological Innovations and Social Change": [
+          {
+            "question": "Which invention by James Watt significantly improved steam engine efficiency?",
+            "options": [
+              { "text": "Locomotive", "correct": false },
+              { "text": "The Spinning Jenny", "correct": false },
+              { "text": "The Steam Condenser", "correct": true },
+              { "text": "The Telegraph", "correct": false }
+            ]
+          },
+          {
+            "question": "Which innovation by Eli Whitney revolutionized cotton production in the United States?",
+            "options": [
+              { "text": "The Cotton Gin", "correct": true },
+              { "text": "The Spinning Jenny", "correct": false },
+              { "text": "The Assembly Line", "correct": false },
+              { "text": "The Steam Engine", "correct": false }
+            ]
+          },
+          {
+            "question": "The creation of which machine significantly increased the speed of textile production during the Industrial Revolution?",
+            "options": [
+              { "text": "The Steam Engine", "correct": false },
+              { "text": "The Spinning Jenny", "correct": true },
+              { "text": "The Loom", "correct": false },
+              { "text": "The Cotton Gin", "correct": false }
+            ]
+          },
+          {
+            "question": "Which transportation innovation, first developed by George Stephenson, revolutionized movement across countries during the Industrial Revolution?",
+            "options": [
+              { "text": "The Steamship", "correct": false },
+              { "text": "The Airplane", "correct": false },
+              { "text": "The Locomotive", "correct": true },
+              { "text": "The Bicycle", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of these inventions by Thomas Edison became a vital part of the electrical industry?",
+            "options": [
+              { "text": "The Telephone", "correct": false },
+              { "text": "The Light Bulb", "correct": true },
+              { "text": "The Telegraph", "correct": false },
+              { "text": "The Steam Engine", "correct": false }
+            ]
+          },
+          {
+            "question": "Which social class grew significantly as a result of industrialization during the 19th century?",
+            "options": [
+              { "text": "The Aristocracy", "correct": false },
+              { "text": "The Working Class", "correct": true },
+              { "text": "The Clergy", "correct": false },
+              { "text": "The Peasants", "correct": false }
+            ]
+          },
+          {
+            "question": "Which major social change was driven by the Industrial Revolution?",
+            "options": [
+              { "text": "Increase in rural populations", "correct": false },
+              { "text": "Shift from agricultural to industrial economies", "correct": true },
+              { "text": "Decline of the middle class", "correct": false },
+              { "text": "A return to feudalism", "correct": false }
+            ]
+          },
+          {
+            "question": "Which country was the birthplace of the Industrial Revolution?",
+            "options": [
+              { "text": "France", "correct": false },
+              { "text": "United States", "correct": false },
+              { "text": "United Kingdom", "correct": true },
+              { "text": "Germany", "correct": false }
+            ]
+          },
+          {
+            "question": "Which factory innovation by Henry Ford helped reduce the cost of manufacturing?",
+            "options": [
+              { "text": "The Spinning Jenny", "correct": false },
+              { "text": "The Assembly Line", "correct": true },
+              { "text": "The Steam Engine", "correct": false },
+              { "text": "The Loom", "correct": false }
+            ]
+          },
+          {
+            "question": "What was one negative consequence of the rapid urbanization during the Industrial Revolution?",
+            "options": [
+              { "text": "Increased agricultural output", "correct": false },
+              { "text": "Improvement of living conditions", "correct": false },
+              { "text": "Overcrowded cities and poor sanitation", "correct": true },
+              { "text": "The end of child labor", "correct": false }
+            ]
+          }
+        ],
+        "Impact on Labor and Urbanization": [
+          {
+            "question": "What is the term for the movement of people from rural areas to cities during the Industrial Revolution?",
+            "options": [
+              { "text": "Urbanization", "correct": true },
+              { "text": "Industrialization", "correct": false },
+              { "text": "Capitalism", "correct": false },
+              { "text": "Feudalism", "correct": false }
+            ]
+          },
+          {
+            "question": "Which law was passed in the United Kingdom to regulate the working hours of children in factories?",
+            "options": [
+              { "text": "Factory Act of 1833", "correct": true },
+              { "text": "Social Welfare Act of 1812", "correct": false },
+              { "text": "Industrial Revolution Act", "correct": false },
+              { "text": "Child Labor Reform Act", "correct": false }
+            ]
+          },
+          {
+            "question": "The rise of factory work led to the growth of which class during the Industrial Revolution?",
+            "options": [
+              { "text": "The Landed Aristocracy", "correct": false },
+              { "text": "The Working Class", "correct": true },
+              { "text": "The Feudal Nobility", "correct": false },
+              { "text": "The Intellectual Class", "correct": false }
+            ]
+          },
+          {
+            "question": "What was one significant social issue caused by industrial urbanization?",
+            "options": [
+              { "text": "Unemployment", "correct": false },
+              { "text": "Overcrowding and poor living conditions", "correct": true },
+              { "text": "Decline in agricultural production", "correct": false },
+              { "text": "Low wages for factory owners", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of the following groups fought for workers' rights during the Industrial Revolution?",
+            "options": [
+              { "text": "Luddites", "correct": true },
+              { "text": "Suffragettes", "correct": false },
+              { "text": "Feudal Lords", "correct": false },
+              { "text": "Aristocrats", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of the following was a key factor in the rise of labor unions during the Industrial Revolution?",
+            "options": [
+              { "text": "Increased automation", "correct": false },
+              { "text": "Poor working conditions", "correct": true },
+              { "text": "Lower wages for factory owners", "correct": false },
+              { "text": "Support from the aristocracy", "correct": false }
+            ]
+          },
+          {
+            "question": "Which industry experienced a dramatic increase during the early stages of the Industrial Revolution?",
+            "options": [
+              { "text": "Agriculture", "correct": false },
+              { "text": "Textiles", "correct": true },
+              { "text": "Banking", "correct": false },
+              { "text": "Mining", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of these was a common issue faced by workers in early industrial factories?",
+            "options": [
+              { "text": "Excessive vacation time", "correct": false },
+              { "text": "Unsafe working conditions", "correct": true },
+              { "text": "Short working hours", "correct": false },
+              { "text": "Universal healthcare", "correct": false }
+            ]
+          },
+          {
+            "question": "Which term describes the social and economic system that emerged due to the Industrial Revolution?",
+            "options": [
+              { "text": "Capitalism", "correct": true },
+              { "text": "Feudalism", "correct": false },
+              { "text": "Communism", "correct": false },
+              { "text": "Socialism", "correct": false }
+            ]
+          },
+          {
+            "question": "Which British philosopher argued for the improvement of conditions for the working class during industrialization?",
+            "options": [
+              { "text": "John Locke", "correct": false },
+              { "text": "Karl Marx", "correct": false },
+              { "text": "David Ricardo", "correct": false },
+              { "text": "Jeremy Bentham", "correct": true }
+            ]
+          }
+        ]
+      }
+    }
+  }
+
+
+

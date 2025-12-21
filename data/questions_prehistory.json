@@ -1,0 +1,1416 @@
+{
+    "Prehistory and Early Civilizations": {
+        "Prehistoric Times": {
+            "Stone Age, Bronze Age, and Iron Age": [{
+                    "question": "In which era did humans first begin to use stone tools?",
+                    "options": [{
+                            "text": "Bronze Age",
+                            "correct": false
+                        },
+                        {
+                            "text": "Iron Age",
+                            "correct": false
+                        },
+                        {
+                            "text": "Stone Age",
+                            "correct": true
+                        },
+                        {
+                            "text": "Neolithic Age",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What is the name of the famous prehistoric cave paintings located in France?",
+                    "options": [{
+                            "text": "Altamira Cave",
+                            "correct": false
+                        },
+                        {
+                            "text": "Lascaux Cave",
+                            "correct": true
+                        },
+                        {
+                            "text": "Chauvet Cave",
+                            "correct": false
+                        },
+                        {
+                            "text": "Sistine Chapel",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "The transition from hunter-gatherer societies to agricultural societies is known as what?",
+                    "options": [{
+                            "text": "The Neolithic Revolution",
+                            "correct": true
+                        },
+                        {
+                            "text": "The Industrial Revolution",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Bronze Revolution",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Iron Age",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which metal was predominantly used during the Bronze Age?",
+                    "options": [{
+                            "text": "Copper",
+                            "correct": false
+                        },
+                        {
+                            "text": "Bronze",
+                            "correct": true
+                        },
+                        {
+                            "text": "Iron",
+                            "correct": false
+                        },
+                        {
+                            "text": "Gold",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Around when did the Iron Age begin in Europe?",
+                    "options": [{
+                            "text": "1200 BCE",
+                            "correct": true
+                        },
+                        {
+                            "text": "2000 BCE",
+                            "correct": false
+                        },
+                        {
+                            "text": "500 BCE",
+                            "correct": false
+                        },
+                        {
+                            "text": "100 CE",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was a primary material used for tools and weapons before the discovery of metals?",
+                    "options": [{
+                            "text": "Bronze",
+                            "correct": false
+                        },
+                        {
+                            "text": "Stone",
+                            "correct": true
+                        },
+                        {
+                            "text": "Wood",
+                            "correct": false
+                        },
+                        {
+                            "text": "Iron",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which innovation is often credited with marking the end of the Stone Age?",
+                    "options": [{
+                            "text": "Discovery of ironworking",
+                            "correct": false
+                        },
+                        {
+                            "text": "Development of bronze tools",
+                            "correct": false
+                        },
+                        {
+                            "text": "Domestication of animals",
+                            "correct": false
+                        },
+                        {
+                            "text": "Agriculture and permanent settlements",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "question": "What was a significant societal change that took place during the Neolithic period?",
+                    "options": [{
+                            "text": "Emergence of hunting practices",
+                            "correct": false
+                        },
+                        {
+                            "text": "Development of permanent villages",
+                            "correct": true
+                        },
+                        {
+                            "text": "Use of iron weapons",
+                            "correct": false
+                        },
+                        {
+                            "text": "Start of religious rituals",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "The city of Uruk, known as one of the first cities in human history, was located in which region?",
+                    "options": [{
+                            "text": "Indus Valley",
+                            "correct": false
+                        },
+                        {
+                            "text": "Mesopotamia",
+                            "correct": true
+                        },
+                        {
+                            "text": "Nile River Valley",
+                            "correct": false
+                        },
+                        {
+                            "text": "Yellow River Valley",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "The oldest known megalithic structure, Göbekli Tepe, dates back to which approximate time period?",
+                    "options": [{
+                            "text": "10,000 BCE",
+                            "correct": true
+                        },
+                        {
+                            "text": "4,000 BCE",
+                            "correct": false
+                        },
+                        {
+                            "text": "2,000 BCE",
+                            "correct": false
+                        },
+                        {
+                            "text": "500 BCE",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "Early Human Migration": [{
+                    "question": "From which continent did early humans first migrate?",
+                    "options": [{
+                            "text": "Asia",
+                            "correct": false
+                        },
+                        {
+                            "text": "Africa",
+                            "correct": true
+                        },
+                        {
+                            "text": "Europe",
+                            "correct": false
+                        },
+                        {
+                            "text": "Australia",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Approximately how many years ago did the first major human migration out of Africa occur?",
+                    "options": [{
+                            "text": "50,000 years ago",
+                            "correct": false
+                        },
+                        {
+                            "text": "100,000 years ago",
+                            "correct": true
+                        },
+                        {
+                            "text": "200,000 years ago",
+                            "correct": false
+                        },
+                        {
+                            "text": "10,000 years ago",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What is the name of the land bridge that once connected Asia and North America, allowing human migration between these continents?",
+                    "options": [{
+                            "text": "Pangaea",
+                            "correct": false
+                        },
+                        {
+                            "text": "Suez Bridge",
+                            "correct": false
+                        },
+                        {
+                            "text": "Beringia",
+                            "correct": true
+                        },
+                        {
+                            "text": "Isthmus of Panama",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "During which geological period did early humans cross into North America via the Bering Land Bridge?",
+                    "options": [{
+                            "text": "Pleistocene Epoch",
+                            "correct": true
+                        },
+                        {
+                            "text": "Holocene Epoch",
+                            "correct": false
+                        },
+                        {
+                            "text": "Miocene Epoch",
+                            "correct": false
+                        },
+                        {
+                            "text": "Cretaceous Period",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which early human species is believed to have migrated out of Africa first?",
+                    "options": [{
+                            "text": "Homo erectus",
+                            "correct": true
+                        },
+                        {
+                            "text": "Homo sapiens",
+                            "correct": false
+                        },
+                        {
+                            "text": "Homo neanderthalensis",
+                            "correct": false
+                        },
+                        {
+                            "text": "Homo habilis",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What genetic evidence supports the theory of human migration out of Africa?",
+                    "options": [{
+                            "text": "The presence of Neanderthal DNA in all humans",
+                            "correct": false
+                        },
+                        {
+                            "text": "High genetic diversity among African populations",
+                            "correct": true
+                        },
+                        {
+                            "text": "Higher mutation rates in Asian populations",
+                            "correct": false
+                        },
+                        {
+                            "text": "Lack of genetic diversity in African populations",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which modern human populations are believed to have the most genetic variation, suggesting they are closest to the original source populations in early human migration?",
+                    "options": [{
+                            "text": "East Asian populations",
+                            "correct": false
+                        },
+                        {
+                            "text": "European populations",
+                            "correct": false
+                        },
+                        {
+                            "text": "African populations",
+                            "correct": true
+                        },
+                        {
+                            "text": "Oceanian populations",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "The 'Out of Africa' theory suggests what about the timeline of Homo sapiens migrating from Africa?",
+                    "options": [{
+                            "text": "Homo sapiens migrated out of Africa after Homo erectus",
+                            "correct": true
+                        },
+                        {
+                            "text": "Homo sapiens originated outside of Africa",
+                            "correct": false
+                        },
+                        {
+                            "text": "Homo sapiens never left Africa",
+                            "correct": false
+                        },
+                        {
+                            "text": "All early hominins migrated at the same time",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which early human discovery in Israel is evidence that modern humans lived outside of Africa over 100,000 years ago?",
+                    "options": [{
+                            "text": "Skhul and Qafzeh fossils",
+                            "correct": true
+                        },
+                        {
+                            "text": "Denisova fossils",
+                            "correct": false
+                        },
+                        {
+                            "text": "Neander Valley fossils",
+                            "correct": false
+                        },
+                        {
+                            "text": "Lascaux Cave paintings",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What is one of the primary reasons scientists believe Homo sapiens were successful in migrating and adapting to different climates and regions?",
+                    "options": [{
+                            "text": "Their larger brains allowed for advanced problem-solving and social structures",
+                            "correct": true
+                        },
+                        {
+                            "text": "They could survive on very little food and water",
+                            "correct": false
+                        },
+                        {
+                            "text": "They had fewer predators than other species",
+                            "correct": false
+                        },
+                        {
+                            "text": "They migrated by following seasonal animal migrations",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+
+        "Ancient Civilizations": {
+            "Sumerians and Mesopotamian Cultures": [{
+                    "question": "Which region is often referred to as the 'Cradle of Civilization'?",
+                    "options": [{
+                            "text": "Egypt",
+                            "correct": false
+                        },
+                        {
+                            "text": "Mesopotamia",
+                            "correct": true
+                        },
+                        {
+                            "text": "Greece",
+                            "correct": false
+                        },
+                        {
+                            "text": "India",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What is the name of the writing system developed by the Sumerians?",
+                    "options": [{
+                            "text": "Hieroglyphics",
+                            "correct": false
+                        },
+                        {
+                            "text": "Cuneiform",
+                            "correct": true
+                        },
+                        {
+                            "text": "Sanskrit",
+                            "correct": false
+                        },
+                        {
+                            "text": "Phoenician",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which river systems were essential to the development of Mesopotamian civilization?",
+                    "options": [{
+                            "text": "Nile and Amazon",
+                            "correct": false
+                        },
+                        {
+                            "text": "Tigris and Euphrates",
+                            "correct": true
+                        },
+                        {
+                            "text": "Indus and Ganges",
+                            "correct": false
+                        },
+                        {
+                            "text": "Yellow and Yangtze",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What is the term for a temple in ancient Sumerian culture?",
+                    "options": [{
+                            "text": "Pyramid",
+                            "correct": false
+                        },
+                        {
+                            "text": "Ziggurat",
+                            "correct": true
+                        },
+                        {
+                            "text": "Shrine",
+                            "correct": false
+                        },
+                        {
+                            "text": "Citadel",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which king is known for the earliest recorded law code?",
+                    "options": [{
+                            "text": "Hammurabi",
+                            "correct": true
+                        },
+                        {
+                            "text": "Sargon",
+                            "correct": false
+                        },
+                        {
+                            "text": "Nebuchadnezzar",
+                            "correct": false
+                        },
+                        {
+                            "text": "Gilgamesh",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was a major contribution of the Sumerians to mathematics?",
+                    "options": [{
+                            "text": "Decimal system",
+                            "correct": false
+                        },
+                        {
+                            "text": "Sexagesimal (base-60) system",
+                            "correct": true
+                        },
+                        {
+                            "text": "Binary system",
+                            "correct": false
+                        },
+                        {
+                            "text": "Hexadecimal system",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which Mesopotamian city was famous for its Hanging Gardens?",
+                    "options": [{
+                            "text": "Babylon",
+                            "correct": true
+                        },
+                        {
+                            "text": "Ur",
+                            "correct": false
+                        },
+                        {
+                            "text": "Nineveh",
+                            "correct": false
+                        },
+                        {
+                            "text": "Nippur",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the primary role of a Sumerian priest?",
+                    "options": [{
+                            "text": "Warrior",
+                            "correct": false
+                        },
+                        {
+                            "text": "Scribe",
+                            "correct": false
+                        },
+                        {
+                            "text": "Religious leader and mediator with gods",
+                            "correct": true
+                        },
+                        {
+                            "text": "Tax collector",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which metal did Mesopotamians use to make early tools and weapons?",
+                    "options": [{
+                            "text": "Steel",
+                            "correct": false
+                        },
+                        {
+                            "text": "Bronze",
+                            "correct": true
+                        },
+                        {
+                            "text": "Iron",
+                            "correct": false
+                        },
+                        {
+                            "text": "Aluminum",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who is the main character in the famous Sumerian epic that describes a great flood?",
+                    "options": [{
+                            "text": "Gilgamesh",
+                            "correct": true
+                        },
+                        {
+                            "text": "Enkidu",
+                            "correct": false
+                        },
+                        {
+                            "text": "Hammurabi",
+                            "correct": false
+                        },
+                        {
+                            "text": "Sargon",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "Ancient Egypt": [{
+                    "question": "Which river was crucial to the development of ancient Egyptian civilization?",
+                    "options": [{
+                            "text": "Amazon",
+                            "correct": false
+                        },
+                        {
+                            "text": "Nile",
+                            "correct": true
+                        },
+                        {
+                            "text": "Tigris",
+                            "correct": false
+                        },
+                        {
+                            "text": "Indus",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the ancient Egyptian sun god?",
+                    "options": [{
+                            "text": "Osiris",
+                            "correct": false
+                        },
+                        {
+                            "text": "Ra",
+                            "correct": true
+                        },
+                        {
+                            "text": "Anubis",
+                            "correct": false
+                        },
+                        {
+                            "text": "Horus",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What type of structure were Egyptian pharaohs buried in?",
+                    "options": [{
+                            "text": "Temple",
+                            "correct": false
+                        },
+                        {
+                            "text": "Pyramid",
+                            "correct": true
+                        },
+                        {
+                            "text": "Ziggurat",
+                            "correct": false
+                        },
+                        {
+                            "text": "Fortress",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What is the writing system developed by ancient Egyptians?",
+                    "options": [{
+                            "text": "Cuneiform",
+                            "correct": false
+                        },
+                        {
+                            "text": "Hieroglyphics",
+                            "correct": true
+                        },
+                        {
+                            "text": "Latin",
+                            "correct": false
+                        },
+                        {
+                            "text": "Greek",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What is the ancient Egyptian 'Book of the Dead'?",
+                    "options": [{
+                            "text": "A collection of royal laws",
+                            "correct": false
+                        },
+                        {
+                            "text": "Funerary texts with spells and guidance for the afterlife",
+                            "correct": true
+                        },
+                        {
+                            "text": "Record of historical events",
+                            "correct": false
+                        },
+                        {
+                            "text": "An agricultural manual",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which queen ruled Egypt as a pharaoh and established trade networks?",
+                    "options": [{
+                            "text": "Cleopatra",
+                            "correct": false
+                        },
+                        {
+                            "text": "Hatshepsut",
+                            "correct": true
+                        },
+                        {
+                            "text": "Nefertiti",
+                            "correct": false
+                        },
+                        {
+                            "text": "Isis",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the purpose of the pyramids in ancient Egypt?",
+                    "options": [{
+                            "text": "Marketplaces",
+                            "correct": false
+                        },
+                        {
+                            "text": "Royal tombs",
+                            "correct": true
+                        },
+                        {
+                            "text": "Military fortifications",
+                            "correct": false
+                        },
+                        {
+                            "text": "Water reservoirs",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which ancient Egyptian god was associated with the afterlife and mummification?",
+                    "options": [{
+                            "text": "Anubis",
+                            "correct": true
+                        },
+                        {
+                            "text": "Ra",
+                            "correct": false
+                        },
+                        {
+                            "text": "Osiris",
+                            "correct": false
+                        },
+                        {
+                            "text": "Set",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What innovation allowed ancient Egyptians to keep records?",
+                    "options": [{
+                            "text": "Clay tablets",
+                            "correct": false
+                        },
+                        {
+                            "text": "Papyrus",
+                            "correct": true
+                        },
+                        {
+                            "text": "Bronze inscriptions",
+                            "correct": false
+                        },
+                        {
+                            "text": "Wood carvings",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the Rosetta Stone key to understanding?",
+                    "options": [{
+                            "text": "Ancient Egyptian hieroglyphics",
+                            "correct": true
+                        },
+                        {
+                            "text": "The construction of pyramids",
+                            "correct": false
+                        },
+                        {
+                            "text": "Ancient Egyptian laws",
+                            "correct": false
+                        },
+                        {
+                            "text": "Egyptian mathematics",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "Indus Valley Civilization": [{
+                    "question": "What are the two main cities of the Indus Valley Civilization?",
+                    "options": [{
+                            "text": "Harappa and Mohenjo-Daro",
+                            "correct": true
+                        },
+                        {
+                            "text": "Lothal and Ur",
+                            "correct": false
+                        },
+                        {
+                            "text": "Babylon and Uruk",
+                            "correct": false
+                        },
+                        {
+                            "text": "Thebes and Memphis",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which modern countries encompass the Indus Valley Civilization region?",
+                    "options": [{
+                            "text": "India and Pakistan",
+                            "correct": true
+                        },
+                        {
+                            "text": "Egypt and Sudan",
+                            "correct": false
+                        },
+                        {
+                            "text": "China and Mongolia",
+                            "correct": false
+                        },
+                        {
+                            "text": "Iraq and Syria",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What river was the main source of water for the Indus Valley Civilization?",
+                    "options": [{
+                            "text": "Nile",
+                            "correct": false
+                        },
+                        {
+                            "text": "Indus",
+                            "correct": true
+                        },
+                        {
+                            "text": "Ganges",
+                            "correct": false
+                        },
+                        {
+                            "text": "Euphrates",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What notable urban feature did Indus Valley cities have?",
+                    "options": [{
+                            "text": "A structured sewer system",
+                            "correct": true
+                        },
+                        {
+                            "text": "Large pyramids",
+                            "correct": false
+                        },
+                        {
+                            "text": "Ziggurats",
+                            "correct": false
+                        },
+                        {
+                            "text": "Coliseums",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What material were Indus Valley seals commonly made from?",
+                    "options": [{
+                            "text": "Marble",
+                            "correct": false
+                        },
+                        {
+                            "text": "Steatite",
+                            "correct": true
+                        },
+                        {
+                            "text": "Bronze",
+                            "correct": false
+                        },
+                        {
+                            "text": "Limestone",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What type of script did the Indus Valley Civilization use?",
+                    "options": [{
+                            "text": "Hieroglyphics",
+                            "correct": false
+                        },
+                        {
+                            "text": "Undeciphered script",
+                            "correct": true
+                        },
+                        {
+                            "text": "Cuneiform",
+                            "correct": false
+                        },
+                        {
+                            "text": "Phoenician",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the main occupation of the Indus Valley people?",
+                    "options": [{
+                            "text": "Agriculture and trade",
+                            "correct": true
+                        },
+                        {
+                            "text": "Military conquest",
+                            "correct": false
+                        },
+                        {
+                            "text": "Metalworking",
+                            "correct": false
+                        },
+                        {
+                            "text": "Fishing",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which artifact suggests the Indus Valley people practiced religious rituals?",
+                    "options": [{
+                            "text": "Steatite seals",
+                            "correct": true
+                        },
+                        {
+                            "text": "Pottery fragments",
+                            "correct": false
+                        },
+                        {
+                            "text": "Bone tools",
+                            "correct": false
+                        },
+                        {
+                            "text": "Copper figurines",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which aspect of Indus Valley civilization remains a mystery?",
+                    "options": [{
+                            "text": "Their political organization",
+                            "correct": true
+                        },
+                        {
+                            "text": "Their trade routes",
+                            "correct": false
+                        },
+                        {
+                            "text": "Their pottery styles",
+                            "correct": false
+                        },
+                        {
+                            "text": "Their diet",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the likely cause of the decline of the Indus Valley Civilization?",
+                    "options": [{
+                            "text": "Environmental changes",
+                            "correct": true
+                        },
+                        {
+                            "text": "Foreign invasion",
+                            "correct": false
+                        },
+                        {
+                            "text": "Disease",
+                            "correct": false
+                        },
+                        {
+                            "text": "Economic collapse",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "Early China and Shang Dynasty": [{
+                    "question": "What was the first historically confirmed Chinese dynasty?",
+                    "options": [{
+                            "text": "Xia",
+                            "correct": false
+                        },
+                        {
+                            "text": "Shang",
+                            "correct": true
+                        },
+                        {
+                            "text": "Zhou",
+                            "correct": false
+                        },
+                        {
+                            "text": "Han",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which river was central to the Shang Dynasty?",
+                    "options": [{
+                            "text": "Yellow River",
+                            "correct": true
+                        },
+                        {
+                            "text": "Yangtze River",
+                            "correct": false
+                        },
+                        {
+                            "text": "Ganges River",
+                            "correct": false
+                        },
+                        {
+                            "text": "Indus River",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What material was most associated with Shang Dynasty weaponry?",
+                    "options": [{
+                            "text": "Bronze",
+                            "correct": true
+                        },
+                        {
+                            "text": "Iron",
+                            "correct": false
+                        },
+                        {
+                            "text": "Steel",
+                            "correct": false
+                        },
+                        {
+                            "text": "Stone",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was one of the primary religious practices of the Shang Dynasty?",
+                    "options": [{
+                            "text": "Ancestor worship",
+                            "correct": true
+                        },
+                        {
+                            "text": "Sun god worship",
+                            "correct": false
+                        },
+                        {
+                            "text": "Human sacrifice",
+                            "correct": false
+                        },
+                        {
+                            "text": "Temple building",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What writing form developed during the Shang Dynasty?",
+                    "options": [{
+                            "text": "Oracle bone script",
+                            "correct": true
+                        },
+                        {
+                            "text": "Hieroglyphics",
+                            "correct": false
+                        },
+                        {
+                            "text": "Cuneiform",
+                            "correct": false
+                        },
+                        {
+                            "text": "Phoenician alphabet",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What role did the Shang king often serve as?",
+                    "options": [{
+                            "text": "Military leader and high priest",
+                            "correct": true
+                        },
+                        {
+                            "text": "Only military leader",
+                            "correct": false
+                        },
+                        {
+                            "text": "Only religious leader",
+                            "correct": false
+                        },
+                        {
+                            "text": "Agricultural overseer",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which type of artifact provides key information about the Shang Dynasty?",
+                    "options": [{
+                            "text": "Oracle bones",
+                            "correct": true
+                        },
+                        {
+                            "text": "Pyramids",
+                            "correct": false
+                        },
+                        {
+                            "text": "Tombs",
+                            "correct": false
+                        },
+                        {
+                            "text": "Statues",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What did Shang Dynasty craftsmen famously produce?",
+                    "options": [{
+                            "text": "Intricate bronze items",
+                            "correct": true
+                        },
+                        {
+                            "text": "Glassware",
+                            "correct": false
+                        },
+                        {
+                            "text": "Ivory carvings",
+                            "correct": false
+                        },
+                        {
+                            "text": "Stone sculptures",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "The Shang Dynasty's writing system influenced which later development?",
+                    "options": [{
+                            "text": "Chinese characters",
+                            "correct": true
+                        },
+                        {
+                            "text": "Korean hangul",
+                            "correct": false
+                        },
+                        {
+                            "text": "Japanese kana",
+                            "correct": false
+                        },
+                        {
+                            "text": "Sanskrit",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "How did the Shang Dynasty eventually fall?",
+                    "options": [{
+                            "text": "Defeat by the Zhou",
+                            "correct": true
+                        },
+                        {
+                            "text": "Invasion by the Mongols",
+                            "correct": false
+                        },
+                        {
+                            "text": "Drought and famine",
+                            "correct": false
+                        },
+                        {
+                            "text": "Decline of trade",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "Mesoamerican Cultures": [{
+                    "question": "What was the primary civilization in Mesoamerica known for its advanced calendar?",
+                    "options": [{
+                            "text": "Maya",
+                            "correct": true
+                        },
+                        {
+                            "text": "Aztec",
+                            "correct": false
+                        },
+                        {
+                            "text": "Olmec",
+                            "correct": false
+                        },
+                        {
+                            "text": "Inca",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What large pyramid did the Aztecs build in their capital Tenochtitlan?",
+                    "options": [{
+                            "text": "The Temple Mayor",
+                            "correct": true
+                        },
+                        {
+                            "text": "Chichen Itza",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Great Pyramid of Cholula",
+                            "correct": false
+                        },
+                        {
+                            "text": "Temple of Kukulkan",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which Mesoamerican culture is considered the earliest civilization in the region?",
+                    "options": [{
+                            "text": "Olmec",
+                            "correct": true
+                        },
+                        {
+                            "text": "Maya",
+                            "correct": false
+                        },
+                        {
+                            "text": "Aztec",
+                            "correct": false
+                        },
+                        {
+                            "text": "Inca",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which civilization is known for creating giant stone heads?",
+                    "options": [{
+                            "text": "Olmec",
+                            "correct": true
+                        },
+                        {
+                            "text": "Maya",
+                            "correct": false
+                        },
+                        {
+                            "text": "Aztec",
+                            "correct": false
+                        },
+                        {
+                            "text": "Toltec",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What writing system did the Maya develop?",
+                    "options": [{
+                            "text": "Hieroglyphics",
+                            "correct": true
+                        },
+                        {
+                            "text": "Cuneiform",
+                            "correct": false
+                        },
+                        {
+                            "text": "Alphabetic script",
+                            "correct": false
+                        },
+                        {
+                            "text": "Phoenician script",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which crop was most essential to Mesoamerican civilizations?",
+                    "options": [{
+                            "text": "Maize",
+                            "correct": true
+                        },
+                        {
+                            "text": "Wheat",
+                            "correct": false
+                        },
+                        {
+                            "text": "Rice",
+                            "correct": false
+                        },
+                        {
+                            "text": "Barley",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the name of the Mesoamerican ball game played with a rubber ball?",
+                    "options": [{
+                            "text": "Ullamaliztli",
+                            "correct": true
+                        },
+                        {
+                            "text": "Pitz",
+                            "correct": false
+                        },
+                        {
+                            "text": "Tlachtli",
+                            "correct": false
+                        },
+                        {
+                            "text": "Pok-A-Tok",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the primary function of Teotihuacan?",
+                    "options": [{
+                            "text": "A large city and ceremonial center",
+                            "correct": true
+                        },
+                        {
+                            "text": "A small village",
+                            "correct": false
+                        },
+                        {
+                            "text": "A port city",
+                            "correct": false
+                        },
+                        {
+                            "text": "A military fort",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which god was often depicted as a feathered serpent in Mesoamerican cultures?",
+                    "options": [{
+                            "text": "Quetzalcoatl",
+                            "correct": true
+                        },
+                        {
+                            "text": "Huitzilopochtli",
+                            "correct": false
+                        },
+                        {
+                            "text": "Kukulkan",
+                            "correct": false
+                        },
+                        {
+                            "text": "Tlaloc",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the Aztec system of agriculture called that involved creating small, rectangular areas of fertile land on shallow lake beds?",
+                    "options": [{
+                            "text": "Chinampas",
+                            "correct": true
+                        },
+                        {
+                            "text": "Terracing",
+                            "correct": false
+                        },
+                        {
+                            "text": "Irrigation canals",
+                            "correct": false
+                        },
+                        {
+                            "text": "Crop rotation",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

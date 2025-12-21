@@ -1,0 +1,1215 @@
+{
+    "Medieval and Feudal Societies": {
+      "Medieval Europe": {
+        "Feudalism and Social Structure": [
+          {
+            "question": "What term describes the medieval system where land was exchanged for service and loyalty?",
+            "options": [
+              { "text": "Feudalism", "correct": true },
+              { "text": "Mercantilism", "correct": false },
+              { "text": "Monarchism", "correct": false },
+              { "text": "Capitalism", "correct": false }
+            ]
+          },
+          {
+            "question": "In medieval feudal society, what was a serf?",
+            "options": [
+              { "text": "A peasant bound to the land", "correct": true },
+              { "text": "A noble landowner", "correct": false },
+              { "text": "A member of the clergy", "correct": false },
+              { "text": "A knight", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the primary role of knights in the feudal system?",
+            "options": [
+              { "text": "To provide military service to lords", "correct": true },
+              { "text": "To manage estates", "correct": false },
+              { "text": "To collect taxes", "correct": false },
+              { "text": "To serve as clergy", "correct": false }
+            ]
+          },
+          {
+            "question": "Which group in the feudal system was responsible for overseeing manors and administering justice?",
+            "options": [
+              { "text": "Lords", "correct": true },
+              { "text": "Knights", "correct": false },
+              { "text": "Serfs", "correct": false },
+              { "text": "Peasants", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the term for a land grant given to a vassal in exchange for loyalty?",
+            "options": [
+              { "text": "Fief", "correct": true },
+              { "text": "Tithe", "correct": false },
+              { "text": "Demesne", "correct": false },
+              { "text": "Estate", "correct": false }
+            ]
+          },
+          {
+            "question": "In feudal Europe, what was the name for the code of conduct that knights were expected to follow?",
+            "options": [
+              { "text": "Chivalry", "correct": true },
+              { "text": "Bushido", "correct": false },
+              { "text": "Vassalage", "correct": false },
+              { "text": "Pax Romana", "correct": false }
+            ]
+          },
+          {
+            "question": "Which term describes a group of people who share a particular craft and formed associations for mutual benefit?",
+            "options": [
+              { "text": "Guild", "correct": true },
+              { "text": "Manor", "correct": false },
+              { "text": "Fief", "correct": false },
+              { "text": "Estate", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the purpose of the manorial system in feudal Europe?",
+            "options": [
+              { "text": "To organize agriculture and local economies", "correct": true },
+              { "text": "To establish international trade routes", "correct": false },
+              { "text": "To enforce religious law", "correct": false },
+              { "text": "To organize armies", "correct": false }
+            ]
+          },
+          {
+            "question": "Which social class held the most power in the feudal hierarchy?",
+            "options": [
+              { "text": "Nobility", "correct": true },
+              { "text": "Peasants", "correct": false },
+              { "text": "Clergy", "correct": false },
+              { "text": "Merchants", "correct": false }
+            ]
+          },
+          {
+            "question": "Which system of government characterized the political structure of medieval Europe?",
+            "options": [
+              { "text": "Feudal monarchy", "correct": true },
+              { "text": "Democracy", "correct": false },
+              { "text": "Republic", "correct": false },
+              { "text": "Empire", "correct": false }
+            ]
+          }
+        ],
+        "Key Conflicts": [
+          {
+            "question": "What was the name of the series of religious wars fought between Christians and Muslims in the Middle Ages?",
+            "options": [
+              { "text": "The Crusades", "correct": true },
+              { "text": "The Hundred Years' War", "correct": false },
+              { "text": "The War of the Roses", "correct": false },
+              { "text": "The Reconquista", "correct": false }
+            ]
+          },
+          {
+            "question": "Which war lasted from 1337 to 1453 and involved England and France?",
+            "options": [
+              { "text": "The Hundred Years' War", "correct": true },
+              { "text": "The Crusades", "correct": false },
+              { "text": "The Thirty Years' War", "correct": false },
+              { "text": "The War of the Roses", "correct": false }
+            ]
+          },
+          {
+            "question": "Who led the French to several victories in the Hundred Years' War before being captured and executed?",
+            "options": [
+              { "text": "Joan of Arc", "correct": true },
+              { "text": "Richard the Lionheart", "correct": false },
+              { "text": "William the Conqueror", "correct": false },
+              { "text": "Saladin", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the Reconquista?",
+            "options": [
+              { "text": "The Christian effort to retake Spain from Muslim rule", "correct": true },
+              { "text": "The Viking invasion of England", "correct": false },
+              { "text": "The establishment of the Holy Roman Empire", "correct": false },
+              { "text": "The Fourth Crusade", "correct": false }
+            ]
+          },
+          {
+            "question": "Which battle in 1066 led to the Norman conquest of England?",
+            "options": [
+              { "text": "Battle of Hastings", "correct": true },
+              { "text": "Battle of Tours", "correct": false },
+              { "text": "Battle of Agincourt", "correct": false },
+              { "text": "Battle of Poitiers", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Muslim leader recaptured Jerusalem during the Third Crusade?",
+            "options": [
+              { "text": "Saladin", "correct": true },
+              { "text": "Muhammad", "correct": false },
+              { "text": "Suleiman the Magnificent", "correct": false },
+              { "text": "Genghis Khan", "correct": false }
+            ]
+          },
+          {
+            "question": "Which treaty ended the Hundred Years' War?",
+            "options": [
+              { "text": "Treaty of Picquigny", "correct": true },
+              { "text": "Treaty of Tordesillas", "correct": false },
+              { "text": "Treaty of Verdun", "correct": false },
+              { "text": "Treaty of Paris", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the English king known for leading the Third Crusade?",
+            "options": [
+              { "text": "Richard the Lionheart", "correct": true },
+              { "text": "Henry II", "correct": false },
+              { "text": "Edward III", "correct": false },
+              { "text": "John I", "correct": false }
+            ]
+          },
+          {
+            "question": "The Battle of Tours in 732 was significant for stopping the advance of which group into Western Europe?",
+            "options": [
+              { "text": "Muslim Moors", "correct": true },
+              { "text": "Vikings", "correct": false },
+              { "text": "Mongols", "correct": false },
+              { "text": "Normans", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the ultimate outcome of the Crusades for Europeans?",
+            "options": [
+              { "text": "Increased cultural and economic exchange with the East", "correct": true },
+              { "text": "Complete Christian control over the Holy Land", "correct": false },
+              { "text": "Unification of European territories under one ruler", "correct": false },
+              { "text": "Permanent peace with Muslim empires", "correct": false }
+            ]
+          }
+        ],
+        "Key Figures": [
+          {
+            "question": "Who was crowned Emperor of the Holy Roman Empire in 800 CE?",
+            "options": [
+              { "text": "Charlemagne", "correct": true },
+              { "text": "Otto I", "correct": false },
+              { "text": "Charles Martel", "correct": false },
+              { "text": "William the Conqueror", "correct": false }
+            ]
+          },
+          {
+            "question": "Which English king signed the Magna Carta in 1215?",
+            "options": [
+              { "text": "King John", "correct": true },
+              { "text": "Richard the Lionheart", "correct": false },
+              { "text": "Henry VIII", "correct": false },
+              { "text": "Edward I", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was known as the founder of the Carolingian Empire and united much of Western Europe?",
+            "options": [
+              { "text": "Charlemagne", "correct": true },
+              { "text": "Pepin the Short", "correct": false },
+              { "text": "Louis the Pious", "correct": false },
+              { "text": "Hugh Capet", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the main contribution of St. Thomas Aquinas to medieval European thought?",
+            "options": [
+              { "text": "Synthesis of Christian theology with Aristotelian philosophy", "correct": true },
+              { "text": "Founding the Benedictine monastic order", "correct": false },
+              { "text": "Leading the First Crusade", "correct": false },
+              { "text": "Compiling the Domesday Book", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Viking leader became the first ruler of Normandy in 911?",
+            "options": [
+              { "text": "Rollo", "correct": true },
+              { "text": "Eric the Red", "correct": false },
+              { "text": "Leif Erikson", "correct": false },
+              { "text": "Harald Hardrada", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Frankish leader defeated the Muslim Moors at the Battle of Tours in 732?",
+            "options": [
+              { "text": "Charles Martel", "correct": true },
+              { "text": "Pepin the Short", "correct": false },
+              { "text": "Clovis I", "correct": false },
+              { "text": "Louis the Pious", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was Eleanor of Aquitaine and why is she significant?",
+            "options": [
+              { "text": "A powerful noblewoman and queen of both France and England", "correct": true },
+              { "text": "The founder of the Benedictine order", "correct": false },
+              { "text": "A leader of the Third Crusade", "correct": false },
+              { "text": "A Christian martyr from Spain", "correct": false }
+            ]
+          },
+          {
+            "question": "Which medieval philosopher is known for his work 'Sic et Non'?",
+            "options": [
+              { "text": "Peter Abelard", "correct": true },
+              { "text": "St. Augustine", "correct": false },
+              { "text": "St. Thomas Aquinas", "correct": false },
+              { "text": "Roger Bacon", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the ruler of the Byzantine Empire during its height and established a code of laws?",
+            "options": [
+              { "text": "Justinian I", "correct": true },
+              { "text": "Constantine I", "correct": false },
+              { "text": "Theodosius I", "correct": false },
+              { "text": "Basil II", "correct": false }
+            ]
+          },
+          {
+            "question": "Who led the Norman Conquest of England in 1066?",
+            "options": [
+              { "text": "William the Conqueror", "correct": true },
+              { "text": "Harold Godwinson", "correct": false },
+              { "text": "Edward the Confessor", "correct": false },
+              { "text": "Henry II", "correct": false }
+            ]
+          }
+        ]
+      },"Byzantine Empire": {
+        "Justinian and Theodora": [
+          {
+            "question": "Who was the Byzantine emperor known for his ambitious building projects and legal reforms?",
+            "options": [
+              { "text": "Justinian I", "correct": true },
+              { "text": "Constantine I", "correct": false },
+              { "text": "Theodosius I", "correct": false },
+              { "text": "Basil II", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was Justinian's influential wife who played a significant role in political and religious matters?",
+            "options": [
+              { "text": "Theodora", "correct": true },
+              { "text": "Helena", "correct": false },
+              { "text": "Irene", "correct": false },
+              { "text": "Sophia", "correct": false }
+            ]
+          },
+          {
+            "question": "Which rebellion nearly toppled Justinian's rule in 532?",
+            "options": [
+              { "text": "Nika Riots", "correct": true },
+              { "text": "Iconoclast Rebellion", "correct": false },
+              { "text": "Gothic Revolt", "correct": false },
+              { "text": "Macedonian Revolt", "correct": false }
+            ]
+          },
+          {
+            "question": "What was Justinian's most famous architectural achievement?",
+            "options": [
+              { "text": "Hagia Sophia", "correct": true },
+              { "text": "Forum of Constantine", "correct": false },
+              { "text": "Theodosian Walls", "correct": false },
+              { "text": "Church of St. Irene", "correct": false }
+            ]
+          },
+          {
+            "question": "What significant legal document was created under Justinian’s rule?",
+            "options": [
+              { "text": "Corpus Juris Civilis", "correct": true },
+              { "text": "Magna Carta", "correct": false },
+              { "text": "Twelve Tables", "correct": false },
+              { "text": "Lex Romana", "correct": false }
+            ]
+          },
+          {
+            "question": "Which group did Justinian's general Belisarius primarily defeat to expand the empire?",
+            "options": [
+              { "text": "Ostrogoths", "correct": true },
+              { "text": "Huns", "correct": false },
+              { "text": "Vandals", "correct": false },
+              { "text": "Franks", "correct": false }
+            ]
+          },
+          {
+            "question": "What was Theodora’s role prior to her marriage to Justinian?",
+            "options": [
+              { "text": "An actress and performer", "correct": true },
+              { "text": "A priestess", "correct": false },
+              { "text": "A scholar", "correct": false },
+              { "text": "A general", "correct": false }
+            ]
+          },
+          {
+            "question": "Justinian’s rule is often considered the last attempt to restore what?",
+            "options": [
+              { "text": "The Roman Empire", "correct": true },
+              { "text": "Theocratic rule", "correct": false },
+              { "text": "Feudalism", "correct": false },
+              { "text": "Hellenistic Empire", "correct": false }
+            ]
+          },
+          {
+            "question": "What was one reason Justinian's campaigns ultimately weakened the Byzantine Empire?",
+            "options": [
+              { "text": "High taxation and military costs", "correct": true },
+              { "text": "Corruption within the clergy", "correct": false },
+              { "text": "Religious disputes", "correct": false },
+              { "text": "Natural disasters", "correct": false }
+            ]
+          },
+          {
+            "question": "The Plague of Justinian, which occurred during his reign, was likely caused by which disease?",
+            "options": [
+              { "text": "Bubonic plague", "correct": true },
+              { "text": "Smallpox", "correct": false },
+              { "text": "Malaria", "correct": false },
+              { "text": "Tuberculosis", "correct": false }
+            ]
+          }
+        ],
+        "Byzantine Art and Culture": [
+          {
+            "question": "What style of art is commonly associated with Byzantine culture?",
+            "options": [
+              { "text": "Mosaics", "correct": true },
+              { "text": "Oil paintings", "correct": false },
+              { "text": "Frescoes", "correct": false },
+              { "text": "Marble sculptures", "correct": false }
+            ]
+          },
+          {
+            "question": "Which language became the primary language of the Byzantine Empire?",
+            "options": [
+              { "text": "Greek", "correct": true },
+              { "text": "Latin", "correct": false },
+              { "text": "Arabic", "correct": false },
+              { "text": "Coptic", "correct": false }
+            ]
+          },
+          {
+            "question": "Which religious image form was highly revered but also controversial in Byzantine culture?",
+            "options": [
+              { "text": "Icons", "correct": true },
+              { "text": "Totems", "correct": false },
+              { "text": "Idols", "correct": false },
+              { "text": "Paintings", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the primary purpose of Byzantine art?",
+            "options": [
+              { "text": "To glorify God and Christian teachings", "correct": true },
+              { "text": "To depict mythological stories", "correct": false },
+              { "text": "To promote individual artists", "correct": false },
+              { "text": "To portray realistic human figures", "correct": false }
+            ]
+          },
+          {
+            "question": "The practice of 'Iconoclasm' involved what?",
+            "options": [
+              { "text": "Destroying religious images", "correct": true },
+              { "text": "Creating large churches", "correct": false },
+              { "text": "Composing hymns", "correct": false },
+              { "text": "Building defensive walls", "correct": false }
+            ]
+          },
+          {
+            "question": "Which church served as a center for religious and artistic life in Constantinople?",
+            "options": [
+              { "text": "Hagia Sophia", "correct": true },
+              { "text": "St. Peter's Basilica", "correct": false },
+              { "text": "St. Mark's Basilica", "correct": false },
+              { "text": "Pantheon", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the term for the semicircular apse commonly found in Byzantine churches?",
+            "options": [
+              { "text": "Conch", "correct": true },
+              { "text": "Dome", "correct": false },
+              { "text": "Column", "correct": false },
+              { "text": "Portico", "correct": false }
+            ]
+          },
+          {
+            "question": "Which emperor reinstated the use of icons in 843 CE?",
+            "options": [
+              { "text": "Michael III", "correct": true },
+              { "text": "Justinian I", "correct": false },
+              { "text": "Leo III", "correct": false },
+              { "text": "Constantine V", "correct": false }
+            ]
+          },
+          {
+            "question": "What cultural influence was strongest in Byzantine mosaic art?",
+            "options": [
+              { "text": "Roman and Greek heritage", "correct": true },
+              { "text": "Persian art", "correct": false },
+              { "text": "Egyptian style", "correct": false },
+              { "text": "Islamic architecture", "correct": false }
+            ]
+          },
+          {
+            "question": "Which type of Christian hymn, often sung during worship in Byzantine churches, was popularized in the empire?",
+            "options": [
+              { "text": "Chant", "correct": true },
+              { "text": "Hymnody", "correct": false },
+              { "text": "Anthem", "correct": false },
+              { "text": "Psalm", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Islamic Golden Age": {
+        "Science, Mathematics, and Philosophy": [
+          {
+            "question": "Who was the Islamic mathematician who introduced the concept of algebra?",
+            "options": [
+              { "text": "Al-Khwarizmi", "correct": true },
+              { "text": "Al-Farabi", "correct": false },
+              { "text": "Avicenna", "correct": false },
+              { "text": "Al-Razi", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the name of the Muslim scholar who made significant contributions to medicine and compiled a comprehensive medical encyclopedia?",
+            "options": [
+              { "text": "Avicenna", "correct": true },
+              { "text": "Alhazen", "correct": false },
+              { "text": "Al-Biruni", "correct": false },
+              { "text": "Al-Farabi", "correct": false }
+            ]
+          },
+          {
+            "question": "Which work by Ibn Sina (Avicenna) became a standard medical text in Europe for centuries?",
+            "options": [
+              { "text": "The Canon of Medicine", "correct": true },
+              { "text": "Book of Healing", "correct": false },
+              { "text": "Kitab al-Hawi", "correct": false },
+              { "text": "The Almagest", "correct": false }
+            ]
+          },
+          {
+            "question": "The ‘House of Wisdom’ in Baghdad served what primary purpose?",
+            "options": [
+              { "text": "Center for learning and translating scientific texts", "correct": true },
+              { "text": "Residence of the caliph", "correct": false },
+              { "text": "Military headquarters", "correct": false },
+              { "text": "Religious center", "correct": false }
+            ]
+          },
+          {
+            "question": "Who is known as the 'father of optics' for his groundbreaking work in the field of optics?",
+            "options": [
+              { "text": "Alhazen (Ibn al-Haytham)", "correct": true },
+              { "text": "Al-Kindi", "correct": false },
+              { "text": "Ibn Rushd", "correct": false },
+              { "text": "Omar Khayyam", "correct": false }
+            ]
+          },
+          {
+            "question": "What concept did Islamic astronomers such as Al-Battani refine that influenced European science?",
+            "options": [
+              { "text": "Trigonometry and planetary orbits", "correct": true },
+              { "text": "Geocentric universe model", "correct": false },
+              { "text": "Aristotelian physics", "correct": false },
+              { "text": "Alchemy", "correct": false }
+            ]
+          },
+          {
+            "question": "Which philosopher is known for attempting to harmonize Islam with Greek philosophy?",
+            "options": [
+              { "text": "Ibn Rushd (Averroes)", "correct": true },
+              { "text": "Al-Farabi", "correct": false },
+              { "text": "Al-Ghazali", "correct": false },
+              { "text": "Avicenna", "correct": false }
+            ]
+          },
+          {
+            "question": "In the field of mathematics, Muslim scholars developed and promoted the use of which numeric system?",
+            "options": [
+              { "text": "Arabic numerals", "correct": true },
+              { "text": "Roman numerals", "correct": false },
+              { "text": "Babylonian system", "correct": false },
+              { "text": "Decimal system", "correct": false }
+            ]
+          },
+          {
+            "question": "Al-Biruni is best known for his work in which area?",
+            "options": [
+              { "text": "Astronomy and geography", "correct": true },
+              { "text": "Chemistry", "correct": false },
+              { "text": "Philosophy", "correct": false },
+              { "text": "Law", "correct": false }
+            ]
+          },
+          {
+            "question": "What is one of the lasting contributions of the Islamic Golden Age to modern science?",
+            "options": [
+              { "text": "The scientific method", "correct": true },
+              { "text": "Creation of antibiotics", "correct": false },
+              { "text": "Laws of inheritance", "correct": false },
+              { "text": "Discovery of penicillin", "correct": false }
+            ]
+          }
+        ],
+        "Caliphates and Key Figures": [
+          {
+            "question": "Who was the first caliph to succeed Muhammad after his death?",
+            "options": [
+              { "text": "Abu Bakr", "correct": true },
+              { "text": "Umar", "correct": false },
+              { "text": "Uthman", "correct": false },
+              { "text": "Ali", "correct": false }
+            ]
+          },
+          {
+            "question": "What dynasty was known for its massive expansion and moved the capital to Damascus?",
+            "options": [
+              { "text": "Umayyad", "correct": true },
+              { "text": "Abbasid", "correct": false },
+              { "text": "Fatimid", "correct": false },
+              { "text": "Ottoman", "correct": false }
+            ]
+          },
+          {
+            "question": "Under which caliphate did the Islamic Golden Age reach its peak with advances in science, literature, and art?",
+            "options": [
+              { "text": "Abbasid", "correct": true },
+              { "text": "Umayyad", "correct": false },
+              { "text": "Ottoman", "correct": false },
+              { "text": "Fatimid", "correct": false }
+            ]
+          },
+          {
+            "question": "Which city, established as the capital by the Abbasids, became a cultural and intellectual center?",
+            "options": [
+              { "text": "Baghdad", "correct": true },
+              { "text": "Damascus", "correct": false },
+              { "text": "Mecca", "correct": false },
+              { "text": "Cairo", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was known as the ‘Harun al-Rashid’ of the Abbasid caliphate?",
+            "options": [
+              { "text": "A caliph who promoted culture and the arts", "correct": true },
+              { "text": "A famous mathematician", "correct": false },
+              { "text": "A military general", "correct": false },
+              { "text": "The founder of the Umayyad dynasty", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Islamic sect believes that Ali was the rightful successor to Muhammad?",
+            "options": [
+              { "text": "Shi’a", "correct": true },
+              { "text": "Sunni", "correct": false },
+              { "text": "Sufi", "correct": false },
+              { "text": "Ahmadiyya", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the primary language of administration and culture during the Abbasid caliphate?",
+            "options": [
+              { "text": "Arabic", "correct": true },
+              { "text": "Persian", "correct": false },
+              { "text": "Turkish", "correct": false },
+              { "text": "Greek", "correct": false }
+            ]
+          },
+          {
+            "question": "What major event led to the decline of the Abbasid Caliphate?",
+            "options": [
+              { "text": "The Mongol invasion", "correct": true },
+              { "text": "The Crusades", "correct": false },
+              { "text": "The rise of the Umayyads", "correct": false },
+              { "text": "The decline in trade", "correct": false }
+            ]
+          },
+          {
+            "question": "Which caliph was assassinated, leading to the first significant division between Sunni and Shi’a Muslims?",
+            "options": [
+              { "text": "Ali", "correct": true },
+              { "text": "Uthman", "correct": false },
+              { "text": "Abu Bakr", "correct": false },
+              { "text": "Umar", "correct": false }
+            ]
+          },
+          {
+            "question": "Which group took control of Spain in 711, establishing Islamic rule for several centuries?",
+            "options": [
+              { "text": "Umayyads", "correct": true },
+              { "text": "Fatimids", "correct": false },
+              { "text": "Ottomans", "correct": false },
+              { "text": "Seljuks", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Asia": {
+        "Mongol Empire and Genghis Khan": [
+          {
+            "question": "Who was the founder and first Great Khan of the Mongol Empire?",
+            "options": [
+              { "text": "Genghis Khan", "correct": true },
+              { "text": "Kublai Khan", "correct": false },
+              { "text": "Ogedei Khan", "correct": false },
+              { "text": "Tamerlane", "correct": false }
+            ]
+          },
+          {
+            "question": "What strategy helped the Mongols to create the largest contiguous empire in history?",
+            "options": [
+              { "text": "Military discipline and organization", "correct": true },
+              { "text": "Seafaring technology", "correct": false },
+              { "text": "Trade embargoes", "correct": false },
+              { "text": "Economic reforms", "correct": false }
+            ]
+          },
+          {
+            "question": "Which descendant of Genghis Khan became the Emperor of China and founded the Yuan Dynasty?",
+            "options": [
+              { "text": "Kublai Khan", "correct": true },
+              { "text": "Ogedei Khan", "correct": false },
+              { "text": "Tamerlane", "correct": false },
+              { "text": "Hulagu Khan", "correct": false }
+            ]
+          },
+          {
+            "question": "Genghis Khan initially united which of the following groups?",
+            "options": [
+              { "text": "The Mongol tribes", "correct": true },
+              { "text": "The Chinese clans", "correct": false },
+              { "text": "The Russian principalities", "correct": false },
+              { "text": "The Persian kingdoms", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the Pax Mongolica?",
+            "options": [
+              { "text": "A period of peace and stability under Mongol rule", "correct": true },
+              { "text": "A Mongolian law code", "correct": false },
+              { "text": "The Mongol conquest of Persia", "correct": false },
+              { "text": "The treaty between Mongols and China", "correct": false }
+            ]
+          },
+          {
+            "question": "Which major Silk Road city was famously sacked by the Mongols?",
+            "options": [
+              { "text": "Baghdad", "correct": true },
+              { "text": "Constantinople", "correct": false },
+              { "text": "Mecca", "correct": false },
+              { "text": "Samarkand", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the original name of Genghis Khan before he took his title?",
+            "options": [
+              { "text": "Temujin", "correct": true },
+              { "text": "Subotai", "correct": false },
+              { "text": "Ogedei", "correct": false },
+              { "text": "Chagatai", "correct": false }
+            ]
+          },
+          {
+            "question": "Genghis Khan’s empire was divided into regions called what?",
+            "options": [
+              { "text": "Khanates", "correct": true },
+              { "text": "Satrapies", "correct": false },
+              { "text": "Provinces", "correct": false },
+              { "text": "Territories", "correct": false }
+            ]
+          },
+          {
+            "question": "Which type of weaponry were the Mongols highly skilled in using?",
+            "options": [
+              { "text": "Composite bows", "correct": true },
+              { "text": "Long swords", "correct": false },
+              { "text": "Crossbows", "correct": false },
+              { "text": "War chariots", "correct": false }
+            ]
+          },
+          {
+            "question": "What contributed to the Mongols' ability to conquer vast territories?",
+            "options": [
+              { "text": "Mobility and use of cavalry", "correct": true },
+              { "text": "Advanced metal armor", "correct": false },
+              { "text": "Large, standing armies", "correct": false },
+              { "text": "Use of firearms", "correct": false }
+            ]
+          }
+        ],
+        "Japanese Shogunate and Samurai": [
+          {
+            "question": "What was the primary duty of the samurai in feudal Japan?",
+            "options": [
+              { "text": "To serve their lord as warriors", "correct": true },
+              { "text": "To manage temples", "correct": false },
+              { "text": "To collect taxes", "correct": false },
+              { "text": "To work as artisans", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the code of conduct that guided samurai behavior?",
+            "options": [
+              { "text": "Bushido", "correct": true },
+              { "text": "Samurai Code", "correct": false },
+              { "text": "Seppuku", "correct": false },
+              { "text": "Kendo", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Japanese period saw the rise of the first shogunate?",
+            "options": [
+              { "text": "Kamakura", "correct": true },
+              { "text": "Muromachi", "correct": false },
+              { "text": "Edo", "correct": false },
+              { "text": "Heian", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the first shogun of Japan?",
+            "options": [
+              { "text": "Minamoto no Yoritomo", "correct": true },
+              { "text": "Tokugawa Ieyasu", "correct": false },
+              { "text": "Oda Nobunaga", "correct": false },
+              { "text": "Toyotomi Hideyoshi", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the Tokugawa shogunate best known for implementing?",
+            "options": [
+              { "text": "A policy of isolation", "correct": true },
+              { "text": "Expanding trade with the West", "correct": false },
+              { "text": "Encouraging Christianity", "correct": false },
+              { "text": "Allowing for democratic reforms", "correct": false }
+            ]
+          },
+          {
+            "question": "The Edo period is sometimes referred to as the period of what?",
+            "options": [
+              { "text": "Great Peace", "correct": true },
+              { "text": "Isolation", "correct": false },
+              { "text": "Warrior Kingdoms", "correct": false },
+              { "text": "Divine Emperors", "correct": false }
+            ]
+          },
+          {
+            "question": "The samurai’s strict sense of loyalty and honor sometimes required them to perform what act?",
+            "options": [
+              { "text": "Seppuku", "correct": true },
+              { "text": "Meditation", "correct": false },
+              { "text": "Martial arts training", "correct": false },
+              { "text": "Writing poetry", "correct": false }
+            ]
+          },
+          {
+            "question": "Which religion, emphasizing discipline and meditation, was particularly influential among samurai?",
+            "options": [
+              { "text": "Zen Buddhism", "correct": true },
+              { "text": "Shintoism", "correct": false },
+              { "text": "Confucianism", "correct": false },
+              { "text": "Daoism", "correct": false }
+            ]
+          },
+          {
+            "question": "In feudal Japan, what was the term for the powerful warlords who controlled large territories?",
+            "options": [
+              { "text": "Daimyo", "correct": true },
+              { "text": "Samurai", "correct": false },
+              { "text": "Ronin", "correct": false },
+              { "text": "Shogun", "correct": false }
+            ]
+          },
+          {
+            "question": "The battle of Sekigahara in 1600 resulted in the establishment of which shogunate?",
+            "options": [
+              { "text": "Tokugawa", "correct": true },
+              { "text": "Kamakura", "correct": false },
+              { "text": "Muromachi", "correct": false },
+              { "text": "Ashikaga", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Africa": {
+        "Kingdoms of Mali, Ghana, and Songhai": [
+          {
+            "question": "Which kingdom was the first of the major West African empires?",
+            "options": [
+              { "text": "Ghana", "correct": true },
+              { "text": "Mali", "correct": false },
+              { "text": "Songhai", "correct": false },
+              { "text": "Axum", "correct": false }
+            ]
+          },
+          {
+            "question": "The Kingdom of Mali reached its height under which famous ruler?",
+            "options": [
+              { "text": "Mansa Musa", "correct": true },
+              { "text": "Sunni Ali", "correct": false },
+              { "text": "Sundiata Keita", "correct": false },
+              { "text": "Askia Muhammad", "correct": false }
+            ]
+          },
+          {
+            "question": "Which West African kingdom was known for its wealth in gold and salt?",
+            "options": [
+              { "text": "Ghana", "correct": true },
+              { "text": "Ethiopia", "correct": false },
+              { "text": "Benin", "correct": false },
+              { "text": "Nubia", "correct": false }
+            ]
+          },
+          {
+            "question": "Which city was a renowned center for learning in the Mali Empire?",
+            "options": [
+              { "text": "Timbuktu", "correct": true },
+              { "text": "Cairo", "correct": false },
+              { "text": "Marrakesh", "correct": false },
+              { "text": "Niani", "correct": false }
+            ]
+          },
+          {
+            "question": "What religion was prominently practiced and promoted by the rulers of Mali and Songhai?",
+            "options": [
+              { "text": "Islam", "correct": true },
+              { "text": "Christianity", "correct": false },
+              { "text": "Animism", "correct": false },
+              { "text": "Buddhism", "correct": false }
+            ]
+          },
+          {
+            "question": "The Songhai Empire was eventually conquered by forces from which region?",
+            "options": [
+              { "text": "Morocco", "correct": true },
+              { "text": "Egypt", "correct": false },
+              { "text": "Niger", "correct": false },
+              { "text": "Tunis", "correct": false }
+            ]
+          },
+          {
+            "question": "Who was the legendary founder of the Mali Empire?",
+            "options": [
+              { "text": "Sundiata Keita", "correct": true },
+              { "text": "Mansa Musa", "correct": false },
+              { "text": "Askia Muhammad", "correct": false },
+              { "text": "Sunni Ali", "correct": false }
+            ]
+          },
+          {
+            "question": "What role did the Niger River play in the rise of West African empires?",
+            "options": [
+              { "text": "Provided a trade route and resources", "correct": true },
+              { "text": "Served as a barrier to invaders", "correct": false },
+              { "text": "Divided the empires into regions", "correct": false },
+              { "text": "Offered fertile land for agriculture", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the importance of Timbuktu during the Mali and Songhai empires?",
+            "options": [
+              { "text": "Center of Islamic scholarship and trade", "correct": true },
+              { "text": "Capital city", "correct": false },
+              { "text": "Military fort", "correct": false },
+              { "text": "Agricultural center", "correct": false }
+            ]
+          },
+          {
+            "question": "Which ruler of Songhai expanded the empire to its greatest territorial extent?",
+            "options": [
+              { "text": "Askia Muhammad", "correct": true },
+              { "text": "Sunni Ali", "correct": false },
+              { "text": "Mansa Musa", "correct": false },
+              { "text": "Sundiata Keita", "correct": false }
+            ]
+          }
+        ],
+        "Ethiopia and the Axumite Empire": [
+          {
+            "question": "The Axumite Empire was known for its trade connections with which regions?",
+            "options": [
+              { "text": "Arabia, Rome, and India", "correct": true },
+              { "text": "Egypt, Greece, and Persia", "correct": false },
+              { "text": "China, Japan, and Mesopotamia", "correct": false },
+              { "text": "Byzantine Empire and Russia", "correct": false }
+            ]
+          },
+          {
+            "question": "What religion became the state religion of Axum in the 4th century?",
+            "options": [
+              { "text": "Christianity", "correct": true },
+              { "text": "Islam", "correct": false },
+              { "text": "Judaism", "correct": false },
+              { "text": "Animism", "correct": false }
+            ]
+          },
+          {
+            "question": "The Kingdom of Axum is famous for constructing what type of monumental architecture?",
+            "options": [
+              { "text": "Stelae", "correct": true },
+              { "text": "Ziggurats", "correct": false },
+              { "text": "Pyramids", "correct": false },
+              { "text": "Cathedrals", "correct": false }
+            ]
+          },
+          {
+            "question": "The Ethiopian Orthodox Church traces its origins back to which of the following?",
+            "options": [
+              { "text": "The arrival of Christianity in Axum", "correct": true },
+              { "text": "Islamic missionaries", "correct": false },
+              { "text": "Portuguese explorers", "correct": false },
+              { "text": "The Roman Catholic Church", "correct": false }
+            ]
+          },
+          {
+            "question": "What was a key factor in the decline of the Axumite Empire?",
+            "options": [
+              { "text": "The shift in trade routes", "correct": true },
+              { "text": "The rise of the Ottoman Empire", "correct": false },
+              { "text": "The spread of Islam", "correct": false },
+              { "text": "The collapse of the Roman Empire", "correct": false }
+            ]
+          },
+          {
+            "question": "Axum was strategically located near which major body of water?",
+            "options": [
+              { "text": "Red Sea", "correct": true },
+              { "text": "Mediterranean Sea", "correct": false },
+              { "text": "Persian Gulf", "correct": false },
+              { "text": "Indian Ocean", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Ethiopian king is credited with officially adopting Christianity as the state religion?",
+            "options": [
+              { "text": "King Ezana", "correct": true },
+              { "text": "King Lalibela", "correct": false },
+              { "text": "King Solomon", "correct": false },
+              { "text": "King Haile Selassie", "correct": false }
+            ]
+          },
+          {
+            "question": "Which type of coins were first minted in Axum, unique to African kingdoms?",
+            "options": [
+              { "text": "Gold and silver coins", "correct": true },
+              { "text": "Bronze and iron coins", "correct": false },
+              { "text": "Copper coins", "correct": false },
+              { "text": "Clay tokens", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the significance of the port of Adulis for the Axumite Empire?",
+            "options": [
+              { "text": "Major trade hub on the Red Sea", "correct": true },
+              { "text": "Religious pilgrimage site", "correct": false },
+              { "text": "Military outpost", "correct": false },
+              { "text": "Capital city", "correct": false }
+            ]
+          },
+          {
+            "question": "Which ancient text references the Kingdom of Axum as one of the great powers of its time?",
+            "options": [
+              { "text": "The Periplus of the Erythraean Sea", "correct": true },
+              { "text": "The Epic of Gilgamesh", "correct": false },
+              { "text": "The Rosetta Stone", "correct": false },
+              { "text": "The Dead Sea Scrolls", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Americas": {
+        "Inca Empire": [
+          {
+            "question": "The Inca Empire was primarily located in which region of South America?",
+            "options": [
+              { "text": "Andes Mountains", "correct": true },
+              { "text": "Amazon Basin", "correct": false },
+              { "text": "Patagonia", "correct": false },
+              { "text": "Caribbean", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the capital of the Inca Empire?",
+            "options": [
+              { "text": "Cusco", "correct": true },
+              { "text": "Quito", "correct": false },
+              { "text": "Lima", "correct": false },
+              { "text": "Bogota", "correct": false }
+            ]
+          },
+          {
+            "question": "The Inca built an extensive system of what to connect their empire?",
+            "options": [
+              { "text": "Roads", "correct": true },
+              { "text": "Aqueducts", "correct": false },
+              { "text": "Tunnels", "correct": false },
+              { "text": "Temples", "correct": false }
+            ]
+          },
+          {
+            "question": "What unique method did the Incas use for record-keeping?",
+            "options": [
+              { "text": "Quipu", "correct": true },
+              { "text": "Hieroglyphs", "correct": false },
+              { "text": "Runes", "correct": false },
+              { "text": "Cuneiform", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the main language spoken in the Inca Empire?",
+            "options": [
+              { "text": "Quechua", "correct": true },
+              { "text": "Spanish", "correct": false },
+              { "text": "Nahuatl", "correct": false },
+              { "text": "Aymara", "correct": false }
+            ]
+          },
+          {
+            "question": "Machu Picchu is an ancient city built by which civilization?",
+            "options": [
+              { "text": "Inca", "correct": true },
+              { "text": "Maya", "correct": false },
+              { "text": "Aztec", "correct": false },
+              { "text": "Olmec", "correct": false }
+            ]
+          },
+          {
+            "question": "The Inca Empire was conquered by which Spanish conquistador?",
+            "options": [
+              { "text": "Francisco Pizarro", "correct": true },
+              { "text": "Hernán Cortés", "correct": false },
+              { "text": "Pedro de Alvarado", "correct": false },
+              { "text": "Diego de Almagro", "correct": false }
+            ]
+          },
+          {
+            "question": "The Inca religion primarily worshiped which natural entity?",
+            "options": [
+              { "text": "The Sun", "correct": true },
+              { "text": "The Moon", "correct": false },
+              { "text": "The Ocean", "correct": false },
+              { "text": "The Stars", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the main agricultural technique used by the Incas in the Andes Mountains?",
+            "options": [
+              { "text": "Terracing", "correct": true },
+              { "text": "Irrigation canals", "correct": false },
+              { "text": "Slash-and-burn", "correct": false },
+              { "text": "Crop rotation", "correct": false }
+            ]
+          },
+          {
+            "question": "The Inca Empire was divided into administrative regions known as what?",
+            "options": [
+              { "text": "Suyu", "correct": true },
+              { "text": "Ayllu", "correct": false },
+              { "text": "Inti", "correct": false },
+              { "text": "Tawantinsuyu", "correct": false }
+            ]
+          }
+        ],
+        "Mayan Civilization": [
+          {
+            "question": "The Maya civilization was primarily located in which modern countries?",
+            "options": [
+              { "text": "Mexico, Guatemala, and Belize", "correct": true },
+              { "text": "Peru, Bolivia, and Chile", "correct": false },
+              { "text": "Colombia, Venezuela, and Ecuador", "correct": false },
+              { "text": "Argentina, Uruguay, and Paraguay", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the main writing system used by the Maya civilization?",
+            "options": [
+              { "text": "Hieroglyphs", "correct": true },
+              { "text": "Alphabet", "correct": false },
+              { "text": "Cuneiform", "correct": false },
+              { "text": "Runes", "correct": false }
+            ]
+          },
+          {
+            "question": "The Maya developed a complex understanding of which field?",
+            "options": [
+              { "text": "Astronomy", "correct": true },
+              { "text": "Chemistry", "correct": false },
+              { "text": "Engineering", "correct": false },
+              { "text": "Geology", "correct": false }
+            ]
+          },
+          {
+            "question": "Which major city was one of the centers of the Maya civilization?",
+            "options": [
+              { "text": "Tikal", "correct": true },
+              { "text": "Cusco", "correct": false },
+              { "text": "Cairo", "correct": false },
+              { "text": "Athens", "correct": false }
+            ]
+          },
+          {
+            "question": "The Maya created large ceremonial centers with what kind of structures?",
+            "options": [
+              { "text": "Pyramids", "correct": true },
+              { "text": "Temples", "correct": false },
+              { "text": "Ziggurats", "correct": false },
+              { "text": "Palaces", "correct": false }
+            ]
+          },
+          {
+            "question": "What was the purpose of the Maya Long Count calendar?",
+            "options": [
+              { "text": "Tracking historical cycles and dates", "correct": true },
+              { "text": "Predicting agricultural seasons", "correct": false },
+              { "text": "Guiding daily activities", "correct": false },
+              { "text": "Tracking the lunar cycle", "correct": false }
+            ]
+          },
+          {
+            "question": "Which of the following was a Mayan city-state?",
+            "options": [
+              { "text": "Copán", "correct": true },
+              { "text": "Machu Picchu", "correct": false },
+              { "text": "Carthage", "correct": false },
+              { "text": "Memphis", "correct": false }
+            ]
+          },
+          {
+            "question": "What resource was highly valued and used in Maya art and rituals?",
+            "options": [
+              { "text": "Jade", "correct": true },
+              { "text": "Gold", "correct": false },
+              { "text": "Silver", "correct": false },
+              { "text": "Bronze", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the significance of the Maya ball game?",
+            "options": [
+              { "text": "It had religious and ritual importance", "correct": true },
+              { "text": "It was an early form of soccer", "correct": false },
+              { "text": "It was used to settle disputes", "correct": false },
+              { "text": "It was a children’s game", "correct": false }
+            ]
+          },
+          {
+            "question": "What likely contributed to the decline of many Maya city-states?",
+            "options": [
+              { "text": "Environmental challenges and warfare", "correct": true },
+              { "text": "Invasion by the Aztecs", "correct": false },
+              { "text": "Conquest by the Incas", "correct": false },
+              { "text": "European colonization", "correct": false }
+            ]
+          }
+        ]
+      }
+
+
+    }
+  }
+  
+

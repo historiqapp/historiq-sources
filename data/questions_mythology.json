@@ -1,0 +1,1624 @@
+{
+    "World Mythologies and Belief Systems": {
+      "Mythologies": {
+        "Greek Mythology": [
+            {
+                "question": "Who is the king of the Greek gods?",
+                "options": [
+                    { "text": "Zeus", "correct": true },
+                    { "text": "Poseidon", "correct": false },
+                    { "text": "Hades", "correct": false },
+                    { "text": "Apollo", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "What is the name of the Greek goddess of wisdom and war?",
+                "options": [
+                    { "text": "Athena", "correct": true },
+                    { "text": "Artemis", "correct": false },
+                    { "text": "Hera", "correct": false },
+                    { "text": "Aphrodite", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Who is the god of the sea in Greek mythology?",
+                "options": [
+                    { "text": "Poseidon", "correct": true },
+                    { "text": "Zeus", "correct": false },
+                    { "text": "Hades", "correct": false },
+                    { "text": "Ares", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Which hero fought and killed the Minotaur in Greek mythology?",
+                "options": [
+                    { "text": "Theseus", "correct": true },
+                    { "text": "Heracles", "correct": false },
+                    { "text": "Achilles", "correct": false },
+                    { "text": "Odysseus", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "What is the home of the Greek gods called?",
+                "options": [
+                    { "text": "Mount Olympus", "correct": true },
+                    { "text": "Tartarus", "correct": false },
+                    { "text": "Delphi", "correct": false },
+                    { "text": "Elysium", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Who is the Greek goddess of love and beauty?",
+                "options": [
+                    { "text": "Aphrodite", "correct": true },
+                    { "text": "Hera", "correct": false },
+                    { "text": "Demeter", "correct": false },
+                    { "text": "Artemis", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Which creature has the body of a lion and the head of a human in Greek mythology?",
+                "options": [
+                    { "text": "Sphinx", "correct": true },
+                    { "text": "Chimera", "correct": false },
+                    { "text": "Hydra", "correct": false },
+                    { "text": "Cerberus", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "What was the name of the Greek hero who performed 12 labors?",
+                "options": [
+                    { "text": "Heracles", "correct": true },
+                    { "text": "Odysseus", "correct": false },
+                    { "text": "Perseus", "correct": false },
+                    { "text": "Jason", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "What is the Greek name for the god of the underworld?",
+                "options": [
+                    { "text": "Hades", "correct": true },
+                    { "text": "Pluto", "correct": false },
+                    { "text": "Thanatos", "correct": false },
+                    { "text": "Charon", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Which winged horse sprang from the blood of Medusa?",
+                "options": [
+                    { "text": "Pegasus", "correct": true },
+                    { "text": "Chiron", "correct": false },
+                    { "text": "Cerberus", "correct": false },
+                    { "text": "Hydra", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+
+            {
+                "question": "Who is the Greek god associated with healing and medicine?",
+                "options": [
+                    { "text": "Asclepius", "correct": true },
+                    { "text": "Apollo", "correct": false },
+                    { "text": "Hermes", "correct": false },
+                    { "text": "Dionysus", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "Who is the Greek god of wine and revelry?",
+                "options": [
+                    { "text": "Dionysus", "correct": true },
+                    { "text": "Hephaestus", "correct": false },
+                    { "text": "Pan", "correct": false },
+                    { "text": "Hermes", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "Which hero journeyed to retrieve the Golden Fleece?",
+                "options": [
+                    { "text": "Jason", "correct": true },
+                    { "text": "Theseus", "correct": false },
+                    { "text": "Odysseus", "correct": false },
+                    { "text": "Perseus", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "Which Greek goddess is often depicted with a bow and arrow and is the protector of wildlife?",
+                "options": [
+                    { "text": "Artemis", "correct": true },
+                    { "text": "Hera", "correct": false },
+                    { "text": "Aphrodite", "correct": false },
+                    { "text": "Athena", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "Who was condemned to eternally push a boulder uphill in the Greek underworld?",
+                "options": [
+                    { "text": "Sisyphus", "correct": true },
+                    { "text": "Tantalus", "correct": false },
+                    { "text": "Ixion", "correct": false },
+                    { "text": "Prometheus", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "What was the punishment of Prometheus for giving fire to humans?",
+                "options": [
+                    { "text": "Being chained and having his liver eaten daily by an eagle", "correct": true },
+                    { "text": "Being banished to Tartarus", "correct": false },
+                    { "text": "Turning to stone", "correct": false },
+                    { "text": "Being trapped in the Labyrinth", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "Who is the Greek goddess associated with agriculture and fertility?",
+                "options": [
+                    { "text": "Demeter", "correct": true },
+                    { "text": "Hestia", "correct": false },
+                    { "text": "Persephone", "correct": false },
+                    { "text": "Hera", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "What was the Greek term for the spirits of vengeance?",
+                "options": [
+                    { "text": "The Erinyes (Furies)", "correct": true },
+                    { "text": "The Nymphs", "correct": false },
+                    { "text": "The Harpies", "correct": false },
+                    { "text": "The Gorgons", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "Which titan fathered Zeus, Poseidon, and Hades?",
+                "options": [
+                    { "text": "Cronus", "correct": true },
+                    { "text": "Uranus", "correct": false },
+                    { "text": "Oceanus", "correct": false },
+                    { "text": "Hyperion", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+          
+            {
+                "question": "What was the name of the monstrous multi-headed hound that guarded the gates of the Greek underworld?",
+                "options": [
+                    { "text": "Cerberus", "correct": true },
+                    { "text": "Chimera", "correct": false },
+                    { "text": "Hydra", "correct": false },
+                    { "text": "Sphinx", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+
+            {
+                "question": "What was the name of the Greek seer who foresaw the fall of Troy but was cursed to never be believed?",
+                "options": [
+                    { "text": "Cassandra", "correct": true },
+                    { "text": "Andromache", "correct": false },
+                    { "text": "Hecuba", "correct": false },
+                    { "text": "Briseis", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What was the purpose of the Greek god Hermes' caduceus (staff)?",
+                "options": [
+                    { "text": "To guide souls to the underworld", "correct": true },
+                    { "text": "To control storms", "correct": false },
+                    { "text": "To bestow wisdom", "correct": false },
+                    { "text": "To provide eternal youth", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "Which hero captured the Golden Hind of Artemis as one of their labors?",
+                "options": [
+                    { "text": "Heracles", "correct": true },
+                    { "text": "Odysseus", "correct": false },
+                    { "text": "Perseus", "correct": false },
+                    { "text": "Jason", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What is the significance of the 'Oracle of Delphi' in Greek mythology?",
+                "options": [
+                    { "text": "It was a prophetic shrine dedicated to Apollo", "correct": true },
+                    { "text": "It was a temple honoring Athena", "correct": false },
+                    { "text": "It was the birthplace of Zeus", "correct": false },
+                    { "text": "It was a site of the Olympic Games", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "Who is the Greek goddess of discord, whose actions indirectly led to the Trojan War?",
+                "options": [
+                    { "text": "Eris", "correct": true },
+                    { "text": "Hera", "correct": false },
+                    { "text": "Aphrodite", "correct": false },
+                    { "text": "Athena", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What punishment did the Greek hero Tantalus suffer in the underworld?",
+                "options": [
+                    { "text": "Eternal hunger and thirst", "correct": true },
+                    { "text": "Carrying the heavens on his shoulders", "correct": false },
+                    { "text": "Chained to a rock with his liver eaten daily", "correct": false },
+                    { "text": "Pushing a boulder uphill endlessly", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What was the sacred tree of Zeus in Greek mythology?",
+                "options": [
+                    { "text": "The oak tree", "correct": true },
+                    { "text": "The olive tree", "correct": false },
+                    { "text": "The laurel tree", "correct": false },
+                    { "text": "The cypress tree", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "Which Greek hero founded the city of Thebes by following a cow to its resting place?",
+                "options": [
+                    { "text": "Cadmus", "correct": true },
+                    { "text": "Perseus", "correct": false },
+                    { "text": "Heracles", "correct": false },
+                    { "text": "Theseus", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "Which Greek mythological figure was known for flying too close to the sun?",
+                "options": [
+                    { "text": "Icarus", "correct": true },
+                    { "text": "Daedalus", "correct": false },
+                    { "text": "Perseus", "correct": false },
+                    { "text": "Phaethon", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What was the gift that Hermes gave to Pandora in the myth of her creation?",
+                "options": [
+                    { "text": "Curiosity", "correct": true },
+                    { "text": "Wisdom", "correct": false },
+                    { "text": "Strength", "correct": false },
+                    { "text": "Beauty", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+
+            {
+                "question": "What was the Greek term for a soul’s journey through reincarnation?",
+                "options": [
+                    { "text": "Metempsychosis", "correct": true },
+                    { "text": "Eschaton", "correct": false },
+                    { "text": "Catharsis", "correct": false },
+                    { "text": "Hybris", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "Which god was considered the primordial deity of darkness in Greek mythology?",
+                "options": [
+                    { "text": "Erebus", "correct": true },
+                    { "text": "Nyx", "correct": false },
+                    { "text": "Chaos", "correct": false },
+                    { "text": "Tartarus", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What was the name of the three-headed snake-tailed dog guarding the underworld in Greek mythology?",
+                "options": [
+                    { "text": "Cerberus", "correct": true },
+                    { "text": "Ladon", "correct": false },
+                    { "text": "Hydra", "correct": false },
+                    { "text": "Chimera", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What were the names of the two famous lovers in Greek mythology who spoke through a wall?",
+                "options": [
+                    { "text": "Pyramus and Thisbe", "correct": true },
+                    { "text": "Orpheus and Eurydice", "correct": false },
+                    { "text": "Paris and Helen", "correct": false },
+                    { "text": "Eros and Psyche", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "In the myth of Persephone, what fruit did she eat in the underworld, binding her to Hades?",
+                "options": [
+                    { "text": "Pomegranate", "correct": true },
+                    { "text": "Apple", "correct": false },
+                    { "text": "Fig", "correct": false },
+                    { "text": "Grapes", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What was the name of the shield used by Athena that bore the head of Medusa?",
+                "options": [
+                    { "text": "Aegis", "correct": true },
+                    { "text": "Aspis", "correct": false },
+                    { "text": "Cuirass", "correct": false },
+                    { "text": "Pelike", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "Who was the mother of the Minotaur in Greek mythology?",
+                "options": [
+                    { "text": "Pasiphae", "correct": true },
+                    { "text": "Europa", "correct": false },
+                    { "text": "Hera", "correct": false },
+                    { "text": "Leto", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What was the name of the dragon that guarded the golden apples in the Garden of the Hesperides?",
+                "options": [
+                    { "text": "Ladon", "correct": true },
+                    { "text": "Hydra", "correct": false },
+                    { "text": "Chimera", "correct": false },
+                    { "text": "Cerberus", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "Which hero blinded the Cyclops Polyphemus during his journey home?",
+                "options": [
+                    { "text": "Odysseus", "correct": true },
+                    { "text": "Jason", "correct": false },
+                    { "text": "Achilles", "correct": false },
+                    { "text": "Theseus", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What was the name of the mortal punished by being bound to a fiery wheel for eternity in Tartarus?",
+                "options": [
+                    { "text": "Ixion", "correct": true },
+                    { "text": "Sisyphus", "correct": false },
+                    { "text": "Tantalus", "correct": false },
+                    { "text": "Prometheus", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            }
+        ],
+        "Norse Mythology": [
+            {
+                "question": "What is the name of the tree that connects the nine worlds in Norse mythology?",
+                "options": [
+                    { "text": "Yggdrasil", "correct": true },
+                    { "text": "Asgard", "correct": false },
+                    { "text": "Valhalla", "correct": false },
+                    { "text": "Midgard", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Who is the Norse god of thunder?",
+                "options": [
+                    { "text": "Thor", "correct": true },
+                    { "text": "Loki", "correct": false },
+                    { "text": "Odin", "correct": false },
+                    { "text": "Baldur", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "What is the name of Thor's hammer?",
+                "options": [
+                    { "text": "Mjolnir", "correct": true },
+                    { "text": "Gungnir", "correct": false },
+                    { "text": "Fenrir", "correct": false },
+                    { "text": "Sleipnir", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "What is the name of Odin’s eight-legged horse?",
+                "options": [
+                    { "text": "Sleipnir", "correct": true },
+                    { "text": "Fenrir", "correct": false },
+                    { "text": "Mjolnir", "correct": false },
+                    { "text": "Nidhogg", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Which realm is the home of the giants in Norse mythology?",
+                "options": [
+                    { "text": "Jotunheim", "correct": true },
+                    { "text": "Niflheim", "correct": false },
+                    { "text": "Alfheim", "correct": false },
+                    { "text": "Vanaheim", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "What is the name of the hall where warriors go after dying in battle?",
+                "options": [
+                    { "text": "Valhalla", "correct": true },
+                    { "text": "Helheim", "correct": false },
+                    { "text": "Midgard", "correct": false },
+                    { "text": "Jotunheim", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Who is the trickster god in Norse mythology?",
+                "options": [
+                    { "text": "Loki", "correct": true },
+                    { "text": "Thor", "correct": false },
+                    { "text": "Odin", "correct": false },
+                    { "text": "Baldur", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "What animal is associated with Odin’s ravens?",
+                "options": [
+                    { "text": "Ravens", "correct": true },
+                    { "text": "Wolves", "correct": false },
+                    { "text": "Bears", "correct": false },
+                    { "text": "Eagles", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "What is the name of the Norse goddess of love and beauty?",
+                "options": [
+                    { "text": "Freyja", "correct": true },
+                    { "text": "Hel", "correct": false },
+                    { "text": "Sif", "correct": false },
+                    { "text": "Skadi", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "What is Ragnarok in Norse mythology?",
+                "options": [
+                    { "text": "The end of the world", "correct": true },
+                    { "text": "The beginning of time", "correct": false },
+                    { "text": "The creation of Midgard", "correct": false },
+                    { "text": "The forging of Mjolnir", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+
+            {
+                "question": "What are the names of the two wolves that chase the sun and the moon in Norse mythology?",
+                "options": [
+                    { "text": "Skoll and Hati", "correct": true },
+                    { "text": "Fenrir and Sleipnir", "correct": false },
+                    { "text": "Jormungandr and Nidhogg", "correct": false },
+                    { "text": "Muninn and Huginn", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "What is the name of the serpent that encircles Midgard?",
+                "options": [
+                    { "text": "Jormungandr", "correct": true },
+                    { "text": "Fenrir", "correct": false },
+                    { "text": "Nidhogg", "correct": false },
+                    { "text": "Garmr", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "Who is the Norse god associated with war and justice, and is known for sacrificing his hand?",
+                "options": [
+                    { "text": "Tyr", "correct": true },
+                    { "text": "Thor", "correct": false },
+                    { "text": "Balder", "correct": false },
+                    { "text": "Heimdall", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },            {
+              "question": "What is the name of Thor’s belt, which doubles his strength?",
+              "options": [
+                  { "text": "Megingjord", "correct": true },
+                  { "text": "Jarnbjorn", "correct": false },
+                  { "text": "Mjolnir", "correct": false },
+                  { "text": "Gleipnir", "correct": false }
+              ],
+              "difficulty": "medium",
+              "xp": 200
+          },
+          {
+              "question": "Which Norse goddess rides a chariot pulled by cats?",
+              "options": [
+                  { "text": "Freyja", "correct": true },
+                  { "text": "Skadi", "correct": false },
+                  { "text": "Idunn", "correct": false },
+                  { "text": "Hel", "correct": false }
+              ],
+              "difficulty": "medium",
+              "xp": 200
+          },
+          {
+              "question": "Which animal is associated with Odin and serves as his messengers?",
+              "options": [
+                  { "text": "Ravens", "correct": true },
+                  { "text": "Wolves", "correct": false },
+                  { "text": "Horses", "correct": false },
+                  { "text": "Eagles", "correct": false }
+              ],
+              "difficulty": "medium",
+              "xp": 200
+          },
+          {
+              "question": "What is the name of the ship that always has favorable winds and can be folded up like cloth?",
+              "options": [
+                  { "text": "Skidbladnir", "correct": true },
+                  { "text": "Naglfar", "correct": false },
+                  { "text": "Garmr", "correct": false },
+                  { "text": "Sleipnir", "correct": false }
+              ],
+              "difficulty": "medium",
+              "xp": 200
+          },
+          {
+              "question": "Which Norse god sacrificed his hand to bind the wolf Fenrir?",
+              "options": [
+                  { "text": "Tyr", "correct": true },
+                  { "text": "Thor", "correct": false },
+                  { "text": "Vidar", "correct": false },
+                  { "text": "Loki", "correct": false }
+              ],
+              "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "What is the purpose of Heimdall's horn, Gjallarhorn, in Norse mythology?",
+                "options": [
+                    { "text": "To signal the beginning of Ragnarok", "correct": true },
+                    { "text": "To summon warriors to Valhalla", "correct": false },
+                    { "text": "To control storms", "correct": false },
+                    { "text": "To bind Fenrir", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "Which Norse deity is said to have wept tears of gold for her husband?",
+                "options": [
+                    { "text": "Freyja", "correct": true },
+                    { "text": "Sif", "correct": false },
+                    { "text": "Idunn", "correct": false },
+                    { "text": "Skadi", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+       
+            {
+                "question": "What is the name of the dragon that gnaws at the roots of Yggdrasil?",
+                "options": [
+                    { "text": "Nidhogg", "correct": true },
+                    { "text": "Jormungandr", "correct": false },
+                    { "text": "Fenrir", "correct": false },
+                    { "text": "Garmr", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What is the significance of the Well of Urd in Norse mythology?",
+                "options": [
+                    { "text": "It sustains the roots of Yggdrasil", "correct": true },
+                    { "text": "It is a portal to Asgard", "correct": false },
+                    { "text": "It houses Fenrir", "correct": false },
+                    { "text": "It controls the tides", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "Which of Loki’s children is prophesied to swallow Odin during Ragnarok?",
+                "options": [
+                    { "text": "Fenrir", "correct": true },
+                    { "text": "Jormungandr", "correct": false },
+                    { "text": "Sleipnir", "correct": false },
+                    { "text": "Hela", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "Who were the Vanir, and how were they distinct from the Aesir in Norse mythology?",
+                "options": [
+                    { "text": "Gods of fertility and nature, often associated with peace", "correct": true },
+                    { "text": "Warriors who fought the Jotuns", "correct": false },
+                    { "text": "Guardians of Yggdrasil", "correct": false },
+                    { "text": "Mortals who became deities", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What was the name of the mead said to grant the gift of poetry and wisdom?",
+                "options": [
+                    { "text": "The Mead of Poetry", "correct": true },
+                    { "text": "Gleipnir", "correct": false },
+                    { "text": "Idunn’s Apples", "correct": false },
+                    { "text": "Nectar of Asgard", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "Who is the guardian of the Bifrost Bridge?",
+                "options": [
+                    { "text": "Heimdall", "correct": true },
+                    { "text": "Tyr", "correct": false },
+                    { "text": "Balder", "correct": false },
+                    { "text": "Vidar", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What material was used to bind the wolf Fenrir?",
+                "options": [
+                    { "text": "Gleipnir, made of magical substances", "correct": true },
+                    { "text": "Chains forged by dwarves", "correct": false },
+                    { "text": "Rope from Yggdrasil’s roots", "correct": false },
+                    { "text": "Iron blessed by the Vanir", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What role does the rooster Gullinkambi play in Ragnarok?",
+                "options": [
+                    { "text": "It crows to signal the start of the battle", "correct": true },
+                    { "text": "It guards the Well of Urd", "correct": false },
+                    { "text": "It protects Yggdrasil", "correct": false },
+                    { "text": "It summons the Valkyries", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "Which Norse god is destined to kill Loki during Ragnarok?",
+                "options": [
+                    { "text": "Heimdall", "correct": true },
+                    { "text": "Thor", "correct": false },
+                    { "text": "Vidar", "correct": false },
+                    { "text": "Tyr", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What is the name of the hall where the dishonored dead reside in Norse mythology?",
+                "options": [
+                    { "text": "Helheim", "correct": true },
+                    { "text": "Valhalla", "correct": false },
+                    { "text": "Jotunheim", "correct": false },
+                    { "text": "Alfheim", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+
+            {
+                "question": "What is the name of the three Norns who control the fate of gods and men?",
+                "options": [
+                    { "text": "Urd, Verdandi, and Skuld", "correct": true },
+                    { "text": "Freya, Sif, and Idunn", "correct": false },
+                    { "text": "Hel, Nidhogg, and Fenrir", "correct": false },
+                    { "text": "Loki, Tyr, and Vidar", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "Which Norse god was killed with a mistletoe spear?",
+                "options": [
+                    { "text": "Balder", "correct": true },
+                    { "text": "Tyr", "correct": false },
+                    { "text": "Vidar", "correct": false },
+                    { "text": "Hod", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What is the name of the primordial giant slain by Odin and his brothers to create the world?",
+                "options": [
+                    { "text": "Ymir", "correct": true },
+                    { "text": "Fenrir", "correct": false },
+                    { "text": "Jormungandr", "correct": false },
+                    { "text": "Nidhogg", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What is the name of the boar cooked and eaten every night in Valhalla?",
+                "options": [
+                    { "text": "Saehrimnir", "correct": true },
+                    { "text": "Gullinbursti", "correct": false },
+                    { "text": "Fenrir", "correct": false },
+                    { "text": "Sleipnir", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What was the name of the ship made from the nails of the dead, prophesied to sail during Ragnarok?",
+                "options": [
+                    { "text": "Naglfar", "correct": true },
+                    { "text": "Garmr", "correct": false },
+                    { "text": "Sleipnir", "correct": false },
+                    { "text": "Skidbladnir", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "Which god will avenge Odin's death during Ragnarok by killing Fenrir?",
+                "options": [
+                    { "text": "Vidar", "correct": true },
+                    { "text": "Thor", "correct": false },
+                    { "text": "Loki", "correct": false },
+                    { "text": "Tyr", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What is the name of the giant who built the walls of Asgard and demanded Freyja as payment?",
+                "options": [
+                    { "text": "Hrimthurs", "correct": true },
+                    { "text": "Thrym", "correct": false },
+                    { "text": "Surt", "correct": false },
+                    { "text": "Ymir", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "Which item is associated with the goddess Idunn and grants eternal youth to the gods?",
+                "options": [
+                    { "text": "Golden apples", "correct": true },
+                    { "text": "Mjolnir", "correct": false },
+                    { "text": "Sleipnir", "correct": false },
+                    { "text": "Brisingamen", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What is the name of the fire giant who leads the forces of Muspelheim during Ragnarok?",
+                "options": [
+                    { "text": "Surt", "correct": true },
+                    { "text": "Fenrir", "correct": false },
+                    { "text": "Loki", "correct": false },
+                    { "text": "Vidar", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What is the name of the sea goddess who rules over the realm of the dead?",
+                "options": [
+                    { "text": "Hel", "correct": true },
+                    { "text": "Freyja", "correct": false },
+                    { "text": "Skadi", "correct": false },
+                    { "text": "Idunn", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            }
+        ],
+        "Ancient Egypt Mythology": [
+            {
+                "question": "Who was the Egyptian sun god, often depicted with a falcon's head?",
+                "options": [
+                    { "text": "Ra", "correct": true },
+                    { "text": "Osiris", "correct": false },
+                    { "text": "Anubis", "correct": false },
+                    { "text": "Horus", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "What is the name of the river that was central to the development of ancient Egyptian civilization?",
+                "options": [
+                    { "text": "Nile", "correct": true },
+                    { "text": "Amazon", "correct": false },
+                    { "text": "Tigris", "correct": false },
+                    { "text": "Euphrates", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Who is the Egyptian goddess of love, beauty, and fertility, often depicted as a woman with a cow's horns?",
+                "options": [
+                    { "text": "Hathor", "correct": true },
+                    { "text": "Isis", "correct": false },
+                    { "text": "Bastet", "correct": false },
+                    { "text": "Sekhmet", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Which Egyptian god was known as the god of the afterlife and was typically depicted as a mummified man?",
+                "options": [
+                    { "text": "Osiris", "correct": true },
+                    { "text": "Anubis", "correct": false },
+                    { "text": "Thoth", "correct": false },
+                    { "text": "Ra", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Which symbol, associated with the goddess Hathor, was also used as a symbol of protection in ancient Egypt?",
+                "options": [
+                    { "text": "Ankh", "correct": true },
+                    { "text": "Scarab", "correct": false },
+                    { "text": "Eye of Horus", "correct": false },
+                    { "text": "Cobra", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Which Egyptian god is known for his ability to transform into a crocodile?",
+                "options": [
+                    { "text": "Sobek", "correct": true },
+                    { "text": "Ra", "correct": false },
+                    { "text": "Horus", "correct": false },
+                    { "text": "Anubis", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Which Egyptian goddess was the protector of women and childbirth?",
+                "options": [
+                    { "text": "Taweret", "correct": true },
+                    { "text": "Bastet", "correct": false },
+                    { "text": "Isis", "correct": false },
+                    { "text": "Hathor", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Who was the chief god of the Egyptian pantheon and the ruler of the sky?",
+                "options": [
+                    { "text": "Ra", "correct": true },
+                    { "text": "Osiris", "correct": false },
+                    { "text": "Horus", "correct": false },
+                    { "text": "Anubis", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Which god is typically depicted with the head of a jackal and is associated with mummification?",
+                "options": [
+                    { "text": "Anubis", "correct": true },
+                    { "text": "Horus", "correct": false },
+                    { "text": "Osiris", "correct": false },
+                    { "text": "Bastet", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+            {
+                "question": "Which symbol was used in ancient Egypt to represent life and immortality?",
+                "options": [
+                    { "text": "Ankh", "correct": true },
+                    { "text": "Scarab", "correct": false },
+                    { "text": "Eye of Horus", "correct": false },
+                    { "text": "Lotus", "correct": false }
+                ],
+                "difficulty": "easy",
+                "xp": 100
+            },
+
+            {
+                "question": "What was the Egyptian goddess Isis best known for?",
+                "options": [
+                    { "text": "Being a protector and healer", "correct": true },
+                    { "text": "Being a goddess of war", "correct": false },
+                    { "text": "Being the goddess of the sky", "correct": false },
+                    { "text": "Being the goddess of love", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "Who were the children of Osiris and Isis?",
+                "options": [
+                    { "text": "Horus", "correct": true },
+                    { "text": "Anubis", "correct": false },
+                    { "text": "Ra and Hathor", "correct": false },
+                    { "text": "Set and Nephthys", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "Which pharaoh is often credited with the creation of the first pyramids, including the step pyramid?",
+                "options": [
+                    { "text": "Djoser", "correct": true },
+                    { "text": "Khufu", "correct": false },
+                    { "text": "Ramses II", "correct": false },
+                    { "text": "Tutankhamun", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "What was the name of the sacred bull associated with the god Ptah?",
+                "options": [
+                    { "text": "Apis", "correct": true },
+                    { "text": "Mnevis", "correct": false },
+                    { "text": "Bastet", "correct": false },
+                    { "text": "Serapis", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "What role did the Egyptian goddess Nephthys play in the myth of Osiris?",
+                "options": [
+                    { "text": "She helped Isis protect Osiris’ body", "correct": true },
+                    { "text": "She killed Osiris out of jealousy", "correct": false },
+                    { "text": "She resurrected Osiris", "correct": false },
+                    { "text": "She betrayed Horus", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+
+            {
+                "question": "What was the role of the Egyptian god Anubis in the afterlife?",
+                "options": [
+                    { "text": "He guided the souls of the dead to the afterlife", "correct": true },
+                    { "text": "He weighed the souls to determine their fate", "correct": false },
+                    { "text": "He created the world from chaos", "correct": false },
+                    { "text": "He healed the sick", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "Who is considered the Egyptian god of wisdom, writing, and knowledge?",
+                "options": [
+                    { "text": "Thoth", "correct": true },
+                    { "text": "Ra", "correct": false },
+                    { "text": "Osiris", "correct": false },
+                    { "text": "Horus", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "What is the name of the Egyptian goddess associated with fertility, motherhood, and magic, who was the wife of Osiris?",
+                "options": [
+                    { "text": "Isis", "correct": true },
+                    { "text": "Nephthys", "correct": false },
+                    { "text": "Bastet", "correct": false },
+                    { "text": "Sekhmet", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "What was the purpose of the Egyptian pyramids?",
+                "options": [
+                    { "text": "Tombs for pharaohs", "correct": true },
+                    { "text": "Houses for the gods", "correct": false },
+                    { "text": "Temples for religious rituals", "correct": false },
+                    { "text": "Storage for grain", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+            {
+                "question": "Which Egyptian god was depicted with the head of a lioness and was associated with war and healing?",
+                "options": [
+                    { "text": "Sekhmet", "correct": true },
+                    { "text": "Bastet", "correct": false },
+                    { "text": "Horus", "correct": false },
+                    { "text": "Anubis", "correct": false }
+                ],
+                "difficulty": "medium",
+                "xp": 200
+            },
+
+            {
+                "question": "What was the name of the Egyptian sun god’s daily journey through the sky and underworld?",
+                "options": [
+                    { "text": "The Boat of Ra", "correct": true },
+                    { "text": "The Ark of Osiris", "correct": false },
+                    { "text": "The Chariot of Horus", "correct": false },
+                    { "text": "The Eye of Ra", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "Which Egyptian goddess was often depicted as a lioness and represented the destructive aspect of the sun?",
+                "options": [
+                    { "text": "Sekhmet", "correct": true },
+                    { "text": "Bastet", "correct": false },
+                    { "text": "Hathor", "correct": false },
+                    { "text": "Nephthys", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "Which pharaoh was the first to unite Upper and Lower Egypt, according to Egyptian mythology?",
+                "options": [
+                    { "text": "Narmer (Menes)", "correct": true },
+                    { "text": "Khufu", "correct": false },
+                    { "text": "Ramses II", "correct": false },
+                    { "text": "Tutankhamun", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What was the Egyptian concept of Ma'at?",
+                "options": [
+                    { "text": "Truth, justice, and cosmic order", "correct": true },
+                    { "text": "The soul's journey through the afterlife", "correct": false },
+                    { "text": "The creation of the world", "correct": false },
+                    { "text": "The cycle of death and rebirth", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "Which Egyptian god was associated with judgment and the afterlife, weighing the hearts of the dead?",
+                "options": [
+                    { "text": "Anubis", "correct": true },
+                    { "text": "Osiris", "correct": false },
+                    { "text": "Ra", "correct": false },
+                    { "text": "Horus", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+
+            {
+                "question": "Which Egyptian god is often associated with wisdom, magic, and writing, and was said to have created the Egyptian system of writing?",
+                "options": [
+                    { "text": "Thoth", "correct": true },
+                    { "text": "Ra", "correct": false },
+                    { "text": "Horus", "correct": false },
+                    { "text": "Osiris", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "In Egyptian mythology, who was the god of chaos, desert, and storms, and was the brother of Osiris?",
+                "options": [
+                    { "text": "Set", "correct": true },
+                    { "text": "Horus", "correct": false },
+                    { "text": "Ra", "correct": false },
+                    { "text": "Anubis", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What was the name of the ancient Egyptian afterlife, where the soul journeyed to be judged by Osiris?",
+                "options": [
+                    { "text": "Duat", "correct": true },
+                    { "text": "Aaru", "correct": false },
+                    { "text": "Valhalla", "correct": false },
+                    { "text": "Elysium", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "What is the name of the mythical creature often associated with the underworld, that is part lion, part crocodile, and part hippopotamus?",
+                "options": [
+                    { "text": "Ammit", "correct": true },
+                    { "text": "Sphinx", "correct": false },
+                    { "text": "Bennu", "correct": false },
+                    { "text": "Chimera", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+            {
+                "question": "Which Egyptian goddess was known for her role in the protection of the deceased during the mummification process?",
+                "options": [
+                    { "text": "Nephthys", "correct": true },
+                    { "text": "Isis", "correct": false },
+                    { "text": "Hathor", "correct": false },
+                    { "text": "Sekhmet", "correct": false }
+                ],
+                "difficulty": "hard",
+                "xp": 300
+            },
+
+            {
+                "question": "Which Egyptian goddess was known as the 'Eye of Ra' and was depicted as a lioness or a woman with the head of a lion?",
+                "options": [
+                    { "text": "Sekhmet", "correct": true },
+                    { "text": "Hathor", "correct": false },
+                    { "text": "Bastet", "correct": false },
+                    { "text": "Neith", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "Who was the Egyptian pharaoh known for building the Great Pyramid of Giza and is considered one of the most powerful rulers in history?",
+                "options": [
+                    { "text": "Khufu", "correct": true },
+                    { "text": "Ramses II", "correct": false },
+                    { "text": "Akhenaten", "correct": false },
+                    { "text": "Tutankhamun", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What significant historical event is attributed to the pharaoh Akhenaten, who altered the religious practices of Egypt?",
+                "options": [
+                    { "text": "Establishing Atenism as the sole religion", "correct": true },
+                    { "text": "Building the pyramids", "correct": false },
+                    { "text": "Defeating the Hittites at Kadesh", "correct": false },
+                    { "text": "Conquering Nubia", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What is the name of the ancient Egyptian text, which provides instructions on how to navigate the afterlife?",
+                "options": [
+                    { "text": "The Book of the Dead", "correct": true },
+                    { "text": "The Pyramid Texts", "correct": false },
+                    { "text": "The Coffin Texts", "correct": false },
+                    { "text": "The Egyptian Book of Wisdom", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What was the primary function of the ancient Egyptian goddess Ma’at?",
+                "options": [
+                    { "text": "To maintain order, truth, and justice in the universe", "correct": true },
+                    { "text": "To guide the dead through the afterlife", "correct": false },
+                    { "text": "To protect the pharaoh in battle", "correct": false },
+                    { "text": "To control the floods of the Nile", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "Which ancient Egyptian queen led a military expedition to the Land of Punt, and was known for her extensive trade networks?",
+                "options": [
+                    { "text": "Hatshepsut", "correct": true },
+                    { "text": "Cleopatra", "correct": false },
+                    { "text": "Nefertiti", "correct": false },
+                    { "text": "Tiy", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What was the 'Book of the Dead' in ancient Egypt?",
+                "options": [
+                    { "text": "A guide to the afterlife", "correct": true },
+                    { "text": "A history of the pharaohs", "correct": false },
+                    { "text": "A collection of hymns and prayers", "correct": false },
+                    { "text": "A book of prophecies", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "Who was the first female pharaoh of Egypt?",
+                "options": [
+                    { "text": "Sobekneferu", "correct": true },
+                    { "text": "Cleopatra", "correct": false },
+                    { "text": "Hatshepsut", "correct": false },
+                    { "text": "Nefertiti", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "Which pharaoh is credited with the construction of the Great Pyramid of Giza?",
+                "options": [
+                    { "text": "Khufu", "correct": true },
+                    { "text": "Khafre", "correct": false },
+                    { "text": "Menkaure", "correct": false },
+                    { "text": "Ramses II", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            },
+            {
+                "question": "What is the significance of the 'Eye of Horus' in Egyptian mythology?",
+                "options": [
+                    { "text": "A symbol of protection, healing, and restoration", "correct": true },
+                    { "text": "A symbol of royal power and divine authority", "correct": false },
+                    { "text": "A symbol of the moon and lunar power", "correct": false },
+                    { "text": "A symbol of truth and justice", "correct": false }
+                ],
+                "difficulty": "expert",
+                "xp": 400
+            }
+        ]
+      },
+      "Religious Beliefs and Texts": {
+        "Founding Figures and Teachings": [
+          {
+            "question": "Who is the central prophet and founder of Islam?",
+            "options": [
+              { "text": "Muhammad", "correct": true },
+              { "text": "Jesus", "correct": false },
+              { "text": "Buddha", "correct": false },
+              { "text": "Confucius", "correct": false }
+            ]
+          },
+          {
+            "question": "Which figure is regarded as the 'Father of Judaism'?",
+            "options": [
+              { "text": "Abraham", "correct": true },
+              { "text": "Moses", "correct": false },
+              { "text": "Isaac", "correct": false },
+              { "text": "Jacob", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the title of the central religious text in Islam?",
+            "options": [
+              { "text": "Quran", "correct": true },
+              { "text": "Torah", "correct": false },
+              { "text": "Bible", "correct": false },
+              { "text": "Vedas", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Hindu text is a dialogue between prince Arjuna and the god Krishna?",
+            "options": [
+              { "text": "Bhagavad Gita", "correct": true },
+              { "text": "Upanishads", "correct": false },
+              { "text": "Rigveda", "correct": false },
+              { "text": "Ramayana", "correct": false }
+            ]
+          },
+          {
+            "question": "The Sermon on the Mount is associated with which religious figure?",
+            "options": [
+              { "text": "Jesus", "correct": true },
+              { "text": "Moses", "correct": false },
+              { "text": "Muhammad", "correct": false },
+              { "text": "Confucius", "correct": false }
+            ]
+          },
+          {
+            "question": "The Eightfold Path is a teaching in which religion?",
+            "options": [
+              { "text": "Buddhism", "correct": true },
+              { "text": "Hinduism", "correct": false },
+              { "text": "Islam", "correct": false },
+              { "text": "Christianity", "correct": false }
+            ]
+          },
+          {
+            "question": "In which sacred text are the Ten Commandments found?",
+            "options": [
+              { "text": "Torah", "correct": true },
+              { "text": "Bible", "correct": false },
+              { "text": "Quran", "correct": false },
+              { "text": "Tripitaka", "correct": false }
+            ]
+          },
+          {
+            "question": "Who is the founder of Sikhism?",
+            "options": [
+              { "text": "Guru Nanak", "correct": true },
+              { "text": "Guru Gobind Singh", "correct": false },
+              { "text": "Ramakrishna", "correct": false },
+              { "text": "Swami Vivekananda", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the central text of Zoroastrianism?",
+            "options": [
+              { "text": "Avesta", "correct": true },
+              { "text": "Bible", "correct": false },
+              { "text": "Tripitaka", "correct": false },
+              { "text": "Vedas", "correct": false }
+            ]
+          },
+          {
+            "question": "The Tao Te Ching is a foundational text in which philosophy?",
+            "options": [
+              { "text": "Taoism", "correct": true },
+              { "text": "Confucianism", "correct": false },
+              { "text": "Buddhism", "correct": false },
+              { "text": "Hinduism", "correct": false }
+            ]
+          }
+        ]
+      },
+      "Philosophical Schools": {
+        "Eastern (e.g., Confucianism, Taoism)": [
+          {
+            "question": "Which Eastern philosophy emphasizes harmony with nature and the 'Way'?",
+            "options": [
+              { "text": "Taoism", "correct": true },
+              { "text": "Confucianism", "correct": false },
+              { "text": "Buddhism", "correct": false },
+              { "text": "Hinduism", "correct": false }
+            ]
+          },
+          {
+            "question": "Who is the founder of Confucianism?",
+            "options": [
+              { "text": "Confucius", "correct": true },
+              { "text": "Laozi", "correct": false },
+              { "text": "Siddhartha Gautama", "correct": false },
+              { "text": "Zhuangzi", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Confucian virtue emphasizes respect and loyalty to one's family?",
+            "options": [
+              { "text": "Filial piety", "correct": true },
+              { "text": "Ren", "correct": false },
+              { "text": "Li", "correct": false },
+              { "text": "De", "correct": false }
+            ]
+          },
+          {
+            "question": "In Taoism, what concept refers to effortless action in alignment with the universe?",
+            "options": [
+              { "text": "Wu Wei", "correct": true },
+              { "text": "Ren", "correct": false },
+              { "text": "Karma", "correct": false },
+              { "text": "Dharma", "correct": false }
+            ]
+          },
+          {
+            "question": "Which school of thought is known for its focus on strict laws and governance, arising in ancient China?",
+            "options": [
+              { "text": "Legalism", "correct": true },
+              { "text": "Taoism", "correct": false },
+              { "text": "Confucianism", "correct": false },
+              { "text": "Buddhism", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the ultimate goal in Buddhism, signifying freedom from the cycle of rebirth?",
+            "options": [
+              { "text": "Nirvana", "correct": true },
+              { "text": "Moksha", "correct": false },
+              { "text": "Karma", "correct": false },
+              { "text": "Wu Wei", "correct": false }
+            ]
+          },
+          {
+            "question": "Which philosophy teaches that 'the journey of a thousand miles begins with a single step'?",
+            "options": [
+              { "text": "Taoism", "correct": true },
+              { "text": "Confucianism", "correct": false },
+              { "text": "Buddhism", "correct": false },
+              { "text": "Legalism", "correct": false }
+            ]
+          },
+          {
+            "question": "In Confucianism, what is the concept that represents 'humaneness' or 'benevolence'?",
+            "options": [
+              { "text": "Ren", "correct": true },
+              { "text": "Li", "correct": false },
+              { "text": "De", "correct": false },
+              { "text": "Yi", "correct": false }
+            ]
+          },
+          {
+            "question": "Which Buddhist concept involves a person's intentional actions affecting future outcomes?",
+            "options": [
+              { "text": "Karma", "correct": true },
+              { "text": "Nirvana", "correct": false },
+              { "text": "Dharma", "correct": false },
+              { "text": "Ren", "correct": false }
+            ]
+          },
+          {
+            "question": "Who is credited with founding Taoism and authoring the Tao Te Ching?",
+            "options": [
+              { "text": "Laozi", "correct": true },
+              { "text": "Confucius", "correct": false },
+              { "text": "Siddhartha Gautama", "correct": false },
+              { "text": "Mencius", "correct": false }
+            ]
+          }
+        ],
+        "Western (e.g., Stoicism, Existentialism)": [
+          {
+            "question": "Which philosophy emphasizes resilience and controlling reactions to external events?",
+            "options": [
+              { "text": "Stoicism", "correct": true },
+              { "text": "Existentialism", "correct": false },
+              { "text": "Epicureanism", "correct": false },
+              { "text": "Skepticism", "correct": false }
+            ]
+          },
+          {
+            "question": "Who is considered the father of existentialism, emphasizing individual freedom and choice?",
+            "options": [
+              { "text": "Søren Kierkegaard", "correct": true },
+              { "text": "Aristotle", "correct": false },
+              { "text": "Plato", "correct": false },
+              { "text": "Immanuel Kant", "correct": false }
+            ]
+          },
+          {
+            "question": "What Stoic philosopher wrote 'Meditations' as a guide to self-discipline?",
+            "options": [
+              { "text": "Marcus Aurelius", "correct": true },
+              { "text": "Seneca", "correct": false },
+              { "text": "Epictetus", "correct": false },
+              { "text": "Aristotle", "correct": false }
+            ]
+          },
+          {
+            "question": "In existentialism, what concept refers to the inherent lack of meaning in life, which individuals must confront?",
+            "options": [
+              { "text": "Absurdity", "correct": true },
+              { "text": "Nihilism", "correct": false },
+              { "text": "Rationalism", "correct": false },
+              { "text": "Determinism", "correct": false }
+            ]
+          },
+          {
+            "question": "Which philosopher's famous statement 'I think, therefore I am' reflects a rationalist perspective?",
+            "options": [
+              { "text": "René Descartes", "correct": true },
+              { "text": "Jean-Paul Sartre", "correct": false },
+              { "text": "Kierkegaard", "correct": false },
+              { "text": "Aristotle", "correct": false }
+            ]
+          },
+          {
+            "question": "What is the Stoic concept of focusing only on what is within one's control?",
+            "options": [
+              { "text": "Dichotomy of Control", "correct": true },
+              { "text": "Nihilism", "correct": false },
+              { "text": "Rationalism", "correct": false },
+              { "text": "Existentialism", "correct": false }
+            ]
+          },
+          {
+            "question": "Existentialist Jean-Paul Sartre argued that 'existence precedes essence,' meaning what?",
+            "options": [
+              { "text": "Individuals define their essence through actions", "correct": true },
+              { "text": "Life is predetermined by essence", "correct": false },
+              { "text": "Essence creates existence", "correct": false },
+              { "text": "Essence is an illusion", "correct": false }
+            ]
+          },
+          {
+            "question": "Which philosophical movement emphasizes questioning certainty and doubt as a form of inquiry?",
+            "options": [
+              { "text": "Skepticism", "correct": true },
+              { "text": "Stoicism", "correct": false },
+              { "text": "Epicureanism", "correct": false },
+              { "text": "Existentialism", "correct": false }
+            ]
+          },
+          {
+            "question": "What Stoic concept represents living according to nature and virtue?",
+            "options": [
+              { "text": "Eudaimonia", "correct": true },
+              { "text": "Absurdity", "correct": false },
+              { "text": "Asceticism", "correct": false },
+              { "text": "Sophistry", "correct": false }
+            ]
+          },
+          {
+            "question": "In existentialism, the term 'bad faith' refers to what?",
+            "options": [
+              { "text": "Self-deception by conforming to societal expectations", "correct": true },
+              { "text": "Adopting Stoic principles", "correct": false },
+              { "text": "Living with freedom", "correct": false },
+              { "text": "Accepting one's fate", "correct": false }
+            ]
+          }
+        ]
+      }
+    }
+  }
+  

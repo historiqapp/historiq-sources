@@ -1,0 +1,2022 @@
+{
+    "Classical Antiquity": {
+        "Ancient Greece": {
+            "Philosophy, Literature, and Arts": [{
+                    "question": "Who is considered the 'Father of Western Philosophy'?",
+                    "options": [{
+                            "text": "Socrates",
+                            "correct": true
+                        },
+                        {
+                            "text": "Plato",
+                            "correct": false
+                        },
+                        {
+                            "text": "Aristotle",
+                            "correct": false
+                        },
+                        {
+                            "text": "Homer",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which Greek poet wrote the Iliad and the Odyssey?",
+                    "options": [{
+                            "text": "Homer",
+                            "correct": true
+                        },
+                        {
+                            "text": "Sophocles",
+                            "correct": false
+                        },
+                        {
+                            "text": "Euripides",
+                            "correct": false
+                        },
+                        {
+                            "text": "Aeschylus",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What is the name of Plato's famous work that discusses the ideal state?",
+                    "options": [{
+                            "text": "The Republic",
+                            "correct": true
+                        },
+                        {
+                            "text": "The Iliad",
+                            "correct": false
+                        },
+                        {
+                            "text": "Nicomachean Ethics",
+                            "correct": false
+                        },
+                        {
+                            "text": "Metaphysics",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which playwright is known for writing Oedipus Rex?",
+                    "options": [{
+                            "text": "Sophocles",
+                            "correct": true
+                        },
+                        {
+                            "text": "Euripides",
+                            "correct": false
+                        },
+                        {
+                            "text": "Aeschylus",
+                            "correct": false
+                        },
+                        {
+                            "text": "Aristophanes",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which philosopher was the student of Plato and tutor to Alexander the Great?",
+                    "options": [{
+                            "text": "Aristotle",
+                            "correct": true
+                        },
+                        {
+                            "text": "Socrates",
+                            "correct": false
+                        },
+                        {
+                            "text": "Pythagoras",
+                            "correct": false
+                        },
+                        {
+                            "text": "Heraclitus",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What style of Greek column features scroll-shaped volutes?",
+                    "options": [{
+                            "text": "Ionic",
+                            "correct": true
+                        },
+                        {
+                            "text": "Doric",
+                            "correct": false
+                        },
+                        {
+                            "text": "Corinthian",
+                            "correct": false
+                        },
+                        {
+                            "text": "Composite",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which philosopher is known for the concept of the 'Forms'?",
+                    "options": [{
+                            "text": "Plato",
+                            "correct": true
+                        },
+                        {
+                            "text": "Socrates",
+                            "correct": false
+                        },
+                        {
+                            "text": "Aristotle",
+                            "correct": false
+                        },
+                        {
+                            "text": "Democritus",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "In what city was the Parthenon built?",
+                    "options": [{
+                            "text": "Athens",
+                            "correct": true
+                        },
+                        {
+                            "text": "Sparta",
+                            "correct": false
+                        },
+                        {
+                            "text": "Delphi",
+                            "correct": false
+                        },
+                        {
+                            "text": "Corinth",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who is considered the 'Father of History' in Greek literature?",
+                    "options": [{
+                            "text": "Herodotus",
+                            "correct": true
+                        },
+                        {
+                            "text": "Thucydides",
+                            "correct": false
+                        },
+                        {
+                            "text": "Xenophon",
+                            "correct": false
+                        },
+                        {
+                            "text": "Plutarch",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which philosophical school believed in pursuing pleasure as the highest good?",
+                    "options": [{
+                            "text": "Epicureanism",
+                            "correct": true
+                        },
+                        {
+                            "text": "Stoicism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Sophism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Cynicism",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "Wars and Conflicts": [{
+                    "question": "Which two city-states fought in the Peloponnesian War?",
+                    "options": [{
+                            "text": "Athens and Sparta",
+                            "correct": true
+                        },
+                        {
+                            "text": "Athens and Corinth",
+                            "correct": false
+                        },
+                        {
+                            "text": "Sparta and Corinth",
+                            "correct": false
+                        },
+                        {
+                            "text": "Thebes and Sparta",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who led the Greeks at the Battle of Marathon?",
+                    "options": [{
+                            "text": "Miltiades",
+                            "correct": true
+                        },
+                        {
+                            "text": "Leonidas",
+                            "correct": false
+                        },
+                        {
+                            "text": "Themistocles",
+                            "correct": false
+                        },
+                        {
+                            "text": "Pericles",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which empire did Greece defeat at the Battle of Salamis?",
+                    "options": [{
+                            "text": "Persian Empire",
+                            "correct": true
+                        },
+                        {
+                            "text": "Roman Empire",
+                            "correct": false
+                        },
+                        {
+                            "text": "Egyptian Empire",
+                            "correct": false
+                        },
+                        {
+                            "text": "Hittite Empire",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the Spartan king at the Battle of Thermopylae?",
+                    "options": [{
+                            "text": "Leonidas",
+                            "correct": true
+                        },
+                        {
+                            "text": "Xerxes",
+                            "correct": false
+                        },
+                        {
+                            "text": "Cleomenes",
+                            "correct": false
+                        },
+                        {
+                            "text": "Lycurgus",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What league did Athens lead against the Persian threat?",
+                    "options": [{
+                            "text": "Delian League",
+                            "correct": true
+                        },
+                        {
+                            "text": "Peloponnesian League",
+                            "correct": false
+                        },
+                        {
+                            "text": "Corinthian League",
+                            "correct": false
+                        },
+                        {
+                            "text": "Boeotian League",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the Persian king during the Greco-Persian Wars?",
+                    "options": [{
+                            "text": "Xerxes",
+                            "correct": true
+                        },
+                        {
+                            "text": "Darius III",
+                            "correct": false
+                        },
+                        {
+                            "text": "Cambyses",
+                            "correct": false
+                        },
+                        {
+                            "text": "Artaxerxes",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which Greek city-state was known for its militaristic society?",
+                    "options": [{
+                            "text": "Sparta",
+                            "correct": true
+                        },
+                        {
+                            "text": "Athens",
+                            "correct": false
+                        },
+                        {
+                            "text": "Corinth",
+                            "correct": false
+                        },
+                        {
+                            "text": "Thebes",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which conflict ended with the Peace of Nicias?",
+                    "options": [{
+                            "text": "Peloponnesian War",
+                            "correct": true
+                        },
+                        {
+                            "text": "Greco-Persian Wars",
+                            "correct": false
+                        },
+                        {
+                            "text": "Theban War",
+                            "correct": false
+                        },
+                        {
+                            "text": "Corinthian War",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the name of the Athenian navy's most powerful warship?",
+                    "options": [{
+                            "text": "Trireme",
+                            "correct": true
+                        },
+                        {
+                            "text": "Bireme",
+                            "correct": false
+                        },
+                        {
+                            "text": "Quinquereme",
+                            "correct": false
+                        },
+                        {
+                            "text": "Dromon",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which Macedonian king conquered Greece after the Peloponnesian War?",
+                    "options": [{
+                            "text": "Philip II",
+                            "correct": true
+                        },
+                        {
+                            "text": "Alexander the Great",
+                            "correct": false
+                        },
+                        {
+                            "text": "Perdiccas",
+                            "correct": false
+                        },
+                        {
+                            "text": "Antigonus",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        "Ancient Rome": {
+            "Republic to Empire Transition": [{
+                    "question": "What form of government did Rome have before becoming an empire?",
+                    "options": [{
+                            "text": "Republic",
+                            "correct": true
+                        },
+                        {
+                            "text": "Monarchy",
+                            "correct": false
+                        },
+                        {
+                            "text": "Empire",
+                            "correct": false
+                        },
+                        {
+                            "text": "Democracy",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was assassinated on the Ides of March in 44 BCE?",
+                    "options": [{
+                            "text": "Julius Caesar",
+                            "correct": true
+                        },
+                        {
+                            "text": "Augustus",
+                            "correct": false
+                        },
+                        {
+                            "text": "Marcus Brutus",
+                            "correct": false
+                        },
+                        {
+                            "text": "Cicero",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the name of the alliance between Julius Caesar, Pompey, and Crassus?",
+                    "options": [{
+                            "text": "First Triumvirate",
+                            "correct": true
+                        },
+                        {
+                            "text": "Second Triumvirate",
+                            "correct": false
+                        },
+                        {
+                            "text": "Roman Confederation",
+                            "correct": false
+                        },
+                        {
+                            "text": "Julian Pact",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What title did Octavian take, marking the beginning of the Roman Empire?",
+                    "options": [{
+                            "text": "Augustus",
+                            "correct": true
+                        },
+                        {
+                            "text": "Imperator",
+                            "correct": false
+                        },
+                        {
+                            "text": "Dictator",
+                            "correct": false
+                        },
+                        {
+                            "text": "Caesar",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the significance of the Battle of Actium?",
+                    "options": [{
+                            "text": "Octavian defeated Mark Antony and Cleopatra",
+                            "correct": true
+                        },
+                        {
+                            "text": "Caesar defeated Pompey",
+                            "correct": false
+                        },
+                        {
+                            "text": "Rome defeated Carthage",
+                            "correct": false
+                        },
+                        {
+                            "text": "The end of the Roman Republic",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who wrote the famous 'Lives' that describe the fall of the Republic?",
+                    "options": [{
+                            "text": "Plutarch",
+                            "correct": true
+                        },
+                        {
+                            "text": "Tacitus",
+                            "correct": false
+                        },
+                        {
+                            "text": "Livy",
+                            "correct": false
+                        },
+                        {
+                            "text": "Cicero",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What general crossed the Rubicon, sparking a civil war?",
+                    "options": [{
+                            "text": "Julius Caesar",
+                            "correct": true
+                        },
+                        {
+                            "text": "Pompey",
+                            "correct": false
+                        },
+                        {
+                            "text": "Mark Antony",
+                            "correct": false
+                        },
+                        {
+                            "text": "Octavian",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who led a slave revolt against the Roman Republic in 73 BCE?",
+                    "options": [{
+                            "text": "Spartacus",
+                            "correct": true
+                        },
+                        {
+                            "text": "Hannibal",
+                            "correct": false
+                        },
+                        {
+                            "text": "Jugurtha",
+                            "correct": false
+                        },
+                        {
+                            "text": "Cleopatra",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What legislative body lost power as the Roman Republic ended?",
+                    "options": [{
+                            "text": "Senate",
+                            "correct": true
+                        },
+                        {
+                            "text": "People's Assembly",
+                            "correct": false
+                        },
+                        {
+                            "text": "Tribunal",
+                            "correct": false
+                        },
+                        {
+                            "text": "Forum",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which ruler is traditionally considered Rome's first emperor?",
+                    "options": [{
+                            "text": "Augustus",
+                            "correct": true
+                        },
+                        {
+                            "text": "Nero",
+                            "correct": false
+                        },
+                        {
+                            "text": "Tiberius",
+                            "correct": false
+                        },
+                        {
+                            "text": "Caligula",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "Key Emperors and Leaders": [{
+                    "question": "Who was the first Roman emperor?",
+                    "options": [{
+                            "text": "Augustus",
+                            "correct": true
+                        },
+                        {
+                            "text": "Julius Caesar",
+                            "correct": false
+                        },
+                        {
+                            "text": "Nero",
+                            "correct": false
+                        },
+                        {
+                            "text": "Tiberius",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which emperor is known for his persecution of Christians and infamous Great Fire of Rome?",
+                    "options": [{
+                            "text": "Nero",
+                            "correct": true
+                        },
+                        {
+                            "text": "Caligula",
+                            "correct": false
+                        },
+                        {
+                            "text": "Augustus",
+                            "correct": false
+                        },
+                        {
+                            "text": "Claudius",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the Roman emperor at the height of the empire, known for extensive building projects?",
+                    "options": [{
+                            "text": "Trajan",
+                            "correct": true
+                        },
+                        {
+                            "text": "Hadrian",
+                            "correct": false
+                        },
+                        {
+                            "text": "Marcus Aurelius",
+                            "correct": false
+                        },
+                        {
+                            "text": "Nerva",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What emperor is known for his philosophical work, 'Meditations'?",
+                    "options": [{
+                            "text": "Marcus Aurelius",
+                            "correct": true
+                        },
+                        {
+                            "text": "Augustus",
+                            "correct": false
+                        },
+                        {
+                            "text": "Trajan",
+                            "correct": false
+                        },
+                        {
+                            "text": "Diocletian",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which emperor famously divided the Roman Empire into Eastern and Western halves?",
+                    "options": [{
+                            "text": "Diocletian",
+                            "correct": true
+                        },
+                        {
+                            "text": "Constantine",
+                            "correct": false
+                        },
+                        {
+                            "text": "Nero",
+                            "correct": false
+                        },
+                        {
+                            "text": "Septimius Severus",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the Roman general and dictator assassinated in 44 BCE?",
+                    "options": [{
+                            "text": "Julius Caesar",
+                            "correct": true
+                        },
+                        {
+                            "text": "Augustus",
+                            "correct": false
+                        },
+                        {
+                            "text": "Pompey",
+                            "correct": false
+                        },
+                        {
+                            "text": "Sulla",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which emperor legalized Christianity in the Roman Empire?",
+                    "options": [{
+                            "text": "Constantine",
+                            "correct": true
+                        },
+                        {
+                            "text": "Nero",
+                            "correct": false
+                        },
+                        {
+                            "text": "Augustus",
+                            "correct": false
+                        },
+                        {
+                            "text": "Hadrian",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Under which emperor did the Roman Empire reach its maximum territorial extent?",
+                    "options": [{
+                            "text": "Trajan",
+                            "correct": true
+                        },
+                        {
+                            "text": "Augustus",
+                            "correct": false
+                        },
+                        {
+                            "text": "Hadrian",
+                            "correct": false
+                        },
+                        {
+                            "text": "Marcus Aurelius",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the last emperor of the unified Roman Empire?",
+                    "options": [{
+                            "text": "Theodosius I",
+                            "correct": true
+                        },
+                        {
+                            "text": "Constantine",
+                            "correct": false
+                        },
+                        {
+                            "text": "Diocletian",
+                            "correct": false
+                        },
+                        {
+                            "text": "Valens",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which emperor built a defensive wall in Britain to keep out northern tribes?",
+                    "options": [{
+                            "text": "Hadrian",
+                            "correct": true
+                        },
+                        {
+                            "text": "Trajan",
+                            "correct": false
+                        },
+                        {
+                            "text": "Claudius",
+                            "correct": false
+                        },
+                        {
+                            "text": "Nero",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "Roman Society and Law": [{
+                    "question": "What was the basic social unit of Roman society?",
+                    "options": [{
+                            "text": "The family",
+                            "correct": true
+                        },
+                        {
+                            "text": "The Senate",
+                            "correct": false
+                        },
+                        {
+                            "text": "The plebeians",
+                            "correct": false
+                        },
+                        {
+                            "text": "The emperor",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which class of people were the wealthy and powerful elite in Rome?",
+                    "options": [{
+                            "text": "Patricians",
+                            "correct": true
+                        },
+                        {
+                            "text": "Plebeians",
+                            "correct": false
+                        },
+                        {
+                            "text": "Equestrians",
+                            "correct": false
+                        },
+                        {
+                            "text": "Freedmen",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the purpose of the Twelve Tables in Roman law?",
+                    "options": [{
+                            "text": "To provide a written code of laws",
+                            "correct": true
+                        },
+                        {
+                            "text": "To govern religious practices",
+                            "correct": false
+                        },
+                        {
+                            "text": "To declare wars",
+                            "correct": false
+                        },
+                        {
+                            "text": "To punish senators",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What name was given to the Roman lawmaking body?",
+                    "options": [{
+                            "text": "The Senate",
+                            "correct": true
+                        },
+                        {
+                            "text": "The Tribune",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Forum",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Legion",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What were the wealthy, landowning classes in Rome known as?",
+                    "options": [{
+                            "text": "Patricians",
+                            "correct": true
+                        },
+                        {
+                            "text": "Plebeians",
+                            "correct": false
+                        },
+                        {
+                            "text": "Proletariat",
+                            "correct": false
+                        },
+                        {
+                            "text": "Freedmen",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the role of the Tribune in Roman society?",
+                    "options": [{
+                            "text": "To protect the rights of the plebeians",
+                            "correct": true
+                        },
+                        {
+                            "text": "To command the Roman legions",
+                            "correct": false
+                        },
+                        {
+                            "text": "To oversee religious ceremonies",
+                            "correct": false
+                        },
+                        {
+                            "text": "To manage public finances",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was a Roman gladiator?",
+                    "options": [{
+                            "text": "A slave or criminal who fought for entertainment",
+                            "correct": true
+                        },
+                        {
+                            "text": "A wealthy Roman soldier",
+                            "correct": false
+                        },
+                        {
+                            "text": "A senator",
+                            "correct": false
+                        },
+                        {
+                            "text": "A religious priest",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What term described the average citizens or common people of Rome?",
+                    "options": [{
+                            "text": "Plebeians",
+                            "correct": true
+                        },
+                        {
+                            "text": "Patricians",
+                            "correct": false
+                        },
+                        {
+                            "text": "Equestrians",
+                            "correct": false
+                        },
+                        {
+                            "text": "Slaves",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What did the Latin phrase 'Veni, vidi, vici,' famously attributed to Caesar, mean?",
+                    "options": [{
+                            "text": "I came, I saw, I conquered",
+                            "correct": true
+                        },
+                        {
+                            "text": "To each his own",
+                            "correct": false
+                        },
+                        {
+                            "text": "In wine, there is truth",
+                            "correct": false
+                        },
+                        {
+                            "text": "Thus passes the glory of the world",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the primary language of the Roman Empire?",
+                    "options": [{
+                            "text": "Latin",
+                            "correct": true
+                        },
+                        {
+                            "text": "Greek",
+                            "correct": false
+                        },
+                        {
+                            "text": "Phoenician",
+                            "correct": false
+                        },
+                        {
+                            "text": "Aramaic",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        "Ancient Asia": {
+            "Ancient Indian Kingdoms": [{
+                    "question": "Which ancient Indian civilization developed along the Indus River?",
+                    "options": [{
+                            "text": "Indus Valley Civilization",
+                            "correct": true
+                        },
+                        {
+                            "text": "Maurya Empire",
+                            "correct": false
+                        },
+                        {
+                            "text": "Gupta Empire",
+                            "correct": false
+                        },
+                        {
+                            "text": "Vijayanagara Empire",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the founder of the Maurya Empire?",
+                    "options": [{
+                            "text": "Chandragupta Maurya",
+                            "correct": true
+                        },
+                        {
+                            "text": "Ashoka",
+                            "correct": false
+                        },
+                        {
+                            "text": "Samudragupta",
+                            "correct": false
+                        },
+                        {
+                            "text": "Harsha",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which famous Indian ruler converted to Buddhism and promoted its spread?",
+                    "options": [{
+                            "text": "Ashoka",
+                            "correct": true
+                        },
+                        {
+                            "text": "Chandragupta Maurya",
+                            "correct": false
+                        },
+                        {
+                            "text": "Samudragupta",
+                            "correct": false
+                        },
+                        {
+                            "text": "Krishna",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the name of the ancient Indian text on statecraft, economics, and military strategy?",
+                    "options": [{
+                            "text": "Arthashastra",
+                            "correct": true
+                        },
+                        {
+                            "text": "Ramayana",
+                            "correct": false
+                        },
+                        {
+                            "text": "Mahabharata",
+                            "correct": false
+                        },
+                        {
+                            "text": "Vedas",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which ancient Indian dynasty is known for significant advances in science, mathematics, and astronomy?",
+                    "options": [{
+                            "text": "Gupta Empire",
+                            "correct": true
+                        },
+                        {
+                            "text": "Maurya Empire",
+                            "correct": false
+                        },
+                        {
+                            "text": "Nanda Dynasty",
+                            "correct": false
+                        },
+                        {
+                            "text": "Pala Empire",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was known as the 'Napoleon of India' due to his military conquests?",
+                    "options": [{
+                            "text": "Samudragupta",
+                            "correct": true
+                        },
+                        {
+                            "text": "Ashoka",
+                            "correct": false
+                        },
+                        {
+                            "text": "Chandragupta Maurya",
+                            "correct": false
+                        },
+                        {
+                            "text": "Krishna Deva Raya",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which text serves as an ancient Indian epic detailing a great war and philosophical discussions?",
+                    "options": [{
+                            "text": "Mahabharata",
+                            "correct": true
+                        },
+                        {
+                            "text": "Ramayana",
+                            "correct": false
+                        },
+                        {
+                            "text": "Upanishads",
+                            "correct": false
+                        },
+                        {
+                            "text": "Bhagavad Gita",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "The famous university of Nalanda, one of the oldest universities in the world, was established during which dynasty?",
+                    "options": [{
+                            "text": "Gupta Empire",
+                            "correct": true
+                        },
+                        {
+                            "text": "Maurya Empire",
+                            "correct": false
+                        },
+                        {
+                            "text": "Chola Dynasty",
+                            "correct": false
+                        },
+                        {
+                            "text": "Nanda Dynasty",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What religion originated in ancient India and focuses on nonviolence and spiritual liberation?",
+                    "options": [{
+                            "text": "Jainism",
+                            "correct": true
+                        },
+                        {
+                            "text": "Hinduism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Buddhism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Zoroastrianism",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the Greek ambassador to the Mauryan court, author of 'Indica'?",
+                    "options": [{
+                            "text": "Megasthenes",
+                            "correct": true
+                        },
+                        {
+                            "text": "Herodotus",
+                            "correct": false
+                        },
+                        {
+                            "text": "Pliny the Elder",
+                            "correct": false
+                        },
+                        {
+                            "text": "Alexander the Great",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "Achaemenid Empire and Cultural Influence": [{
+                    "question": "Who was the founder of the Achaemenid Empire?",
+                    "options": [{
+                            "text": "Cyrus the Great",
+                            "correct": true
+                        },
+                        {
+                            "text": "Darius I",
+                            "correct": false
+                        },
+                        {
+                            "text": "Xerxes I",
+                            "correct": false
+                        },
+                        {
+                            "text": "Cambyses II",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which Achaemenid emperor extended the empire to its greatest extent?",
+                    "options": [{
+                            "text": "Darius I",
+                            "correct": true
+                        },
+                        {
+                            "text": "Cyrus the Great",
+                            "correct": false
+                        },
+                        {
+                            "text": "Xerxes I",
+                            "correct": false
+                        },
+                        {
+                            "text": "Artaxerxes I",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which famous city was established by Darius I as the capital of the Achaemenid Empire?",
+                    "options": [{
+                            "text": "Persepolis",
+                            "correct": true
+                        },
+                        {
+                            "text": "Babylon",
+                            "correct": false
+                        },
+                        {
+                            "text": "Susa",
+                            "correct": false
+                        },
+                        {
+                            "text": "Ecbatana",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which empire did Cyrus the Great conquer to establish the Achaemenid Empire?",
+                    "options": [{
+                            "text": "The Median Empire",
+                            "correct": true
+                        },
+                        {
+                            "text": "The Babylonian Empire",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Egyptian Empire",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Greek City-States",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What religion, founded in Persia, influenced the Achaemenid rulers and their policies?",
+                    "options": [{
+                            "text": "Zoroastrianism",
+                            "correct": true
+                        },
+                        {
+                            "text": "Buddhism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Jainism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Hinduism",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "The Achaemenid Empire is noted for its 'Royal Road,' which served what purpose?",
+                    "options": [{
+                            "text": "To improve communication and trade across the empire",
+                            "correct": true
+                        },
+                        {
+                            "text": "To connect the empire with the Silk Road",
+                            "correct": false
+                        },
+                        {
+                            "text": "To provide military fortifications",
+                            "correct": false
+                        },
+                        {
+                            "text": "To separate the empire from neighboring lands",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which Persian ruler attempted to conquer Greece and suffered a major defeat at the Battle of Marathon?",
+                    "options": [{
+                            "text": "Darius I",
+                            "correct": true
+                        },
+                        {
+                            "text": "Xerxes I",
+                            "correct": false
+                        },
+                        {
+                            "text": "Cyrus the Great",
+                            "correct": false
+                        },
+                        {
+                            "text": "Artaxerxes I",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Under which Achaemenid ruler did the empire suffer a famous defeat in Greece at the Battle of Thermopylae?",
+                    "options": [{
+                            "text": "Xerxes I",
+                            "correct": true
+                        },
+                        {
+                            "text": "Darius I",
+                            "correct": false
+                        },
+                        {
+                            "text": "Cyrus the Great",
+                            "correct": false
+                        },
+                        {
+                            "text": "Artaxerxes I",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "The Achaemenid Empire is often noted for its tolerance toward different cultures. Which city did Cyrus the Great famously liberate, allowing its people to return home?",
+                    "options": [{
+                            "text": "Babylon",
+                            "correct": true
+                        },
+                        {
+                            "text": "Persepolis",
+                            "correct": false
+                        },
+                        {
+                            "text": "Athens",
+                            "correct": false
+                        },
+                        {
+                            "text": "Memphis",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What ancient artifact is associated with Cyrus the Great and is considered an early declaration of human rights?",
+                    "options": [{
+                            "text": "The Cyrus Cylinder",
+                            "correct": true
+                        },
+                        {
+                            "text": "The Rosetta Stone",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Code of Hammurabi",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Dead Sea Scrolls",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        "Ancient Far East": {
+            "Zhou and Qin Dynasties": [{
+                    "question": "Which Chinese dynasty is known for the development of the 'Mandate of Heaven' concept?",
+                    "options": [{
+                            "text": "Zhou Dynasty",
+                            "correct": true
+                        },
+                        {
+                            "text": "Qin Dynasty",
+                            "correct": false
+                        },
+                        {
+                            "text": "Han Dynasty",
+                            "correct": false
+                        },
+                        {
+                            "text": "Xia Dynasty",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which philosophy emphasizes filial piety and social harmony, influential in Zhou China?",
+                    "options": [{
+                            "text": "Confucianism",
+                            "correct": true
+                        },
+                        {
+                            "text": "Taoism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Legalism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Buddhism",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What construction project began under the Qin Dynasty to protect against invasions?",
+                    "options": [{
+                            "text": "The Great Wall of China",
+                            "correct": true
+                        },
+                        {
+                            "text": "The Grand Canal",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Forbidden City",
+                            "correct": false
+                        },
+                        {
+                            "text": "Silk Road",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the first emperor of unified China, establishing the Qin Dynasty?",
+                    "options": [{
+                            "text": "Qin Shi Huang",
+                            "correct": true
+                        },
+                        {
+                            "text": "Liu Bang",
+                            "correct": false
+                        },
+                        {
+                            "text": "Wu of Han",
+                            "correct": false
+                        },
+                        {
+                            "text": "Shang Yang",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which philosophy strongly influenced the Qin Dynasty’s strict laws and policies?",
+                    "options": [{
+                            "text": "Legalism",
+                            "correct": true
+                        },
+                        {
+                            "text": "Confucianism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Taoism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Buddhism",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which massive archaeological discovery is associated with Qin Shi Huang's burial site?",
+                    "options": [{
+                            "text": "The Terracotta Army",
+                            "correct": true
+                        },
+                        {
+                            "text": "The Great Wall",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Forbidden City",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Grand Canal",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "The Zhou Dynasty introduced the concept of 'tianxia' in Chinese governance. What does this term mean?",
+                    "options": [{
+                            "text": "'All under Heaven'",
+                            "correct": true
+                        },
+                        {
+                            "text": "'Heavenly Peace'",
+                            "correct": false
+                        },
+                        {
+                            "text": "'One with Nature'",
+                            "correct": false
+                        },
+                        {
+                            "text": "'Eternal Rule'",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "During which dynasty did the famous period of Chinese warring states occur?",
+                    "options": [{
+                            "text": "Zhou Dynasty",
+                            "correct": true
+                        },
+                        {
+                            "text": "Qin Dynasty",
+                            "correct": false
+                        },
+                        {
+                            "text": "Han Dynasty",
+                            "correct": false
+                        },
+                        {
+                            "text": "Shang Dynasty",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What metal was primarily used for weaponry during the Zhou Dynasty, marking a technological advancement?",
+                    "options": [{
+                            "text": "Iron",
+                            "correct": true
+                        },
+                        {
+                            "text": "Bronze",
+                            "correct": false
+                        },
+                        {
+                            "text": "Steel",
+                            "correct": false
+                        },
+                        {
+                            "text": "Gold",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What ancient text is a key source of Chinese philosophical and ethical teachings from the Zhou Dynasty?",
+                    "options": [{
+                            "text": "The Analects",
+                            "correct": true
+                        },
+                        {
+                            "text": "The Tao Te Ching",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Art of War",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Rigveda",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "Confucianism, Taoism, and Legalism": [{
+                    "question": "Who is regarded as the founder of Confucianism?",
+                    "options": [{
+                            "text": "Confucius",
+                            "correct": true
+                        },
+                        {
+                            "text": "Laozi",
+                            "correct": false
+                        },
+                        {
+                            "text": "Mencius",
+                            "correct": false
+                        },
+                        {
+                            "text": "Zhuangzi",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What is the central text of Confucian teachings, consisting of conversations between Confucius and his disciples?",
+                    "options": [{
+                            "text": "The Analects",
+                            "correct": true
+                        },
+                        {
+                            "text": "The Tao Te Ching",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Book of Changes",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Art of War",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which philosophy emphasizes living in harmony with the Tao, or 'the Way'?",
+                    "options": [{
+                            "text": "Taoism",
+                            "correct": true
+                        },
+                        {
+                            "text": "Legalism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Confucianism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Buddhism",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Who is traditionally credited with writing the foundational Taoist text, the Tao Te Ching?",
+                    "options": [{
+                            "text": "Laozi",
+                            "correct": true
+                        },
+                        {
+                            "text": "Confucius",
+                            "correct": false
+                        },
+                        {
+                            "text": "Mencius",
+                            "correct": false
+                        },
+                        {
+                            "text": "Sun Tzu",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which philosophy emphasizes strict laws and harsh punishments as essential for maintaining order?",
+                    "options": [{
+                            "text": "Legalism",
+                            "correct": true
+                        },
+                        {
+                            "text": "Confucianism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Taoism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Buddhism",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What is the Confucian concept of 'ren'?",
+                    "options": [{
+                            "text": "Humaneness or benevolence",
+                            "correct": true
+                        },
+                        {
+                            "text": "Rituals",
+                            "correct": false
+                        },
+                        {
+                            "text": "Balance",
+                            "correct": false
+                        },
+                        {
+                            "text": "Law",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which dynasty used Confucianism as a basis for its education system and government structure?",
+                    "options": [{
+                            "text": "Han Dynasty",
+                            "correct": true
+                        },
+                        {
+                            "text": "Qin Dynasty",
+                            "correct": false
+                        },
+                        {
+                            "text": "Tang Dynasty",
+                            "correct": false
+                        },
+                        {
+                            "text": "Zhou Dynasty",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "In Confucianism, the concept of 'li' generally refers to what?",
+                    "options": [{
+                            "text": "Ritual propriety and manners",
+                            "correct": true
+                        },
+                        {
+                            "text": "Moral virtue",
+                            "correct": false
+                        },
+                        {
+                            "text": "Family loyalty",
+                            "correct": false
+                        },
+                        {
+                            "text": "Universal love",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which famous Legalist philosopher argued that humans are inherently selfish and need strict laws to ensure order?",
+                    "options": [{
+                            "text": "Han Fei",
+                            "correct": true
+                        },
+                        {
+                            "text": "Laozi",
+                            "correct": false
+                        },
+                        {
+                            "text": "Confucius",
+                            "correct": false
+                        },
+                        {
+                            "text": "Mencius",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which Chinese concept in Confucianism and Taoism represents a harmonious balance of opposites?",
+                    "options": [{
+                            "text": "Yin and Yang",
+                            "correct": true
+                        },
+                        {
+                            "text": "The Mandate of Heaven",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Dao",
+                            "correct": false
+                        },
+                        {
+                            "text": "Ren",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "Ancient Japan": [{
+                    "question": "What was the name of the earliest known culture in Japan, known for its pottery?",
+                    "options": [{
+                            "text": "Jomon",
+                            "correct": true
+                        },
+                        {
+                            "text": "Yayoi",
+                            "correct": false
+                        },
+                        {
+                            "text": "Heian",
+                            "correct": false
+                        },
+                        {
+                            "text": "Edo",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "The Yayoi period in Japan is known for the introduction of what key agricultural product?",
+                    "options": [{
+                            "text": "Rice",
+                            "correct": true
+                        },
+                        {
+                            "text": "Tea",
+                            "correct": false
+                        },
+                        {
+                            "text": "Wheat",
+                            "correct": false
+                        },
+                        {
+                            "text": "Corn",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What indigenous Japanese religion focuses on kami, or spirits associated with nature?",
+                    "options": [{
+                            "text": "Shinto",
+                            "correct": true
+                        },
+                        {
+                            "text": "Buddhism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Confucianism",
+                            "correct": false
+                        },
+                        {
+                            "text": "Taoism",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which period in Japan saw the emergence of centralized authority under figures like Prince Shotoku?",
+                    "options": [{
+                            "text": "Asuka Period",
+                            "correct": true
+                        },
+                        {
+                            "text": "Heian Period",
+                            "correct": false
+                        },
+                        {
+                            "text": "Edo Period",
+                            "correct": false
+                        },
+                        {
+                            "text": "Meiji Period",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "The ancient capital of Japan, Heian-kyo, is now known as which modern city?",
+                    "options": [{
+                            "text": "Kyoto",
+                            "correct": true
+                        },
+                        {
+                            "text": "Tokyo",
+                            "correct": false
+                        },
+                        {
+                            "text": "Osaka",
+                            "correct": false
+                        },
+                        {
+                            "text": "Nara",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "During which period did Buddhism first arrive in Japan, significantly influencing its culture?",
+                    "options": [{
+                            "text": "Asuka Period",
+                            "correct": true
+                        },
+                        {
+                            "text": "Heian Period",
+                            "correct": false
+                        },
+                        {
+                            "text": "Edo Period",
+                            "correct": false
+                        },
+                        {
+                            "text": "Kamakura Period",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which clan is known for establishing the first Japanese shogunate, ruling from Kamakura?",
+                    "options": [{
+                            "text": "Minamoto Clan",
+                            "correct": true
+                        },
+                        {
+                            "text": "Fujiwara Clan",
+                            "correct": false
+                        },
+                        {
+                            "text": "Taira Clan",
+                            "correct": false
+                        },
+                        {
+                            "text": "Tokugawa Clan",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "What was the main writing system used in early Japan before the development of Kana?",
+                    "options": [{
+                            "text": "Chinese characters (Kanji)",
+                            "correct": true
+                        },
+                        {
+                            "text": "Katakana",
+                            "correct": false
+                        },
+                        {
+                            "text": "Hiragana",
+                            "correct": false
+                        },
+                        {
+                            "text": "Romaji",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Which important Japanese document, inspired by Buddhism and Confucianism, was created by Prince Shotoku?",
+                    "options": [{
+                            "text": "The Seventeen-Article Constitution",
+                            "correct": true
+                        },
+                        {
+                            "text": "The Code of Taiho",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Bushido Code",
+                            "correct": false
+                        },
+                        {
+                            "text": "The Great Buddha Proclamation",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "The Kojiki and Nihon Shoki are important texts in Japan. What do they primarily focus on?",
+                    "options": [{
+                            "text": "Japanese mythology and history",
+                            "correct": true
+                        },
+                        {
+                            "text": "Buddhist teachings",
+                            "correct": false
+                        },
+                        {
+                            "text": "Confucian principles",
+                            "correct": false
+                        },
+                        {
+                            "text": "Legal codes",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
