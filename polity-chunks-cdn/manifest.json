@@ -1,0 +1,135 @@
+{
+  "version": "1.0",
+  "generatedAt": "2025-12-23T14:42:20.183Z",
+  "baseUrl": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/polity-chunks-cdn/",
+  "eras": [
+    {
+      "id": "-3500_-3000",
+      "fromYear": -3500,
+      "toYear": -3000,
+      "featureCount": 3,
+      "fileName": "era_-3500_-3000.json",
+      "sizeBytes": 4090
+    },
+    {
+      "id": "-3000_-2500",
+      "fromYear": -3000,
+      "toYear": -2500,
+      "featureCount": 7,
+      "fileName": "era_-3000_-2500.json",
+      "sizeBytes": 13240
+    },
+    {
+      "id": "-2500_-2000",
+      "fromYear": -2500,
+      "toYear": -2000,
+      "featureCount": 18,
+      "fileName": "era_-2500_-2000.json",
+      "sizeBytes": 56678
+    },
+    {
+      "id": "-2000_-1500",
+      "fromYear": -2000,
+      "toYear": -1500,
+      "featureCount": 32,
+      "fileName": "era_-2000_-1500.json",
+      "sizeBytes": 78432
+    },
+    {
+      "id": "-1500_-1000",
+      "fromYear": -1500,
+      "toYear": -1000,
+      "featureCount": 49,
+      "fileName": "era_-1500_-1000.json",
+      "sizeBytes": 198620
+    },
+    {
+      "id": "-1000_-500",
+      "fromYear": -1000,
+      "toYear": -500,
+      "featureCount": 184,
+      "fileName": "era_-1000_-500.json",
+      "sizeBytes": 787925
+    },
+    {
+      "id": "-500_0",
+      "fromYear": -500,
+      "toYear": 0,
+      "featureCount": 1055,
+      "fileName": "era_-500_0.json",
+      "sizeBytes": 8265025
+    },
+    {
+      "id": "0_500",
+      "fromYear": 0,
+      "toYear": 500,
+      "featureCount": 928,
+      "fileName": "era_0_500.json",
+      "sizeBytes": 11178797
+    },
+    {
+      "id": "500_1000",
+      "fromYear": 500,
+      "toYear": 1000,
+      "featureCount": 2378,
+      "fileName": "era_500_1000.json",
+      "sizeBytes": 17409863
+    },
+    {
+      "id": "1000_1500",
+      "fromYear": 1000,
+      "toYear": 1500,
+      "featureCount": 3927,
+      "fileName": "era_1000_1500.json",
+      "sizeBytes": 21705080
+    },
+    {
+      "id": "1500_1600",
+      "fromYear": 1500,
+      "toYear": 1600,
+      "featureCount": 1117,
+      "fileName": "era_1500_1600.json",
+      "sizeBytes": 10702183
+    },
+    {
+      "id": "1600_1700",
+      "fromYear": 1600,
+      "toYear": 1700,
+      "featureCount": 1119,
+      "fileName": "era_1600_1700.json",
+      "sizeBytes": 14436692
+    },
+    {
+      "id": "1700_1800",
+      "fromYear": 1700,
+      "toYear": 1800,
+      "featureCount": 1475,
+      "fileName": "era_1700_1800.json",
+      "sizeBytes": 22209449
+    },
+    {
+      "id": "1800_1900",
+      "fromYear": 1800,
+      "toYear": 1900,
+      "featureCount": 2086,
+      "fileName": "era_1800_1900.json",
+      "sizeBytes": 36022151
+    },
+    {
+      "id": "1900_2000",
+      "fromYear": 1900,
+      "toYear": 2000,
+      "featureCount": 1715,
+      "fileName": "era_1900_2000.json",
+      "sizeBytes": 40896793
+    },
+    {
+      "id": "2000_2500",
+      "fromYear": 2000,
+      "toYear": 2500,
+      "featureCount": 430,
+      "fileName": "era_2000_2500.json",
+      "sizeBytes": 3358842
+    }
+  ]
+}
