@@ -1,0 +1,13 @@
+{
+  "versions": {
+    "questions_antiquity_completed.json": 1,
+    "questions_colonialism.json": 1,
+    "questions_medieval.json": 1,
+    "questions_modern.json": 1,
+    "questions_prehistory.json": 1,
+    "questions_revolutions.json": 1,
+    "questions_renaissance.json": 1,
+    "questions_mythology.json": 1,
+    "daily_facts.json": 1
+  }
+}
