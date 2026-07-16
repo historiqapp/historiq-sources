@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "id": "engineering_the_impossible",
+      "icon": "⚙️",
+      "title": "Engineering the Impossible",
+      "blurb": "From pyramid ramps to the atomic age — humanity building beyond its era.",
+      "lessonIds": [
+        "lesson_history_topic_history_era_history_ancient_antiquity_7fddcf_the_pharaohs_of_the_nile_95fc01_pharaohs_and_pyramids_of_ancient_egypt_3_5663fe",
+        "lesson_history_topic_history_era_history_ancient_antiquity_7fddcf_the_pharaohs_of_the_nile_95fc01_the_pharaohs_masters_of_the_nile_1_45d0c2",
+        "lesson_history_topic_history_era_history_the_middle_ages_eb26a0_the_viking_age_d3d057_viking_longships_and_legal_systems_2_e8b8bf",
+        "lesson_art_history_topic_art_history_era_art_history_ancient_art_architecture_92f3c7_rome_verism_engineering_17a4ac_roman_realism_and_engineering_marvels_2_27d764",
+        "lesson_history_topic_history_era_history_the_renaissance_reformation_de74fb_the_genius_of_da_vinci_80393b_da_vinci_s_multifaceted_mind_2_4a5400",
+        "lesson_history_topic_history_era_history_the_modern_era_d74e8a_wwii_the_global_firestorm_c9ce73_the_atomic_age_dawns_6_d5a7e1"
+      ]
+    },
+    {
+      "id": "cities_of_wisdom",
+      "icon": "📜",
+      "title": "Cities of Wisdom",
+      "blurb": "The libraries, academies and patrons that kept knowledge alive.",
+      "lessonIds": [
+        "lesson_history_topic_history_era_history_ancient_antiquity_7fddcf_mesopotamia_the_cradle_deb0b4_scribes_and_cities_of_mesopotamia_2_f5227c",
+        "lesson_history_topic_history_era_history_ancient_antiquity_7fddcf_the_empire_of_rome_b768d8_the_rise_and_fall_of_caesar_5_07df89",
+        "lesson_history_topic_history_era_history_ancient_antiquity_7fddcf_the_glory_of_greece_33cd05_the_golden_age_of_athens_3_b3afee",
+        "lesson_history_topic_history_era_history_the_middle_ages_eb26a0_the_islamic_golden_age_a7d850_wisdom_in_baghdad_2_84d630",
+        "lesson_art_history_topic_art_history_era_art_history_medieval_art_faith_symbolism_f5b27f_illuminated_manuscripts_329da4_monks_and_masterpieces_the_art_of_illumination_1_7d1d58",
+        "lesson_history_topic_history_era_history_the_renaissance_reformation_de74fb_the_medici_florence_b2c94b_the_medici_magic_1_542dae"
+      ]
+    },
+    {
+      "id": "wars_that_changed_everything",
+      "icon": "⚔️",
+      "title": "Wars That Changed Everything",
+      "blurb": "Five battlefields where history pivoted.",
+      "lessonIds": [
+        "lesson_history_topic_history_era_history_ancient_antiquity_7fddcf_the_glory_of_greece_33cd05_the_spartans_at_thermopylae_2_e7dbc8",
+        "lesson_history_topic_history_era_history_ancient_antiquity_7fddcf_the_empire_of_rome_b768d8_rome_s_pivotal_wars_and_leaders_4_09fb4f",
+        "lesson_history_topic_history_era_history_the_middle_ages_eb26a0_the_crusades_holy_war_892e62_the_siege_of_jerusalem_3_769378",
+        "lesson_history_topic_history_era_history_the_modern_era_d74e8a_wwi_the_great_war_b1fb6c_trench_warfare_and_total_war_3_71996d",
+        "lesson_history_topic_history_era_history_the_modern_era_d74e8a_wwii_the_global_firestorm_c9ce73_the_battle_of_stalingrad_turning_point_2_5962e4"
+      ]
+    },
+    {
+      "id": "golden_ages",
+      "icon": "👑",
+      "title": "Golden Ages",
+      "blurb": "Moments when a civilization hit its stride — and what it made.",
+      "lessonIds": [
+        "lesson_history_topic_history_era_history_ancient_antiquity_7fddcf_the_pharaohs_of_the_nile_95fc01_pharaohs_and_pyramids_the_golden_age_4_cfef71",
+        "lesson_history_topic_history_era_history_ancient_antiquity_7fddcf_the_glory_of_greece_33cd05_the_golden_age_of_athens_3_b3afee",
+        "lesson_history_topic_history_era_history_the_middle_ages_eb26a0_the_islamic_golden_age_a7d850_the_rise_of_the_islamic_golden_age_1_60649d",
+        "lesson_art_history_topic_art_history_era_art_history_renaissance_baroque_ad374d_high_renaissance_the_titans_fb9d28_titans_of_high_renaissance_1_ca8f27",
+        "lesson_history_topic_history_era_history_the_renaissance_reformation_de74fb_the_golden_age_of_elizabeth_a99bf0_elizabethan_splendor_and_sea_power_1_0c3a94",
+        "lesson_history_topic_history_era_history_the_modern_era_d74e8a_the_roaring_twenties_depression_420194_the_roaring_twenties_jazz_flappers_1_ce0efb"
+      ]
+    },
+    {
+      "id": "art_that_broke_rules",
+      "icon": "🎨",
+      "title": "Art That Broke the Rules",
+      "blurb": "Every generation of artists tearing up the last one's rulebook.",
+      "lessonIds": [
+        "lesson_art_history_topic_art_history_era_art_history_ancient_art_architecture_92f3c7_prehistoric_the_first_marks_a54c82_cave_chronicles_the_birth_of_art_1_a05760",
+        "lesson_art_history_topic_art_history_era_art_history_ancient_art_architecture_92f3c7_greece_the_pursuit_of_perfection_6b7735_from_stiff_statues_to_perfect_form_3_e058bb",
+        "lesson_art_history_topic_art_history_era_art_history_medieval_art_faith_symbolism_f5b27f_gothic_painting_with_light_d38d8d_gothic_grandeur_painting_with_light_1_017b79",
+        "lesson_art_history_topic_art_history_era_art_history_renaissance_baroque_ad374d_early_renaissance_perspective_066bb1_revolutionizing_art_through_perspective_3_dcf37e",
+        "lesson_art_history_topic_art_history_era_art_history_renaissance_baroque_ad374d_baroque_drama_light_c950a3_baroque_brilliance_drama_light_1_d4bb9c"
+      ]
+    }
+  ]
+}
