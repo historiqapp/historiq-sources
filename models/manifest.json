@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "hero_era_history_ancient_antiquity_7fddcf",
+      "file": "hero_era_history_ancient_antiquity_7fddcf.glb",
+      "url": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/models/hero_era_history_ancient_antiquity_7fddcf.glb",
+      "eraId": "era_history_ancient_antiquity_7fddcf",
+      "name": "Cosmic Buddha",
+      "bytes": 3980528,
+      "tris": 0,
+      "license": "CC0",
+      "attribution": "Cosmic Buddha · Northern Qi dynasty, 550–577 CE · Smithsonian National Museum of Asian Art (CC0)",
+      "source": "https://3d.si.edu"
+    },
+    {
+      "id": "hero_era_history_the_middle_ages_eb26a0",
+      "file": "hero_era_history_the_middle_ages_eb26a0.glb",
+      "url": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/models/hero_era_history_the_middle_ages_eb26a0.glb",
+      "eraId": "era_history_the_middle_ages_eb26a0",
+      "name": "Kneeling Winged Monster",
+      "bytes": 4169848,
+      "tris": 0,
+      "license": "CC0",
+      "attribution": "Kneeling Winged Monster · Northern Qi dynasty, 550–577 CE · Smithsonian National Museum of Asian Art (CC0)",
+      "source": "https://3d.si.edu"
+    },
+    {
+      "id": "hero_era_history_the_renaissance_reformation_de74fb",
+      "file": "hero_era_history_the_renaissance_reformation_de74fb.glb",
+      "url": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/models/hero_era_history_the_renaissance_reformation_de74fb.glb",
+      "eraId": "era_history_the_renaissance_reformation_de74fb",
+      "name": "The Greek Slave",
+      "bytes": 3803616,
+      "tris": 0,
+      "license": "CC0",
+      "attribution": "Model of the Greek Slave · Hiram Powers, 1844 · Smithsonian American Art Museum (CC0)",
+      "source": "https://3d.si.edu"
+    },
+    {
+      "id": "hero_era_history_the_modern_era_d74e8a",
+      "file": "hero_era_history_the_modern_era_d74e8a.glb",
+      "url": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/models/hero_era_history_the_modern_era_d74e8a.glb",
+      "eraId": "era_history_the_modern_era_d74e8a",
+      "name": "Apollo 11 Command Module \"Columbia\"",
+      "bytes": 4276276,
+      "tris": 0,
+      "license": "CC0",
+      "attribution": "Apollo 11 Command Module Columbia, 1969 · Smithsonian National Air and Space Museum (CC0)",
+      "source": "https://3d.si.edu"
+    },
+    {
+      "id": "hero_era_art_history_ancient_art_architecture_92f3c7",
+      "file": "hero_era_art_history_ancient_art_architecture_92f3c7.glb",
+      "url": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/models/hero_era_art_history_ancient_art_architecture_92f3c7.glb",
+      "eraId": "era_art_history_ancient_art_architecture_92f3c7",
+      "name": "Inlaid Bronze Incense Burner",
+      "bytes": 3075416,
+      "tris": 0,
+      "license": "CC0",
+      "attribution": "Inlaid bronze incense burner (boshanlu) · Western Han, 2nd c. BCE · Smithsonian National Museum of Asian Art (CC0)",
+      "source": "https://3d.si.edu"
+    },
+    {
+      "id": "hero_era_art_history_medieval_art_faith_symbolism_f5b27f",
+      "file": "hero_era_art_history_medieval_art_faith_symbolism_f5b27f.glb",
+      "url": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/models/hero_era_art_history_medieval_art_faith_symbolism_f5b27f.glb",
+      "eraId": "era_art_history_medieval_art_faith_symbolism_f5b27f",
+      "name": "Gathering of Buddhas and Bodhisattvas",
+      "bytes": 4400048,
+      "tris": 0,
+      "license": "CC0",
+      "attribution": "Buddhist stele relief, Xiangtangshan · Northern Qi, 550–577 CE · Smithsonian National Museum of Asian Art (CC0)",
+      "source": "https://3d.si.edu"
+    },
+    {
+      "id": "hero_era_art_history_renaissance_baroque_ad374d",
+      "file": "hero_era_art_history_renaissance_baroque_ad374d.glb",
+      "url": "https://raw.githubusercontent.com/historiqapp/historiq-sources/main/models/hero_era_art_history_renaissance_baroque_ad374d.glb",
+      "eraId": "era_art_history_renaissance_baroque_ad374d",
+      "name": "George Washington",
+      "bytes": 4223184,
+      "tris": 0,
+      "license": "CC0",
+      "attribution": "George Washington · Horatio Greenough, 1840 · Smithsonian American Art Museum (CC0)",
+      "source": "https://3d.si.edu"
+    }
+  ]
+}
